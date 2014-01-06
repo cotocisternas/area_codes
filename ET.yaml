@@ -1,0 +1,19 @@
+---
+- name: Addis Ababa
+  area_code: '1'
+- name: East Region
+  area_code: '5'
+- name: MOBILE PHONES
+  area_code: '9'
+- name: North East Region
+  area_code: '3'
+- name: North Region
+  area_code: '4'
+- name: North West Region
+  area_code: '8'
+- name: South East Region
+  area_code: '2'
+- name: Southern Region
+  area_code: '6'
+- name: Western Region
+  area_code: '7'

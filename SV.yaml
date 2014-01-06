@@ -1,0 +1,9 @@
+---
+- name: Central area
+  area_code: '32329'
+- name: Eastern area
+  area_code: '6627'
+- name: Metropolitan area
+  area_code: '2520212225'
+- name: Western area
+  area_code: '42428'

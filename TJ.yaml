@@ -1,0 +1,25 @@
+---
+- name: Bokhtar
+  area_code: '37745'
+- name: Dushanbe
+  area_code: '372'
+- name: Dusti
+  area_code: '3249'
+- name: Gharm
+  area_code: '3131'
+- name: Kairakkum
+  area_code: '34402'
+- name: Khorog
+  area_code: '35220'
+- name: Khujand
+  area_code: '3422'
+- name: Kolkhozabad
+  area_code: '3771'
+- name: Kulob
+  area_code: '3322'
+- name: Panjakent
+  area_code: '3475'
+- name: Qurghonteppa
+  area_code: '3222'
+- name: Shartuz
+  area_code: '3240'

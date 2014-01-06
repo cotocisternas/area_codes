@@ -1,0 +1,9 @@
+---
+- name: Coopers Town
+  area_code: '242'
+- name: Freeport
+  area_code: '242'
+- name: Nassau
+  area_code: '242'
+- name: West End
+  area_code: '242'

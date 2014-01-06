@@ -1,0 +1,135 @@
+---
+- name: An Giang
+  area_code: '7677'
+- name: Ba Ria
+  area_code: '64'
+- name: Bac Giang
+  area_code: '240'
+- name: Bac Kan
+  area_code: '281'
+- name: Bac Lieu
+  area_code: '781'
+- name: Bac Ninh
+  area_code: '241'
+- name: Ben Tre
+  area_code: '6275'
+- name: Binh Dinh
+  area_code: '56'
+- name: Binh Duong
+  area_code: '65650'
+- name: Binh Phuoc
+  area_code: '651'
+- name: Binh Thuan
+  area_code: '62'
+- name: Ca Mau
+  area_code: '780'
+- name: Can Tho
+  area_code: '71'
+- name: Cao Bang
+  area_code: '26'
+- name: Cuu Long
+  area_code: '70'
+- name: Da Nang
+  area_code: '51511'
+- name: Dak Lak
+  area_code: '50'
+- name: Dong Nai
+  area_code: '61'
+- name: Dong Thap
+  area_code: '67'
+- name: Gia Lai
+  area_code: '59'
+- name: Ha Giang
+  area_code: '19'
+- name: Ha Nam
+  area_code: '351'
+- name: Ha Tay
+  area_code: '34'
+- name: Ha Tinh
+  area_code: '39'
+- name: Hai Duong
+  area_code: '320'
+- name: Hai Phong
+  area_code: '31'
+- name: Hanoi
+  area_code: '4'
+- name: Hanoi City
+  area_code: '4'
+- name: Ho Chi Minh City
+  area_code: '8'
+- name: Ho Chi Minh City City (formerl
+  area_code: '8'
+- name: Hoa Binh
+  area_code: '18'
+- name: Hung Yen
+  area_code: '321'
+- name: Khanh Hoa
+  area_code: '58'
+- name: Kien Giang
+  area_code: '77'
+- name: Kon Tum
+  area_code: '60'
+- name: Lai Chau
+  area_code: '23'
+- name: Lang Son
+  area_code: '25'
+- name: Lao Cai
+  area_code: '20'
+- name: Long An
+  area_code: '72'
+- name: Long Xuyen
+  area_code: '76'
+- name: Minh Hai
+  area_code: '78'
+- name: Nam Dinh
+  area_code: '350'
+- name: Nghe An
+  area_code: '38'
+- name: Nin Thuan
+  area_code: '68'
+- name: Ninh Binh
+  area_code: '30'
+- name: Phu Tho
+  area_code: '210'
+- name: Phu Yen
+  area_code: '57'
+- name: Quang Binh
+  area_code: '52'
+- name: Quang Nam
+  area_code: '510'
+- name: Quang Ngai
+  area_code: '55'
+- name: Quang Tri
+  area_code: '53'
+- name: Quant Ninh
+  area_code: '33'
+- name: Soc Trang
+  area_code: '79'
+- name: Son La
+  area_code: '22'
+- name: Tay Ninh
+  area_code: '66'
+- name: Thai Binh
+  area_code: '36'
+- name: Thai Nguyen
+  area_code: '280'
+- name: Thanh Hoa
+  area_code: '37'
+- name: Thua Thien Hue
+  area_code: '54'
+- name: Thuan Lam Dong
+  area_code: '63'
+- name: Tien Giang
+  area_code: '73'
+- name: Tra Vinh
+  area_code: '74'
+- name: Tuyen Quang
+  area_code: '27'
+- name: Vinh Long
+  area_code: '70'
+- name: Vinh Phu
+  area_code: '211'
+- name: Vung Tau
+  area_code: '64'
+- name: Yen Bai
+  area_code: '29'

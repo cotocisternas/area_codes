@@ -1,0 +1,35 @@
+---
+- name: Changhua
+  area_code: '4'
+- name: Chiayi County
+  area_code: '5'
+- name: Chunan
+  area_code: '37'
+- name: Chunghsing-Hsintsun
+  area_code: '49'
+- name: Chungli
+  area_code: '3'
+- name: Fengyuan
+  area_code: '4'
+- name: Hsiaying
+  area_code: '6'
+- name: Hualien
+  area_code: '38'
+- name: Kaohsiung
+  area_code: '7'
+- name: Keelung
+  area_code: '2'
+- name: Lotung
+  area_code: '39'
+- name: Pingtung
+  area_code: '8'
+- name: Taichung
+  area_code: '4'
+- name: Tainan
+  area_code: '6'
+- name: Taipei
+  area_code: '2'
+- name: Taitung
+  area_code: '89'
+- name: Taoyuan
+  area_code: '3'

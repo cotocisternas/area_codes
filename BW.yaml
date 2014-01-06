@@ -1,0 +1,43 @@
+---
+- name: Barolong/Ngwaketse
+  area_code: '54'
+- name: Francistown
+  area_code: '24'
+- name: Gaborone
+  area_code: '31'
+- name: Gaborone
+  area_code: '35'
+- name: Gaborone
+  area_code: '36'
+- name: Gantsi
+  area_code: '65'
+- name: Jwaneng
+  area_code: '58'
+- name: Kanye
+  area_code: '340'
+- name: Kasane
+  area_code: '62'
+- name: Letlhakane/Orapa
+  area_code: '29'
+- name: Lobatse
+  area_code: '53'
+- name: Mahalapye
+  area_code: '47'
+- name: Maun
+  area_code: '68'
+- name: Mobile Phones - Mascom
+  area_code: '71'
+- name: Mobile Phones - Orange
+  area_code: '72'
+- name: Mochudi
+  area_code: '57'
+- name: Molepolole
+  area_code: '59'
+- name: Palapye
+  area_code: '49'
+- name: Ramotswa
+  area_code: '53'
+- name: Selebi-Phikwe
+  area_code: '26'
+- name: Serowe
+  area_code: '46'

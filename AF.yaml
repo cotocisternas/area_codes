@@ -1,0 +1,13 @@
+---
+- name: Heart
+  area_code: '40'
+- name: Jalalabad
+  area_code: '60'
+- name: Kabul
+  area_code: '20'
+- name: Kandahar
+  area_code: '30'
+- name: Mazar-E-Sherif
+  area_code: '50'
+- name: Mobile Phones
+  area_code: '70'

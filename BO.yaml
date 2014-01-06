@@ -1,0 +1,41 @@
+---
+- name: Bermejo
+  area_code: '4'
+- name: Caranavi
+  area_code: '2'
+- name: Cobija
+  area_code: '3'
+- name: Cochabamba
+  area_code: '4'
+- name: Guayaramerín
+  area_code: '3'
+- name: La Paz
+  area_code: '2'
+- name: Mobile Phones - Entel (GSM 190)
+  area_code: '72'
+- name: Mobile Phones - Entel (TDMA)
+  area_code: '71'
+- name: Mobile Phones - Telecel
+  area_code: '77'
+- name: Mobile Phones - Viva
+  area_code: '70'
+- name: Oruro
+  area_code: '2'
+- name: Potosi
+  area_code: '2'
+- name: Riberalta
+  area_code: '3'
+- name: Santa Ana
+  area_code: '3'
+- name: Santa Cruz
+  area_code: '3'
+- name: Sucre
+  area_code: '4'
+- name: Tarija
+  area_code: '4'
+- name: Trinidad
+  area_code: '3'
+- name: Villazón
+  area_code: '2'
+- name: Yacuiba
+  area_code: '4'

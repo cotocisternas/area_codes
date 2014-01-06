@@ -1,0 +1,33 @@
+---
+- name: Barcelona
+  area_code: '281'
+- name: Barquisimeto
+  area_code: '251'
+- name: Cabimas
+  area_code: '264'
+- name: Caracas
+  area_code: '212'
+- name: Ciudad Bolivar
+  area_code: '285'
+- name: Coro
+  area_code: '268'
+- name: Cumana
+  area_code: '293'
+- name: Los Teques
+  area_code: '212'
+- name: Maiquetia
+  area_code: '212'
+- name: Maracaibo
+  area_code: '261'
+- name: Maracay
+  area_code: '243'
+- name: Maturin
+  area_code: '291'
+- name: Merida
+  area_code: '274'
+- name: Puerto Cabello
+  area_code: '242'
+- name: San Cristobal
+  area_code: '276'
+- name: Valencia
+  area_code: '241'

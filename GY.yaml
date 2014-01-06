@@ -1,0 +1,29 @@
+---
+- name: Anna Regina
+  area_code: '278'
+- name: Bartica
+  area_code: '455'
+- name: Cove & John
+  area_code: '229'
+- name: Ituni
+  area_code: '441'
+- name: Linden
+  area_code: '444'
+- name: Mabaruma
+  area_code: '777'
+- name: Mahaica
+  area_code: '228'
+- name: Mahaicony
+  area_code: '221'
+- name: New Amsterdam
+  area_code: '333'
+- name: New Hope
+  area_code: '266'
+- name: Rosignol
+  area_code: '330'
+- name: Timehri
+  area_code: '261'
+- name: Vreed-En-Hoop
+  area_code: '264'
+- name: Whim
+  area_code: '337'

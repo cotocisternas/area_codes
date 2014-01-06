@@ -1,0 +1,5 @@
+---
+- name: Dakar
+  area_code: '8'
+- name: Outside Dakar
+  area_code: '9'

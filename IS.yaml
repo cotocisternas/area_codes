@@ -1,0 +1,5 @@
+---
+- name: Outside Reykjavík
+  area_code: '4'
+- name: Reykjavík
+  area_code: '5'

@@ -1,0 +1,17 @@
+---
+- name: Alotau/Daru/Kerema
+  area_code: '3464'
+- name: Arawa/Rabaul
+  area_code: '95969798'
+- name: Goroka
+  area_code: '7071727374'
+- name: Lae and Manus/Morobe
+  area_code: '45464849'
+- name: Lae/Manus
+  area_code: '47'
+- name: Madang/Wewal
+  area_code: '84858687'
+- name: Mt. Hagen
+  area_code: '5253545556'
+- name: Port Moresby
+  area_code: '303132333536373839'

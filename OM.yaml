@@ -1,0 +1,9 @@
+---
+- name: A Dakhliyah
+  area_code: '25'
+- name: Al Batinah
+  area_code: '26'
+- name: Dhofar
+  area_code: '23'
+- name: Muscat
+  area_code: '24'

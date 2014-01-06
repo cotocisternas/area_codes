@@ -1,0 +1,57 @@
+---
+- name: Bafatá
+  area_code: +245    41XXXX
+- name: Bambadinca
+  area_code: +245    41XXXX
+- name: Bedanda
+  area_code: +245    61XXXX
+- name: Bigene
+  area_code: +245    32XXXX
+- name: Bissorã
+  area_code: +245    32XXXX
+- name: Bolama
+  area_code: +245    81XXXX
+- name: Brá
+  area_code: +245    25XXXX
+- name: Buba
+  area_code: +245    61XXXX
+- name: Bubaque
+  area_code: +245    82XXXX
+- name: Bula
+  area_code: +245    33XXXX
+- name: Cacheu
+  area_code: +245    92XXXX
+- name: Cacine
+  area_code: +245    61XXXX
+- name: Canchungo
+  area_code: +245    91XXXX
+- name: Caravela
+  area_code: +245    83XXXX
+- name: Catio
+  area_code: +245    61XXXX
+- name: Farim
+  area_code: +245    35XXXX
+- name: Fulacunda
+  area_code: +245    61XXXX
+- name: Gabú
+  area_code: +245    51XXXX
+- name: Ingore
+  area_code: +245    33XXXX
+- name: Mansoa
+  area_code: +245    31XXXX
+- name: Manssabá
+  area_code: +245    31XXXX
+- name: Pirada
+  area_code: +245    53XXXX
+- name: Quebo
+  area_code: +245    62XXXX
+- name: S. Domingos
+  area_code: +245    93XXXX
+- name: S. Luzia
+  area_code: +245    22XXXX
+- name: Sonaco
+  area_code: +245    52XXXX
+- name: Tite
+  area_code: +245    61XXXX
+- name: Uno
+  area_code: +245    84XXXX

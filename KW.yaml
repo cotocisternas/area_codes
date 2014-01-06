@@ -1,0 +1,59 @@
+---
+- name: Abdalli
+  area_code: '470'
+- name: Ahmadi
+  area_code: '398'
+- name: Ahmadi & Umm-Alhaiman
+  area_code: '327328'
+- name: Ardhiyah
+  area_code: '480488489'
+- name: Fahaheel
+  area_code: '391392'
+- name: Farwaniah
+  area_code: '471472473474476'
+- name: Free Trade Zone
+  area_code: '461'
+- name: Funtas
+  area_code: '390'
+- name: Hawalli
+  area_code: '261262263264265266'
+- name: Jaber Al-Ali
+  area_code: '383384'
+- name: Jabriyah
+  area_code: '531532533534'
+- name: Jahra
+  area_code: '477'
+- name: Jahra-B
+  area_code: '455456457458'
+- name: Jaleeb Al-Shuyoukh
+  area_code: '431'
+- name: Manqaf & Shuiba
+  area_code: '371372376'
+- name: Mushrif
+  area_code: '538'
+- name: Nuzha
+  area_code: '224251252253254255256257258259'
+- name: Qurain
+  area_code: '541542543544'
+- name: Ras Salmiyah
+  area_code: '571572573574575'
+- name: Rekka
+  area_code: '394396'
+- name: Sabah Salem
+  area_code: '551552'
+- name: Safat
+  area_code: '240241242243244245246247248249'
+- name: Salmiyah
+  area_code: '561562563564565'
+- name: Shuwaikh
+  area_code: '481483484'
+- name: South Subahiyah
+  area_code: '361362'
+- name: Sulaibikhat
+  area_code: '487'
+- name: Sulaibiyah
+  area_code: '467'
+- name: Wafra
+  area_code: '381'
+- name: Zoor
+  area_code: '395'

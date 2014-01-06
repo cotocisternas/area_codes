@@ -1,0 +1,21 @@
+---
+- name: Bassein
+  area_code: '42'
+- name: Dawei
+  area_code: '59'
+- name: Hpa-An
+  area_code: '58'
+- name: Mandalay
+  area_code: '2'
+- name: Mawlamyine
+  area_code: '57'
+- name: Monywa
+  area_code: '71'
+- name: Myeik
+  area_code: '59'
+- name: Prome
+  area_code: '53'
+- name: Thaton
+  area_code: '57'
+- name: Yangon (Rangoon)
+  area_code: '1'

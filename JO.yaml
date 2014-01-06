@@ -1,0 +1,39 @@
+---
+- name: Ajloun
+  area_code: '2'
+- name: Aqaba
+  area_code: '3'
+- name: Azraq
+  area_code: '5'
+- name: Balqa
+  area_code: '5'
+- name: Greater Amman
+  area_code: '6'
+- name: Irbid
+  area_code: '2'
+- name: Jerash
+  area_code: '2'
+- name: Karak
+  area_code: '3'
+- name: Ma'an
+  area_code: '3'
+- name: Madaba
+  area_code: '5'
+- name: Mafraq
+  area_code: '2'
+- name: Mobile Phones - Fastlink
+  area_code: '79'
+- name: Mobile Phones - Mobilecom
+  area_code: '77'
+- name: Petra
+  area_code: '3'
+- name: Ramtha
+  area_code: '2'
+- name: Salt
+  area_code: '5'
+- name: Tafila
+  area_code: '3'
+- name: Wadi Rum
+  area_code: '3'
+- name: Zarqa
+  area_code: '5'

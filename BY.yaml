@@ -1,0 +1,263 @@
+---
+- name: Brest Oblast
+  area_code: '16'
+- name: Brest Oblast - Baranovichi
+  area_code: '163'
+- name: Brest Oblast - Bereza
+  area_code: '1643'
+- name: Brest Oblast - Brest
+  area_code: '162'
+- name: Brest Oblast - Drogichin
+  area_code: '1644'
+- name: Brest Oblast - Gancevichi
+  area_code: '1646'
+- name: Brest Oblast - Ivanovo
+  area_code: '1652'
+- name: Brest Oblast - Ivatsevichi
+  area_code: '1645'
+- name: Brest Oblast - Kamenets
+  area_code: '1631'
+- name: Brest Oblast - Kobrin
+  area_code: '1642'
+- name: Brest Oblast - Luninets
+  area_code: '1647'
+- name: Brest Oblast - Lyahovichi
+  area_code: '1633'
+- name: Brest Oblast - Malorita
+  area_code: '1651'
+- name: Brest Oblast - Pinsk
+  area_code: '165'
+- name: Brest Oblast - Pruzhanu
+  area_code: '1632'
+- name: Brest Oblast - Stolin
+  area_code: '1655'
+- name: Brest Oblast - Zhabinka
+  area_code: '1641'
+- name: Gomel Oblast - Bragin
+  area_code: '2344'
+- name: Gomel Oblast - Buda-Koshelevo
+  area_code: '2336'
+- name: Gomel Oblast - Chechersk
+  area_code: '2332'
+- name: Gomel Oblast - Dobrush
+  area_code: '2333'
+- name: Gomel Oblast - Elsk
+  area_code: '2354'
+- name: Gomel Oblast - Gomel
+  area_code: '2322'
+- name: Gomel Oblast - Hoyniki
+  area_code: '2346'
+- name: Gomel Oblast - Kalinkovichi
+  area_code: '2345'
+- name: Gomel Oblast - Korma
+  area_code: '2337'
+- name: Gomel Oblast - Lelchitsu
+  area_code: '2356'
+- name: Gomel Oblast - Loev
+  area_code: '2347'
+- name: Gomel Oblast - Mozur
+  area_code: '2351'
+- name: Gomel Oblast - Narovlya
+  area_code: '2355'
+- name: Gomel Oblast - Oktyabrski
+  area_code: '2357'
+- name: Gomel Oblast - Petrikov
+  area_code: '2350'
+- name: Gomel Oblast - Rechitsa
+  area_code: '2340'
+- name: Gomel Oblast - Rogachev
+  area_code: '2339'
+- name: Gomel Oblast - Svetlogorsk
+  area_code: '2342'
+- name: Gomel Oblast - Vetka
+  area_code: '2330'
+- name: Gomel Oblast - Zhitkovichi
+  area_code: '2353'
+- name: Gomel Oblast - Zhlobin
+  area_code: '2334'
+- name: Grodno Oblast - Berestovitsa
+  area_code: '1511'
+- name: Grodno Oblast - Dyatlovo
+  area_code: '1563'
+- name: Grodno Oblast - Grodno
+  area_code: '152'
+- name: Grodno Oblast - Grodno
+  area_code: '1522'
+- name: Grodno Oblast - Ivye
+  area_code: '1595'
+- name: Grodno Oblast - Korelichi
+  area_code: '1596'
+- name: Grodno Oblast - Lida
+  area_code: '1561'
+- name: Grodno Oblast - Mostu
+  area_code: '1515'
+- name: Grodno Oblast - Nobogrudok
+  area_code: '1597'
+- name: Grodno Oblast - Oshmyanu
+  area_code: '1593'
+- name: Grodno Oblast - Ostrovets
+  area_code: '1591'
+- name: Grodno Oblast - Shchuchin
+  area_code: '1514'
+- name: Grodno Oblast - Slonim
+  area_code: '1562'
+- name: Grodno Oblast - Smorgon
+  area_code: '1592'
+- name: Grodno Oblast - Svisloch
+  area_code: '1513'
+- name: Grodno Oblast - Volkovusk
+  area_code: '1512'
+- name: Grodno Oblast - Voronovo
+  area_code: '1594'
+- name: Grodno Oblast - Zelva
+  area_code: '1564'
+- name: Minsk Oblast - Berezino
+  area_code: '1715'
+- name: Minsk Oblast - Borisov
+  area_code: '1777'
+- name: Minsk Oblast - Cherven
+  area_code: '1714'
+- name: Minsk Oblast - Dzerzhinsk
+  area_code: '1716'
+- name: Minsk Oblast - Kletsk
+  area_code: '1793'
+- name: Minsk Oblast - Kopul
+  area_code: '1719'
+- name: Minsk Oblast - Krupki
+  area_code: '1796'
+- name: Minsk Oblast - Logoysk
+  area_code: '1774'
+- name: Minsk Oblast - Lyuban
+  area_code: '1794'
+- name: Minsk Oblast - Maryina Gorka
+  area_code: '1713'
+- name: Minsk Oblast - Minsk
+  area_code: '17'
+- name: Minsk Oblast - Molodechno
+  area_code: '1773'
+- name: Minsk Oblast - Myadel
+  area_code: '1797'
+- name: Minsk Oblast - Naroch
+  area_code: '1797'
+- name: Minsk Oblast - Nesvizh
+  area_code: '1770'
+- name: Minsk Oblast - Pleshchenitsu
+  area_code: '1779'
+- name: Minsk Oblast - Puhovichi
+  area_code: '1713'
+- name: Minsk Oblast - Slutsk
+  area_code: '1795'
+- name: Minsk Oblast - Smolevichi
+  area_code: '1776'
+- name: Minsk Oblast - Soligorsk
+  area_code: '1710'
+- name: Minsk Oblast - Starye Dorogi
+  area_code: '1792'
+- name: Minsk Oblast - Stolbtsu
+  area_code: '1717'
+- name: Minsk Oblast - Uzda
+  area_code: '1718'
+- name: Minsk Oblast - Vileyka
+  area_code: '1771'
+- name: Minsk Oblast - Volozhin
+  area_code: '1772'
+- name: Minsk Oblast - Zhodino
+  area_code: '1775'
+- name: Mogilev Oblast - Belunichi
+  area_code: '2232'
+- name: Mogilev Oblast - Bobruysk
+  area_code: '225'
+- name: Mogilev Oblast - Bobruysk
+  area_code: '2251'
+- name: Mogilev Oblast - Buhov
+  area_code: '2231'
+- name: Mogilev Oblast - Chausu
+  area_code: '2242'
+- name: Mogilev Oblast - Cherikov
+  area_code: '2243'
+- name: Mogilev Oblast - Dribin
+  area_code: '2248'
+- name: Mogilev Oblast - Glusk
+  area_code: '2230'
+- name: Mogilev Oblast - Gorki
+  area_code: '2233'
+- name: Mogilev Oblast - Hotimsk
+  area_code: '2247'
+- name: Mogilev Oblast - Kirovsk
+  area_code: '2237'
+- name: Mogilev Oblast - Klichev
+  area_code: '2236'
+- name: Mogilev Oblast - Klimovichi
+  area_code: '2244'
+- name: Mogilev Oblast - Kostyukovichi
+  area_code: '2245'
+- name: Mogilev Oblast - Krasnopolye
+  area_code: '2238'
+- name: Mogilev Oblast - Krichev
+  area_code: '2241'
+- name: Mogilev Oblast - Krugloye
+  area_code: '2234'
+- name: Mogilev Oblast - Mogilev
+  area_code: '222'
+- name: Mogilev Oblast - Mstislavl
+  area_code: '2240'
+- name: Mogilev Oblast - Osipovichi
+  area_code: '2235'
+- name: Mogilev Oblast - Shklov
+  area_code: '2239'
+- name: Mogilev Oblast - Slavgorod
+  area_code: '2246'
+- name: Region Codes - Gomel Oblast
+  area_code: '23'
+- name: Region Codes - Grodno Oblast
+  area_code: '15'
+- name: Region Codes - Minsk Oblast
+  area_code: '17'
+- name: Region Codes - Mogilev Oblast
+  area_code: '22'
+- name: Region Codes - Vitebsk Oblast
+  area_code: '21'
+- name: Vitebsk Oblast - Beshenkovichi
+  area_code: '2131'
+- name: Vitebsk Oblast - Braslav
+  area_code: '2153'
+- name: Vitebsk Oblast - Chashniki
+  area_code: '2133'
+- name: Vitebsk Oblast - Dokshitsu
+  area_code: '2157'
+- name: Vitebsk Oblast - Dubrova
+  area_code: '2137'
+- name: Vitebsk Oblast - Glubokoye
+  area_code: '2156'
+- name: Vitebsk Oblast - Gorodok
+  area_code: '2139'
+- name: Vitebsk Oblast - Lepel
+  area_code: '2132'
+- name: Vitebsk Oblast - Liozno
+  area_code: '2138'
+- name: Vitebsk Oblast - Mioru
+  area_code: '2152'
+- name: Vitebsk Oblast - Novopolotsk
+  area_code: '214'
+- name: Vitebsk Oblast - Orsha
+  area_code: '2161'
+- name: Vitebsk Oblast - Polotsk
+  area_code: '214'
+- name: Vitebsk Oblast - Postavu
+  area_code: '2155'
+- name: Vitebsk Oblast - Rossonu
+  area_code: '2159'
+- name: Vitebsk Oblast - Senno
+  area_code: '2135'
+- name: Vitebsk Oblast - Sharkovshchin
+  area_code: '2154'
+- name: Vitebsk Oblast - Shumilino
+  area_code: '2130'
+- name: Vitebsk Oblast - Tolochin
+  area_code: '2136'
+- name: Vitebsk Oblast - Ushachi
+  area_code: '2158'
+- name: Vitebsk Oblast - Verhnedvinsk
+  area_code: '2151'
+- name: Vitebsk Oblast - Vitebsk
+  area_code: '212'

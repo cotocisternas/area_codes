@@ -1,0 +1,15 @@
+---
+- name: Labasa
+  area_code: '88'
+- name: Sigatoka
+  area_code: '65'
+- name: Sigatoka
+  area_code: '66'
+- name: Sigatoka
+  area_code: '67'
+- name: Suva
+  area_code: '32'
+- name: Suva
+  area_code: '33'
+- name: Suva
+  area_code: '34'

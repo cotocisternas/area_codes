@@ -1,0 +1,69 @@
+---
+- name: Bali
+  area_code: '36'
+- name: Batam
+  area_code: '77'
+- name: Betung
+  area_code: '22'
+- name: Bintan
+  area_code: '770'
+- name: Bogor
+  area_code: '25'
+- name: Cirebon
+  area_code: '23'
+- name: Demak
+  area_code: '29'
+- name: Denpasar
+  area_code: '36'
+- name: Ende
+  area_code: '38'
+- name: Irian
+  area_code: '9'
+- name: Jakarta
+  area_code: '21'
+- name: Jember
+  area_code: '33'
+- name: Jombang
+  area_code: '32'
+- name: Kalimantan Islet
+  area_code: '5'
+- name: Kupang
+  area_code: '39'
+- name: Madiun
+  area_code: '35'
+- name: Malaku Islets
+  area_code: '5'
+- name: Malang
+  area_code: '34'
+- name: Medan
+  area_code: '61'
+- name: North Sumatra
+  area_code: '6'
+- name: Padang
+  area_code: '75'
+- name: Palembang
+  area_code: '71'
+- name: Purwakarta
+  area_code: '28'
+- name: Riau
+  area_code: '76'
+- name: Sekurang
+  area_code: '778'
+- name: Semarang
+  area_code: '24'
+- name: Solo
+  area_code: '27'
+- name: Sulawesi Islet
+  area_code: '4'
+- name: Sumbawa
+  area_code: '37'
+- name: Sumedang
+  area_code: '26'
+- name: Surabaya
+  area_code: '31'
+- name: Tanjungkarang
+  area_code: '72'
+- name: West Sumatra
+  area_code: '75'
+- name: Yogyakarta
+  area_code: '27'

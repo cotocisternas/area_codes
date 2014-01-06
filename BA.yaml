@@ -1,0 +1,53 @@
+---
+- name: Banja Luka
+  area_code: '51'
+- name: Bijeljina
+  area_code: '55'
+- name: Bosansko - Podrinjska Županija
+  area_code: '38'
+- name: Distrikt Brcko
+  area_code: '49'
+- name: Doboj
+  area_code: '53'
+- name: Foca/Srbinje
+  area_code: '58'
+- name: Herceg
+  area_code: '34'
+- name: Hercegovac
+  area_code: '36'
+- name: Kanton Sarajevo
+  area_code: '33'
+- name: Mobile Phones - BH Telecom
+  area_code: '6162'
+- name: Mobile Phones - Eronet
+  area_code: '63'
+- name: Mobile Phones - Moblna Skpske
+  area_code: '65'
+- name: Mrkonjic' Grad
+  area_code: '50'
+- name: Posavska Županija
+  area_code: '31'
+- name: Prijedor
+  area_code: '52'
+- name: Sarajevska Županija
+  area_code: '33'
+- name: Srbinje
+  area_code: '58'
+- name: Srednjo
+  area_code: '30'
+- name: Srpsko Sarajevo
+  area_code: '57'
+- name: Trebinje
+  area_code: '59'
+- name: Tuzlanska Županija
+  area_code: '35'
+- name: Unsko
+  area_code: '37'
+- name: Zapadno
+  area_code: '39'
+- name: Zenic
+  area_code: '32'
+- name: Zvornik
+  area_code: '56'
+- name: Šamac
+  area_code: '54'

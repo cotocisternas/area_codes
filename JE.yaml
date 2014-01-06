@@ -1,0 +1,9 @@
+---
+- name: Landlines
+  area_code: '1534'
+- name: Mobile Phones - Jersey Telecom
+  area_code: '7797'
+- name: Mobile Phones - Sure Mobile
+  area_code: '7700'
+- name: Mobile Phones - Vodafone Mobile
+  area_code: '7829'

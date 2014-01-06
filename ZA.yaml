@@ -1,0 +1,35 @@
+---
+- name: Bloemfontein
+  area_code: '51'
+- name: Cape Town
+  area_code: '21'
+- name: De Aar
+  area_code: '571'
+- name: Durban
+  area_code: '31'
+- name: East London
+  area_code: '431'
+- name: Gordons Bay
+  area_code: '24'
+- name: Johannesburg
+  area_code: '11'
+- name: Johannesburg CBD
+  area_code: '102'
+- name: Johannesburg CBD
+  area_code: '103'
+- name: La Lucia
+  area_code: '31'
+- name: Pietermaritzburg
+  area_code: '331'
+- name: Port Elizabeth
+  area_code: '41'
+- name: Pretoria
+  area_code: '12'
+- name: Sasolburg
+  area_code: '16'
+- name: Somerset West
+  area_code: '21'
+- name: Uitenhage
+  area_code: '41'
+- name: Welkom
+  area_code: '57'

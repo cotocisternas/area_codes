@@ -1,0 +1,15 @@
+---
+- name: Brunei/Muara
+  area_code: '2'
+- name: Kuala Belait
+  area_code: '3'
+- name: MOBILE PHONES
+  area_code: '86'
+- name: MOBILE PHONES
+  area_code: '87'
+- name: MOBILE PHONES
+  area_code: '88'
+- name: Temburong
+  area_code: '5'
+- name: Tutong
+  area_code: '4'

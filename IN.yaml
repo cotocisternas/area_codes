@@ -1,0 +1,99 @@
+---
+- name: Agra
+  area_code: '562'
+- name: Ahmedabad
+  area_code: '79'
+- name: Ajmer
+  area_code: '145'
+- name: Alwar
+  area_code: '144'
+- name: Amritsar
+  area_code: '183'
+- name: Aurangabad
+  area_code: '2432'
+- name: Bangalore
+  area_code: '80'
+- name: Barmer
+  area_code: '2982'
+- name: Baroda
+  area_code: '265'
+- name: Beawar
+  area_code: '1462'
+- name: Bharatpur
+  area_code: '5644'
+- name: Bhilwara
+  area_code: '1482'
+- name: Bhopal
+  area_code: '755'
+- name: Bikaner
+  area_code: '151'
+- name: Bundi
+  area_code: '747'
+- name: Chandigarh
+  area_code: '172'
+- name: Chennai (formerly Madras)
+  area_code: '44'
+- name: Chittorgarh
+  area_code: '8572'
+- name: Coimbator
+  area_code: '422'
+- name: Dehradun
+  area_code: '135'
+- name: Delhi
+  area_code: '11'
+- name: Deogarh
+  area_code: '6432'
+- name: Dholpur
+  area_code: '5642'
+- name: Fathepur Sikri
+  area_code: '5619'
+- name: Hyderabad
+  area_code: '40'
+- name: Jaipur
+  area_code: '141'
+- name: Jullundur
+  area_code: '181'
+- name: Kanpur
+  area_code: '512'
+- name: Kolkatta (formerly Calcutta)
+  area_code: '33'
+- name: Kota
+  area_code: '744'
+- name: Lucknow
+  area_code: '522'
+- name: Manipal
+  area_code: '8252'
+- name: Mount Abu
+  area_code: '2974'
+- name: Mumbai (formerly Bombay )
+  area_code: '22'
+- name: Mussooree
+  area_code: '1362'
+- name: Mysore
+  area_code: '821'
+- name: Nagaur
+  area_code: '1582'
+- name: New Delhi
+  area_code: '11'
+- name: Patna
+  area_code: '612'
+- name: Pune (formerly Poona)
+  area_code: '20'
+- name: Pushkar
+  area_code: '145'
+- name: Rajkot
+  area_code: '281'
+- name: Ranthambhore Natl. Park
+  area_code: '7462'
+- name: Sariska
+  area_code: '144'
+- name: Simla
+  area_code: '177'
+- name: Srinagar
+  area_code: '194'
+- name: Surat
+  area_code: '261'
+- name: Udaipur
+  area_code: '294'
+- name: Vadodara
+  area_code: '265'

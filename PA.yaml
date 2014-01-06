@@ -1,0 +1,9 @@
+---
+- name: Bocas del Toro
+  area_code: '7'
+- name: Colon
+  area_code: '4'
+- name: Los Santos
+  area_code: '9'
+- name: Panama City
+  area_code: '23'

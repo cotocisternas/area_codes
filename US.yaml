@@ -1,0 +1,641 @@
+---
+- name: Abilene
+  area_code: '325'
+- name: Akron
+  area_code: '330'
+- name: Akron
+  area_code: '234'
+- name: Albany
+  area_code: '518'
+- name: Albany
+  area_code: '229'
+- name: Albuquerque
+  area_code: '957'
+- name: Albuquerque
+  area_code: '505'
+- name: Alexandria
+  area_code: '320'
+- name: Alton
+  area_code: '730'
+- name: Alton
+  area_code: '618'
+- name: Anaheim
+  area_code: '657'
+- name: Anaheim
+  area_code: '909'
+- name: Anaheim
+  area_code: '752'
+- name: Anaheim
+  area_code: '714'
+- name: Anchorage
+  area_code: '907'
+- name: Ann Arbor
+  area_code: '734'
+- name: Ann Arbor
+  area_code: '278'
+- name: Arlington
+  area_code: '703'
+- name: Arlington
+  area_code: '571'
+- name: Asheville
+  area_code: '828'
+- name: Ashland
+  area_code: '606'
+- name: Atlanta
+  area_code: '404'
+- name: Atlanta
+  area_code: '770'
+- name: Atlanta
+  area_code: '678'
+- name: Atlanta
+  area_code: '470'
+- name: Atlantic City
+  area_code: '609'
+- name: Augusta
+  area_code: '762'
+- name: Augusta
+  area_code: '706'
+- name: Aurora
+  area_code: '331'
+- name: Austin
+  area_code: '737'
+- name: Austin
+  area_code: '512'
+- name: Baltimore
+  area_code: '667'
+- name: Baltimore
+  area_code: '443'
+- name: Baltimore
+  area_code: '410'
+- name: Baton Rouge
+  area_code: '225'
+- name: Bellevue
+  area_code: '425'
+- name: Bellingham
+  area_code: '360'
+- name: Bethesda
+  area_code: '240'
+- name: Bethlehem
+  area_code: '610'
+- name: Bethlehem
+  area_code: '484'
+- name: Bethlehem
+  area_code: '835'
+- name: Billings
+  area_code: '406'
+- name: Biloxi
+  area_code: '228'
+- name: Birmingham
+  area_code: '659'
+- name: Birmingham
+  area_code: '205'
+- name: Bloomington
+  area_code: '952'
+- name: Boise
+  area_code: '208'
+- name: Boston
+  area_code: '857'
+- name: Boston
+  area_code: '617'
+- name: Brattleboro
+  area_code: '802'
+- name: Brentwood
+  area_code: '631'
+- name: Bridgeport
+  area_code: '203'
+- name: Bridgeport
+  area_code: '475'
+- name: Brooklyn
+  area_code: '718'
+- name: Brooklyn
+  area_code: '347'
+- name: Bryan
+  area_code: '979'
+- name: Burbank
+  area_code: '818'
+- name: Burbank
+  area_code: '747'
+- name: Camden
+  area_code: '856'
+- name: Cape Coral
+  area_code: '239'
+- name: Cedar Rapids
+  area_code: '319'
+- name: Champaign
+  area_code: '447'
+- name: Champaign
+  area_code: '217'
+- name: Charleston
+  area_code: '843'
+- name: Charleston
+  area_code: '681'
+- name: Charleston
+  area_code: '304'
+- name: Charlotte
+  area_code: '980'
+- name: Charlotte
+  area_code: '704'
+- name: Chattanooga
+  area_code: '423'
+- name: Chicago
+  area_code: '872'
+- name: Chicago
+  area_code: '773'
+- name: Chicago
+  area_code: '312'
+- name: Chicopee
+  area_code: '413'
+- name: Cicero
+  area_code: '708'
+- name: Cicero
+  area_code: '464'
+- name: Cincinatti
+  area_code: '283'
+- name: Cincinnati
+  area_code: '513'
+- name: Clarksville
+  area_code: '931'
+- name: Cleveland
+  area_code: '440'
+- name: Cleveland
+  area_code: '216'
+- name: Columbia
+  area_code: '573'
+- name: Columbia
+  area_code: '803'
+- name: Columbus
+  area_code: '614'
+- name: Columbus
+  area_code: '380'
+- name: Concord
+  area_code: '925'
+- name: Corpus Christi
+  area_code: '361'
+- name: Dallas
+  area_code: '214'
+- name: Dallas
+  area_code: '972'
+- name: Dallas
+  area_code: '469'
+- name: Daly City
+  area_code: '764'
+- name: Daly City
+  area_code: '650'
+- name: Danville
+  area_code: '276'
+- name: Davenport
+  area_code: '563'
+- name: Dayton
+  area_code: '937'
+- name: Daytona Beach
+  area_code: '386'
+- name: Denton
+  area_code: '940'
+- name: Denver
+  area_code: '720'
+- name: Denver
+  area_code: '303'
+- name: Detroit
+  area_code: '313'
+- name: Detroit
+  area_code: '679'
+- name: Dodge City
+  area_code: '620'
+- name: Duluth
+  area_code: '218'
+- name: Eau Claire
+  area_code: '715'
+- name: Eau Claire
+  area_code: '534'
+- name: Edison
+  area_code: '848'
+- name: Edison
+  area_code: '732'
+- name: El Paso
+  area_code: '915'
+- name: Elizabeth
+  area_code: '908'
+- name: Elmira
+  area_code: '607'
+- name: Erie
+  area_code: '814'
+- name: Escondido
+  area_code: '760'
+- name: Escondido
+  area_code: '442'
+- name: Eugene
+  area_code: '541'
+- name: Eugene
+  area_code: '458'
+- name: Evansville
+  area_code: '812'
+- name: Fargo
+  area_code: '701'
+- name: Fayetteville
+  area_code: '910'
+- name: Flint
+  area_code: '810'
+- name: Fort Lauderdale
+  area_code: '954'
+- name: Fort Lauderdale
+  area_code: '754'
+- name: Fort Smith
+  area_code: '479'
+- name: Fort Wayne
+  area_code: '260'
+- name: Fort Worth
+  area_code: '682'
+- name: Fort Worth
+  area_code: '817'
+- name: Fresno
+  area_code: '559'
+- name: Gainesville
+  area_code: '352'
+- name: Galveston
+  area_code: '409'
+- name: Gary
+  area_code: '219'
+- name: Grand Junction
+  area_code: '970'
+- name: Grand Rapids
+  area_code: '616'
+- name: Grant
+  area_code: '231'
+- name: Green Bay
+  area_code: '920'
+- name: Green Bay
+  area_code: '274'
+- name: Greensboro
+  area_code: '336'
+- name: Greenville
+  area_code: '864'
+- name: Hamilton
+  area_code: '254'
+- name: Hammond
+  area_code: '985'
+- name: Hartford
+  area_code: '959'
+- name: Hartford
+  area_code: '860'
+- name: Hempstead
+  area_code: '516'
+- name: Honolulu
+  area_code: '808'
+- name: Houston
+  area_code: '832'
+- name: Houston
+  area_code: '713'
+- name: Houston
+  area_code: '281'
+- name: Huntsville
+  area_code: '938'
+- name: Huntsville
+  area_code: '256'
+- name: Huntsville
+  area_code: '936'
+- name: Indianapolis
+  area_code: '317'
+- name: Iowa City
+  area_code: '515'
+- name: Irvine
+  area_code: '949'
+- name: Jackson
+  area_code: '769'
+- name: Jackson
+  area_code: '601'
+- name: Jackson
+  area_code: '731'
+- name: Jacksonville
+  area_code: '904'
+- name: Jersey City
+  area_code: '551'
+- name: Jersey City
+  area_code: '201'
+- name: Jonesboro
+  area_code: '870'
+- name: Kansas City
+  area_code: '913'
+- name: Kansas City
+  area_code: '975'
+- name: Kansas City
+  area_code: '816'
+- name: Kearney
+  area_code: '308'
+- name: Kenosha
+  area_code: '262'
+- name: Kingston
+  area_code: '845'
+- name: Knoxville
+  area_code: '865'
+- name: Lafayette
+  area_code: '337'
+- name: Lafayette
+  area_code: '765'
+- name: Lakeland
+  area_code: '863'
+- name: Lancaster
+  area_code: '717'
+- name: Lancaster
+  area_code: '740'
+- name: Lansing
+  area_code: '517'
+- name: Laramie
+  area_code: '307'
+- name: Laredo
+  area_code: '956'
+- name: Las Cruces
+  area_code: '575'
+- name: Las Vegas
+  area_code: '702'
+- name: Lawton
+  area_code: '580'
+- name: Lexington
+  area_code: '859'
+- name: Little Rock
+  area_code: '501'
+- name: Long Beach
+  area_code: '562'
+- name: Los Angeles
+  area_code: '323'
+- name: Los Angeles
+  area_code: '310'
+- name: Los Angeles
+  area_code: '213'
+- name: Louisville
+  area_code: '502'
+- name: Lowell
+  area_code: '978'
+- name: Lowell
+  area_code: '351'
+- name: Lubbock
+  area_code: '806'
+- name: Lynchburg
+  area_code: '434'
+- name: Lynn
+  area_code: '339'
+- name: Lynn
+  area_code: '781'
+- name: Macon
+  area_code: '478'
+- name: Madison
+  area_code: '608'
+- name: Manchester
+  area_code: '603'
+- name: Mankato
+  area_code: '507'
+- name: Marshall
+  area_code: '660'
+- name: Mason City
+  area_code: '641'
+- name: Medina
+  area_code: '830'
+- name: Memphis
+  area_code: '901'
+- name: Miami
+  area_code: '786'
+- name: Miami
+  area_code: '305'
+- name: Milwaukee
+  area_code: '414'
+- name: Minneapolis
+  area_code: '612'
+- name: Mobile
+  area_code: '251'
+- name: Montgomery
+  area_code: '334'
+- name: Naperville
+  area_code: '630'
+- name: Nashville
+  area_code: '615'
+- name: New Castle
+  area_code: '724'
+- name: New Orleans
+  area_code: '504'
+- name: New York City
+  area_code: '917'
+- name: New York City
+  area_code: '646'
+- name: New York City
+  area_code: '212'
+- name: Newark
+  area_code: '973'
+- name: Newark
+  area_code: '862'
+- name: Niagara Falls
+  area_code: '716'
+- name: Oakland
+  area_code: '510'
+- name: Oakland
+  area_code: '341'
+- name: Odessa
+  area_code: '432'
+- name: Oklahoma City
+  area_code: '405'
+- name: Omaha
+  area_code: '531'
+- name: Omaha
+  area_code: '402'
+- name: Orlando
+  area_code: '927'
+- name: Orlando
+  area_code: '689'
+- name: Orlando
+  area_code: '407'
+- name: Orlando
+  area_code: '321'
+- name: Otsego
+  area_code: '269'
+- name: Owensboro
+  area_code: '364'
+- name: Owensboro
+  area_code: '270'
+- name: Philadelphia
+  area_code: '445'
+- name: Philadelphia
+  area_code: '267'
+- name: Philadelphia
+  area_code: '215'
+- name: Phoenix
+  area_code: '623'
+- name: Phoenix
+  area_code: '602'
+- name: Phoenix
+  area_code: '480'
+- name: Pittsburgh
+  area_code: '878'
+- name: Pittsburgh
+  area_code: '412'
+- name: Plymouth
+  area_code: '763'
+- name: Pomona
+  area_code: '626'
+- name: Pontiac
+  area_code: '248'
+- name: Port St Lucie
+  area_code: '772'
+- name: Portland
+  area_code: '971'
+- name: Portland
+  area_code: '503'
+- name: Portland
+  area_code: '207'
+- name: Providence
+  area_code: '401'
+- name: Pueblo
+  area_code: '719'
+- name: Raleigh
+  area_code: '919'
+- name: Raleigh
+  area_code: '984'
+- name: Redding
+  area_code: '530'
+- name: Reno
+  area_code: '775'
+- name: Richmond
+  area_code: '804'
+- name: Riverside
+  area_code: '951'
+- name: Roanoke
+  area_code: '540'
+- name: Rochester
+  area_code: '585'
+- name: Rock Island
+  area_code: '309'
+- name: Rockford
+  area_code: '815'
+- name: Rockford
+  area_code: '779'
+- name: Rocky Mount
+  area_code: '252'
+- name: Sacramento
+  area_code: '916'
+- name: Saginaw
+  area_code: '989'
+- name: Salinas
+  area_code: '831'
+- name: Salt Lake City
+  area_code: '801'
+- name: Salt Lake City
+  area_code: '385'
+- name: San Antonio
+  area_code: '210'
+- name: San Diego
+  area_code: '935'
+- name: San Diego
+  area_code: '858'
+- name: San Diego
+  area_code: '619'
+- name: San Francisco
+  area_code: '628'
+- name: San Francisco
+  area_code: '415'
+- name: San Jose
+  area_code: '408'
+- name: San Jose
+  area_code: '669'
+- name: Santa Barbara
+  area_code: '805'
+- name: Santa Clarita
+  area_code: '661'
+- name: Santa Monica
+  area_code: '424'
+- name: Santa Rosa
+  area_code: '627'
+- name: Santa Rosa
+  area_code: '369'
+- name: Santa Rosa
+  area_code: '707'
+- name: Sarasota
+  area_code: '941'
+- name: Sault Ste Marie
+  area_code: '906'
+- name: Savannah
+  area_code: '912'
+- name: Scranton
+  area_code: '570'
+- name: Seattle
+  area_code: '206'
+- name: Seattle
+  area_code: '564'
+- name: Shreveport
+  area_code: '318'
+- name: Silver Spring
+  area_code: '301'
+- name: Silver Spring
+  area_code: '227'
+- name: Sioux City
+  area_code: '712'
+- name: Sioux Falls
+  area_code: '605'
+- name: South Bend
+  area_code: '574'
+- name: Spokane
+  area_code: '509'
+- name: Springfield
+  area_code: '417'
+- name: St. Charles
+  area_code: '636'
+- name: St. George
+  area_code: '435'
+- name: St. Louis
+  area_code: '314'
+- name: St. Louis
+  area_code: '557'
+- name: St. Paul
+  area_code: '651'
+- name: St. Petersburg
+  area_code: '727'
+- name: Starkville
+  area_code: '662'
+- name: Stockton
+  area_code: '209'
+- name: Stockton
+  area_code: '209'
+- name: Syracuse
+  area_code: '315'
+- name: Tacoma
+  area_code: '253'
+- name: Tallahassee
+  area_code: '850'
+- name: Tampa
+  area_code: '813'
+- name: Toledo
+  area_code: '419'
+- name: Toledo
+  area_code: '567'
+- name: Topeka
+  area_code: '785'
+- name: Troy
+  area_code: '947'
+- name: Tucson
+  area_code: '520'
+- name: Tulsa
+  area_code: '918'
+- name: Tyler
+  area_code: '430'
+- name: Tyler
+  area_code: '903'
+- name: Virginia Beach
+  area_code: '757'
+- name: Warren
+  area_code: '586'
+- name: Washington
+  area_code: '202'
+- name: Waukegan
+  area_code: '847'
+- name: Waukegan
+  area_code: '224'
+- name: West Palm Beach
+  area_code: '561'
+- name: Wichita
+  area_code: '316'
+- name: Wilmington
+  area_code: '302'
+- name: Worcester
+  area_code: '774'
+- name: Worcester
+  area_code: '508'
+- name: Yonkers
+  area_code: '914'
+- name: Yuma
+  area_code: '928'

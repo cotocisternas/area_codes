@@ -1,0 +1,807 @@
+---
+- name: Akesu - Xinjiang
+  area_code: '997'
+- name: Ankang - Shaanxi
+  area_code: '915'
+- name: Anqing - Anhui
+  area_code: '556'
+- name: Anqiu - Shandong
+  area_code: '5467'
+- name: Anshun - Guizhou
+  area_code: '853'
+- name: Antu - Jilin
+  area_code: '4434'
+- name: Anxi - Gansu
+  area_code: '9472'
+- name: Anyang - Henan
+  area_code: '372'
+- name: Atushi - Xinjiang
+  area_code: '9081'
+- name: Baicheng - Jilin
+  area_code: '436'
+- name: Baise - Guangxi
+  area_code: '776'
+- name: Bama - Guangxi
+  area_code: '7808'
+- name: Baodin - Hebei
+  area_code: '312'
+- name: Baoji - Shaanxi
+  area_code: '917'
+- name: Baotou - Nei Mongol
+  area_code: '472'
+- name: Bazhong - Sichuan
+  area_code: '8279'
+- name: Beihai - Guangxi
+  area_code: '779'
+- name: Beijing - Beijing
+  area_code: '10'
+- name: Beipiao - Liaoning
+  area_code: '421'
+- name: Bengbu - Anhui
+  area_code: '552'
+- name: Benxi - Liaoning
+  area_code: '414'
+- name: Bole - Xinjiang
+  area_code: '9093'
+- name: Cangwu - Guangxi
+  area_code: '774'
+- name: Chang-an - Shaanxi
+  area_code: '29'
+- name: Changbai - Jilin
+  area_code: '4458'
+- name: Changchun - Jilin
+  area_code: '431'
+- name: Changde - Hunan
+  area_code: '736'
+- name: Changdu - Xizang (Tibet)
+  area_code: '895'
+- name: Changfeng - Anhui
+  area_code: '551'
+- name: Changji - Xinjiang
+  area_code: '994'
+- name: Changle - Fujian
+  area_code: '591'
+- name: Changsha - Hunan
+  area_code: '731'
+- name: Changshu - Jiangsu
+  area_code: '512'
+- name: Changye - Shanxi
+  area_code: '355'
+- name: Changzhou - Jiangsu
+  area_code: '519'
+- name: Chaozhou - Guangdong
+  area_code: '7681'
+- name: Chengde - Hebei
+  area_code: '314'
+- name: Chengdu - Sichuan
+  area_code: '28'
+- name: Chifeng - Nei Mongol
+  area_code: '476'
+- name: Chongqing - Sichuan
+  area_code: '23'
+- name: Chuxiong - Yunnan
+  area_code: '878'
+- name: Cixi - Zhejiang
+  area_code: '574'
+- name: Conghua - Guangdong
+  area_code: '20'
+- name: Da-tong - Qinghai
+  area_code: '971'
+- name: Dali - Yunnan
+  area_code: '872'
+- name: Dalian - Liaoning
+  area_code: '411'
+- name: Dandong - Liaoning
+  area_code: '415'
+- name: Danyang - Jiangsu
+  area_code: '5211'
+- name: Daqing - Heilongjiang
+  area_code: '459'
+- name: Datong - Shanxi
+  area_code: '352'
+- name: Dezhou - Shandong
+  area_code: '534'
+- name: Dinxi - Gansu
+  area_code: '932'
+- name: Dinyuan - Anhui
+  area_code: '5604'
+- name: Dongfang - Hainan
+  area_code: '8003'
+- name: Dongwan - Guangdong
+  area_code: '7620'
+- name: Dongyang - Zhejiang
+  area_code: '579'
+- name: Dujiangyan - Sichuan
+  area_code: '8236'
+- name: Dunhua - Jilin
+  area_code: '4435'
+- name: Dunhuang - Gansu
+  area_code: '9473'
+- name: Erlianhaote - Nei Mongol
+  area_code: '4813'
+- name: Erlunchun - Nei Mongol
+  area_code: '4803'
+- name: Ezhou - Hubei
+  area_code: '711'
+- name: Fanyu - Guangdong
+  area_code: '20'
+- name: Fenghua - Zhejiang
+  area_code: '574'
+- name: Fenghuang - Hunan
+  area_code: '7480'
+- name: Fengzhen - Nei Mongol
+  area_code: '4841'
+- name: Fenjie - Sichuan
+  area_code: '8286'
+- name: Fenqiu - Henan
+  area_code: '3836'
+- name: Fenyang - Shanxi
+  area_code: '3602'
+- name: Foshan - Guangdong
+  area_code: '757'
+- name: Fu-an - Fujian
+  area_code: '593'
+- name: Fu-zhou - Jiangxi
+  area_code: '794'
+- name: Fumin - Yunnan
+  area_code: '871'
+- name: Fuopin - Shaanxi
+  area_code: '9263'
+- name: Fushun - Liaoning
+  area_code: '413'
+- name: Fuxin - Liaoning
+  area_code: '418'
+- name: Fuyang - Zhejiang
+  area_code: '571'
+- name: Fuzhou - Fujian
+  area_code: '591'
+- name: Ganzhou - Jiangxi
+  area_code: '797'
+- name: Gao-an - Jiangxi
+  area_code: '7056'
+- name: Gaoyou - Jiangsu
+  area_code: '5247'
+- name: Gejiu - Yunnan
+  area_code: '873'
+- name: Germu - Qinghai
+  area_code: '979'
+- name: Guang-an - Sichuan
+  area_code: '8269'
+- name: Guangling - Shanxi
+  area_code: '3627'
+- name: Guangning - Guangdong
+  area_code: '758'
+- name: Guangzhou - Guangdong
+  area_code: '20'
+- name: Guilin - Guangxi
+  area_code: '773'
+- name: Guiyang - Guizhou
+  area_code: '851'
+- name: Gulang - Gansu
+  area_code: '9453'
+- name: Guliu - Xinjiang
+  area_code: '9097'
+- name: Gutian - Fujian
+  area_code: '593'
+- name: Guyang - Neimengu
+  area_code: '4823'
+- name: Guyuan - Ningxia
+  area_code: '954'
+- name: Haifeng - Guangdong
+  area_code: '7647'
+- name: Haikou - Hainan
+  area_code: '898'
+- name: Hailar - Nei Mongol
+  area_code: '470'
+- name: Hailun - Heilongjiang
+  area_code: '4652'
+- name: Haimen - Jiangsu
+  area_code: '5231'
+- name: Haiyan - Zhejiang
+  area_code: '573'
+- name: Hami - Xinjiang
+  area_code: '9022'
+- name: Handan - Hebei
+  area_code: '310'
+- name: Hangzhou - Zhejiang
+  area_code: '571'
+- name: Hanning - Zhejiang
+  area_code: '573'
+- name: Hanyang - Hubei
+  area_code: '7212'
+- name: Hanzhong - Shaanxi
+  area_code: '916'
+- name: Harbin - Heilongjiang
+  area_code: '451'
+- name: Hechi - Guangxi
+  area_code: '778'
+- name: Hefei - Anhui
+  area_code: '551'
+- name: Hegang - Heilongjiang
+  area_code: '4618'
+- name: Heishan - Liaoning
+  area_code: '416'
+- name: Helan - Ningxia
+  area_code: '951'
+- name: Hengyang - Hunan
+  area_code: '734'
+- name: Henshan - Hunan
+  area_code: '7446'
+- name: Heshuo - Xinjiang
+  area_code: '996'
+- name: Hetian - Xinjiang
+  area_code: '9032'
+- name: Heze - Shandong
+  area_code: '530'
+- name: Hohhot - Nei Mongol
+  area_code: '471'
+- name: Houma - Shanxi
+  area_code: '3651'
+- name: Huachi - Gansu
+  area_code: '9447'
+- name: Huai-an - Jiangsu
+  area_code: '517'
+- name: Huaihua - Hunan
+  area_code: '7402'
+- name: Huaiyuan - Anhui
+  area_code: '552'
+- name: Huanglin - Shaanxi
+  area_code: '911'
+- name: Huangmei - Hubei
+  area_code: '7238'
+- name: Huangshanshi - Anhui
+  area_code: '559'
+- name: Huangshi - Hubei
+  area_code: '714'
+- name: Huangyan - Zhejiang
+  area_code: '576'
+- name: Huaxian - Guangdong
+  area_code: '20'
+- name: Huayin - Shaanxi
+  area_code: '9231'
+- name: Hui-an - Fujian
+  area_code: '595'
+- name: Huizhou - Guangdong
+  area_code: '752'
+- name: Hunchun - Jilin
+  area_code: '4437'
+- name: Hunjiang - Jilin
+  area_code: '439'
+- name: Huocheng - Xinjiang
+  area_code: '9091'
+- name: Huzhou - Zhejiang
+  area_code: '572'
+- name: Ji-an - Jiangxi
+  area_code: '796'
+- name: Ji-lin - Jilin
+  area_code: '432'
+- name: Ji-ning - Nei Mongol
+  area_code: '474'
+- name: Jiamusi - Heilongjiang
+  area_code: '454'
+- name: Jiangdu - Jiangsu
+  area_code: '5244'
+- name: Jiangjin - Sichuan
+  area_code: '8221'
+- name: Jiangling - Hubei
+  area_code: '716'
+- name: Jiangmen - Guangdong
+  area_code: '750'
+- name: Jiangyin - Jiangsu
+  area_code: '5217'
+- name: Jiangyou - Sichuan
+  area_code: '8244'
+- name: JianOu - Fujian
+  area_code: '599'
+- name: Jiaozhou - Shandong
+  area_code: '5422'
+- name: Jiaozuo - Henan
+  area_code: '391'
+- name: Jiaxin - Zhejiang
+  area_code: '573'
+- name: Jiayuguan - Gansu
+  area_code: '9477'
+- name: Jinan - Shandong
+  area_code: '531'
+- name: Jingangshan - Jiangxi
+  area_code: '7060'
+- name: Jingdezhen - Jiangxi
+  area_code: '798'
+- name: Jinhua - Zhejiang
+  area_code: '579'
+- name: Jining - Shandong
+  area_code: '537'
+- name: Jinmen - Hubei
+  area_code: '724'
+- name: Jinsha - Guizhou
+  area_code: '8676'
+- name: Jinxi - Liaoning
+  area_code: '429'
+- name: Jinxian - Jiangxi
+  area_code: '791'
+- name: Jinyuan - Gansu
+  area_code: '9467'
+- name: Jinzhou - Liaoning
+  area_code: '416'
+- name: Jiujiang - Jiangxi
+  area_code: '792'
+- name: Jiuquan - Gansu
+  area_code: '937'
+- name: Jixi - Heilongjiang
+  area_code: '4617'
+- name: Jiyang - Shandong
+  area_code: '5448'
+- name: Jiyuan - Henan
+  area_code: '391'
+- name: Julu - Hebei
+  area_code: '3276'
+- name: Juye - Shandong
+  area_code: '5401'
+- name: Kaifeng - Henan
+  area_code: '378'
+- name: Kaihua - Zhejiang
+  area_code: '570'
+- name: Kaili - Guizhou
+  area_code: '855'
+- name: Kaiyuan - Liaoning
+  area_code: '410'
+- name: Kangdin - Sichuan
+  area_code: '836'
+- name: Kashi - Xinjiang
+  area_code: '998'
+- name: Kelamayi - Xinjiang
+  area_code: '990'
+- name: Kuitun - Xinjiang
+  area_code: '992'
+- name: Kunming - Yunnan
+  area_code: '871'
+- name: Kunshan - Jiangsu
+  area_code: '512'
+- name: Kurle - Xinjiang
+  area_code: '996'
+- name: Lai-yang - Shandong
+  area_code: '5427'
+- name: Laiyang - Hunan
+  area_code: '7442'
+- name: Lankao - Henan
+  area_code: '3881'
+- name: Lanxi - Zhejiang
+  area_code: '579'
+- name: Lanzhou - Gansu
+  area_code: '931'
+- name: Leshan - Sichuan
+  area_code: '833'
+- name: Lhasa - Xizang (Tibet)
+  area_code: '891'
+- name: Liancheng - Fujian
+  area_code: '597'
+- name: Liangcheng - Nei Mongol
+  area_code: '4848'
+- name: Lianyungang - Jiangsu
+  area_code: '518'
+- name: Liaoyang - Liaoning
+  area_code: '419'
+- name: Liaoyuan - Jilin
+  area_code: '437'
+- name: Lijiangshi - Yunnan
+  area_code: '8891'
+- name: Lijin - Shandong
+  area_code: '5430'
+- name: Lin-an - Zhejiang
+  area_code: '571'
+- name: Linfen - Shanxi
+  area_code: '357'
+- name: Linhai - Zhejiang
+  area_code: '576'
+- name: Lintong - Shaanxi
+  area_code: '29'
+- name: Linxi - Neimengu
+  area_code: '4868'
+- name: Linyi - Shandong
+  area_code: '539'
+- name: Linzhi - Xizang (Tibet)
+  area_code: '894'
+- name: Liujiang - Guangxi
+  area_code: '772'
+- name: Liuyang - Hunan
+  area_code: '731'
+- name: Liuzhou - Guangxi
+  area_code: '772'
+- name: Longquan - Zhejiang
+  area_code: '5885'
+- name: Longxi - Gansu
+  area_code: '9421'
+- name: Luntai - Xinjiang
+  area_code: '996'
+- name: Luoyang - Henan
+  area_code: '379'
+- name: Lushanshi - Jiangxi
+  area_code: '792'
+- name: Ma-anshan - Anhui
+  area_code: '555'
+- name: Machen - Hubei
+  area_code: '7232'
+- name: Mangkang - Xizang
+  area_code: '8054'
+- name: Manzhouli - Nei Mongol
+  area_code: '4812'
+- name: Maomin - Guangdong
+  area_code: '7683'
+- name: Meishan - Sichuan
+  area_code: '8425'
+- name: Meizhou - Guangdong
+  area_code: '753'
+- name: Mianyang - Sichuan
+  area_code: '816'
+- name: Minhou - Fujian
+  area_code: '591'
+- name: Miquan - Xinjiang
+  area_code: '9041'
+- name: Mohe - Heilongjiang
+  area_code: '457'
+- name: Mudanjiang - Heilongjiang
+  area_code: '467'
+- name: Nanchang - Jiangxi
+  area_code: '791'
+- name: Nanfeng - Jiangxi
+  area_code: '7048'
+- name: Nanjing - Jiangsu
+  area_code: '25'
+- name: Nanning - Guangxi
+  area_code: '771'
+- name: Nantong - Jiangsu
+  area_code: '513'
+- name: Nanyang - Henan
+  area_code: '377'
+- name: Nenjiang - Heilongjiang
+  area_code: '4665'
+- name: Ningbo - Zhejiang
+  area_code: '574'
+- name: Ningcheng - Nei Mongol
+  area_code: '4862'
+- name: Ningguo - Anhui
+  area_code: '5639'
+- name: Ninghua - Fujian
+  area_code: '598'
+- name: Nnchong - Sichuan
+  area_code: '817'
+- name: Panzhihua - Sichuan
+  area_code: '812'
+- name: Peilin - Sichuan
+  area_code: '810'
+- name: Penglai - Shandong
+  area_code: '5457'
+- name: Pindinshan - Henan
+  area_code: '375'
+- name: Ping-xiang - Jiangxi
+  area_code: '799'
+- name: Pingliang - Gansu
+  area_code: '933'
+- name: Pingxiang - Guangxi
+  area_code: '7815'
+- name: Pinle - Guangxi
+  area_code: '7847'
+- name: Putian - Fujian
+  area_code: '594'
+- name: Qidong - Jiangsu
+  area_code: '5232'
+- name: Qin-an - Gansu
+  area_code: '938'
+- name: Qingdao - Shandong
+  area_code: '532'
+- name: Qinhuangdao - Hebei
+  area_code: '335'
+- name: Qiongshan - Hainan
+  area_code: '898'
+- name: Qiqihar - Heilongjiang
+  area_code: '452'
+- name: Qitai - Xinjiang
+  area_code: '994'
+- name: Quanzhou - Fujian
+  area_code: '595'
+- name: Qufu - Shandong
+  area_code: '5473'
+- name: Qujiang - Guangdong
+  area_code: '751'
+- name: Renqiu - Hebei
+  area_code: '3420'
+- name: Rikeze - Xizang (Tibet)
+  area_code: '892'
+- name: Rongxian - Guangxi
+  area_code: '775'
+- name: Ruijin - Jiangxi
+  area_code: '7077'
+- name: Ruili - Yunnan
+  area_code: '8885'
+- name: Runan - Henan
+  area_code: '3013'
+- name: Sanmen - Zhejiang
+  area_code: '576'
+- name: Sanmenxia - Henan
+  area_code: '3891'
+- name: Sanya - Hainan
+  area_code: '898'
+- name: Shangdu - Nei Mongol
+  area_code: '4843'
+- name: Shanggao - Jiangxi
+  area_code: '7051'
+- name: Shanghai - Shanghai
+  area_code: '21'
+- name: Shangqiu - Henan
+  area_code: '370'
+- name: Shangrao - Jiangxi
+  area_code: '793'
+- name: Shangzhou - Shaanxi
+  area_code: '914'
+- name: Shantou - Guangdong
+  area_code: '754'
+- name: Shaoguan - Guangdong
+  area_code: '751'
+- name: Shaoshan - Hunan
+  area_code: '732'
+- name: Shaoxing - Zhejiang
+  area_code: '575'
+- name: Shaoyang - Hunan
+  area_code: '739'
+- name: Shenmu - Shaanxi
+  area_code: '9229'
+- name: Shenyang - Liaoning
+  area_code: '24'
+- name: Shenzhen - Guangdong
+  area_code: '755'
+- name: Shihezi - Xinjiang
+  area_code: '993'
+- name: Shijiazhuang - Hebei
+  area_code: '311'
+- name: Shimen - Hunan
+  area_code: '7462'
+- name: Shimian - Sichuan
+  area_code: '8437'
+- name: Shishi - Fujian
+  area_code: '595'
+- name: Shiyan - Hubei
+  area_code: '719'
+- name: Shuangcheng - Heilongjiang
+  area_code: '4615'
+- name: Siping - Jilin
+  area_code: '434'
+- name: Sishui - Shandong
+  area_code: '5483'
+- name: Songyuan - Jilin
+  area_code: '438'
+- name: Suifenhe - Heilongjiang
+  area_code: '4638'
+- name: Suzhou - Jiangsu
+  area_code: '512'
+- name: Tacheng - Xinjiang
+  area_code: '9003'
+- name: Tai-an - Shandong
+  area_code: '538'
+- name: Tai-hu - Anhui
+  area_code: '556'
+- name: Taicang - Jiangsu
+  area_code: '512'
+- name: Taiyuan - Shanxi
+  area_code: '351'
+- name: Taizhou - Jiangsu
+  area_code: '5241'
+- name: Tangshan - Hebei
+  area_code: '315'
+- name: Tianjin - Tianjin
+  area_code: '22'
+- name: Tianshui - Gansu
+  area_code: '938'
+- name: Tiantai - Zhejiang
+  area_code: '576'
+- name: Tongchuan - Shaanxi
+  area_code: '919'
+- name: Tongguan - Shaanxi
+  area_code: '9233'
+- name: Tonghua - Jilin
+  area_code: '435'
+- name: Tongliao - Nei Mongol
+  area_code: '475'
+- name: Tongling - Anhui
+  area_code: '5612'
+- name: Tongren - Guizhou
+  area_code: '856'
+- name: Tumen - Jilin
+  area_code: '4436'
+- name: Tuquan - Neimengu
+  area_code: '4858'
+- name: Turufan - Xinjiang
+  area_code: '995'
+- name: Urumqi - Xinjiang
+  area_code: '991'
+- name: Wanxian - Sichuan
+  area_code: '819'
+- name: Weifang - Shandong
+  area_code: '536'
+- name: Weili - Xinjiang
+  area_code: '996'
+- name: Weinan - Shaanxi
+  area_code: '913'
+- name: Wenshan - Yunnan
+  area_code: '876'
+- name: Wenzhou - Zhejiang
+  area_code: '577'
+- name: Wuchuan - Nei Mongol
+  area_code: '4817'
+- name: Wudu - Gansu
+  area_code: '939'
+- name: Wuhai - Nei Mongol
+  area_code: '473'
+- name: Wuhan - Hubei
+  area_code: '27'
+- name: Wuhu - Anhui
+  area_code: '553'
+- name: Wulanhaote - Nei Mongol
+  area_code: '4814'
+- name: Wuwei - Gansu
+  area_code: '935'
+- name: Wuxi - Jiangsu
+  area_code: '510'
+- name: Wuxian - Jiangsu
+  area_code: '512'
+- name: Wuxue - Hubei
+  area_code: '7239'
+- name: Wuyishan - Fujian
+  area_code: '599'
+- name: Wuyuan - Neimengu
+  area_code: '4881'
+- name: Xi'an - Shaanxi
+  area_code: '29'
+- name: Xi-feng - Gansu
+  area_code: '934'
+- name: Xiamen - Fujian
+  area_code: '592'
+- name: Xiangfan - Hubei
+  area_code: '710'
+- name: Xiangtan - Hunan
+  area_code: '732'
+- name: Xianju - Zhejiang
+  area_code: '576'
+- name: Xianyang - Shaanxi
+  area_code: '910'
+- name: Xichang - Sichuan
+  area_code: '834'
+- name: Xifeng - Guizhou
+  area_code: '8638'
+- name: Xin-tai - Shandong
+  area_code: '5482'
+- name: Xingguo - Jiangxi
+  area_code: '7073'
+- name: Xinhui - Guangdong
+  area_code: '750'
+- name: Xining - Qinghai
+  area_code: '971'
+- name: Xinmin - Liaoning
+  area_code: '24'
+- name: Xintai - Hebei
+  area_code: '319'
+- name: Xinxiang - Henan
+  area_code: '373'
+- name: Xinyi - Guizhou
+  area_code: '859'
+- name: Xinyu - Jiangxi
+  area_code: '790'
+- name: Xinyuan - Xinjiang
+  area_code: '9096'
+- name: Xuanhua - Hebei
+  area_code: '313'
+- name: Xuchang - Henan
+  area_code: '374'
+- name: Xuejiawan - Nei Mongol
+  area_code: '477'
+- name: Xuzhou - Jiangsu
+  area_code: '516'
+- name: Ya-an - Sichuan
+  area_code: '835'
+- name: Yan-an - Shaanxi
+  area_code: '911'
+- name: Yancheng - Jiangsu
+  area_code: '515'
+- name: Yangpu - Hainan
+  area_code: '890'
+- name: Yangquan - Shanxi
+  area_code: '353'
+- name: Yangzhou - Jiangsu
+  area_code: '514'
+- name: Yanji - Jilin
+  area_code: '433'
+- name: Yanjin - Henan
+  area_code: '3832'
+- name: Yantai - Shandong
+  area_code: '535'
+- name: Yi-chun - Jiangxi
+  area_code: '795'
+- name: Yi-yang - Hunan
+  area_code: '737'
+- name: Yibin - Sichuan
+  area_code: '831'
+- name: Yichun - Heilongjiang
+  area_code: '4652'
+- name: Yimin - Nei Mongol
+  area_code: '4890'
+- name: Yinchuan - Ningxia
+  area_code: '951'
+- name: Yingkou - Liaoning
+  area_code: '417'
+- name: Yingtan - Jiangxi
+  area_code: '7032'
+- name: Yining - Xinjiang
+  area_code: '999'
+- name: Yishui - Shandong
+  area_code: '5492'
+- name: Yiwu - Zhejiang
+  area_code: '579'
+- name: Yixin - Jiangsu
+  area_code: '5218'
+- name: Yiyang - Jiangxi
+  area_code: '7038'
+- name: Yongchuan - Sichuan
+  area_code: '814'
+- name: Yongfu - Guangxi
+  area_code: '7848'
+- name: Yongxiu - Jiangxi
+  area_code: '792'
+- name: Yu-shu - Jilin
+  area_code: '4415'
+- name: Yuanmou - Yunnan
+  area_code: '8869'
+- name: Yueyang - Hunan
+  area_code: '730'
+- name: Yuhang - Zhejiang
+  area_code: '571'
+- name: Yulin - Shaanxi
+  area_code: '912'
+- name: Yumen - Gansu
+  area_code: '9471'
+- name: Yushu - Qinghai
+  area_code: '976'
+- name: Yuxi - Yunnan
+  area_code: '877'
+- name: Yuyao - Zhejiang
+  area_code: '574'
+- name: Yuzhong - Gansu
+  area_code: '9440'
+- name: Zhangjiagang - Jiangsu
+  area_code: '512'
+- name: Zhangjiakou - Hebei
+  area_code: '313'
+- name: Zhangshu - Jiangxi
+  area_code: '7052'
+- name: Zhangzhou - Fujian
+  area_code: '596'
+- name: Zhanjiang - Guangdong
+  area_code: '759'
+- name: Zhengzhou - Henan
+  area_code: '371'
+- name: Zhenjiang - Jiangsu
+  area_code: '511'
+- name: Zhicheng - Hubei
+  area_code: '27'
+- name: Zhijiang - Hunan
+  area_code: '7420'
+- name: Zhongshan - Guangdong
+  area_code: '760'
+- name: Zhuhai - Guangdong
+  area_code: '756'
+- name: Zhumadian - Henan
+  area_code: '3011'
+- name: Zhunger - Nei Mongol
+  area_code: '4873'
+- name: Zhuzhou - Hunan
+  area_code: '733'
+- name: Zibo - Shandong
+  area_code: '533'
+- name: Zigong - Sichuan
+  area_code: '813'
+- name: Zigui - Hubei
+  area_code: '7278'
+- name: Ziyuan - Guangxi
+  area_code: '7852'
+- name: Zunhua - Hebei
+  area_code: '315'
+- name: Zunyi - Guizhou
+  area_code: '852'

@@ -1,0 +1,81 @@
+---
+- name: Abha
+  area_code: '7'
+- name: Abqaiq
+  area_code: '3'
+- name: Al Khobar
+  area_code: '3'
+- name: Al Markazi
+  area_code: '2'
+- name: Al Ulaya
+  area_code: '1'
+- name: Anak
+  area_code: '3'
+- name: Bukayriyah
+  area_code: '6'
+- name: Dammam
+  area_code: '3'
+- name: Damman
+  area_code: '3'
+- name: Dhahran (Aramco)
+  area_code: '3'
+- name: Hail
+  area_code: '6'
+- name: Hawiyah
+  area_code: '2'
+- name: Hawtah
+  area_code: '1'
+- name: Hofuf
+  area_code: '3'
+- name: Jeddah
+  area_code: '2'
+- name: Jubail
+  area_code: '3'
+- name: Khafji
+  area_code: '3'
+- name: Khamis Mushait
+  area_code: '7'
+- name: Layla
+  area_code: '1'
+- name: Madinah
+  area_code: '4'
+- name: Makkah
+  area_code: '2'
+- name: Makkah (Mecca)
+  area_code: '2'
+- name: Medin
+  area_code: '4'
+- name: Medina Region
+  area_code: '4'
+- name: Mubarraz
+  area_code: '1'
+- name: Najran
+  area_code: '7'
+- name: Qassim Region
+  area_code: '6'
+- name: Qatif
+  area_code: '3'
+- name: Qedieyeh
+  area_code: '3'
+- name: Rabigh
+  area_code: '2'
+- name: Ras Tanurah
+  area_code: '3'
+- name: Riyadh
+  area_code: '1'
+- name: Safwa
+  area_code: '3'
+- name: Shaqra
+  area_code: '1'
+- name: Sihat
+  area_code: '3'
+- name: Southern Region
+  area_code: '7'
+- name: Tabouk
+  area_code: '4'
+- name: Taif
+  area_code: '2'
+- name: Tarut Island - Mina and Darin
+  area_code: '3'
+- name: Yanbou
+  area_code: '4'

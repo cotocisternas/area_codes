@@ -1,0 +1,71 @@
+---
+- name: Ammerswil (Aarau)
+  area_code: '62'
+- name: Andermatt
+  area_code: '41'
+- name: Arosa
+  area_code: '81'
+- name: Baden
+  area_code: '56'
+- name: Basel
+  area_code: '61'
+- name: Bellinzona
+  area_code: '91'
+- name: Berne
+  area_code: '31'
+- name: Biel (Bienne)
+  area_code: '32'
+- name: Chiasso
+  area_code: '91'
+- name: Crans-sur-Sierre
+  area_code: '27'
+- name: Davos
+  area_code: '81'
+- name: Fribourg
+  area_code: '26'
+- name: Geneva
+  area_code: '22'
+- name: Gryon (Yverdon-les-Bains)
+  area_code: '24'
+- name: Gstaad
+  area_code: '33'
+- name: Interlaken
+  area_code: '33'
+- name: Klosters
+  area_code: '81'
+- name: La Chaux-de-Fonds
+  area_code: '32'
+- name: Lausanne
+  area_code: '21'
+- name: Lenk im Simmental
+  area_code: '33'
+- name: Locarno
+  area_code: '91'
+- name: Lucerne
+  area_code: '41'
+- name: Lugano
+  area_code: '91'
+- name: Montreux
+  area_code: '21'
+- name: Neuchatel
+  area_code: '32'
+- name: Obewil im Simmental
+  area_code: '33'
+- name: Schaffhausen
+  area_code: '52'
+- name: St. Gallen
+  area_code: '71'
+- name: St. Moritz
+  area_code: '81'
+- name: Vevey
+  area_code: '21'
+- name: Wengen
+  area_code: '33'
+- name: Winterthur
+  area_code: '52'
+- name: Zermatt
+  area_code: '27'
+- name: Zug
+  area_code: '41'
+- name: Zurich
+  area_code: '43'

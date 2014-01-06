@@ -1,0 +1,9 @@
+---
+- name: Bishkek
+  area_code: '312'
+- name: Mobile Phones - Bitel
+  area_code: '502'
+- name: Mobile Phones - Katel
+  area_code: '517'
+- name: Osh
+  area_code: '322'

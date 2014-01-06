@@ -1,0 +1,13 @@
+---
+- name: Centro Sur Occidental
+  area_code: '7'
+- name: Centro Sur Oriental
+  area_code: '8'
+- name: Litoral Atlántico
+  area_code: '4'
+- name: Región Nor-Occidental
+  area_code: '6'
+- name: San Pedro Sula
+  area_code: '5'
+- name: Tegucigalpa
+  area_code: '2'

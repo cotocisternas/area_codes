@@ -1,0 +1,65 @@
+---
+- name: Berovo
+  area_code: '33'
+- name: Bitola
+  area_code: '47'
+- name: Debar
+  area_code: '46'
+- name: Delchevo
+  area_code: '33'
+- name: Demir Hisar
+  area_code: '47'
+- name: Dojran
+  area_code: '34'
+- name: Gevgelija
+  area_code: '34'
+- name: Gostivar
+  area_code: '42'
+- name: Kavadarci
+  area_code: '43'
+- name: Kichevo
+  area_code: '45'
+- name: Kocani
+  area_code: '33'
+- name: Kratovo
+  area_code: '31'
+- name: Kriva Palanka
+  area_code: '31'
+- name: Krushevo
+  area_code: '48'
+- name: Kumanovo
+  area_code: '31'
+- name: Makedonski Brod
+  area_code: '48'
+- name: Negotino
+  area_code: '43'
+- name: Ohrid
+  area_code: '46'
+- name: Pehchevo
+  area_code: '33'
+- name: Prilep
+  area_code: '48'
+- name: Probistip
+  area_code: '32'
+- name: Radovish
+  area_code: '32'
+- name: Resen
+  area_code: '47'
+- name: Shtip
+  area_code: '32'
+- name: Skopje
+  area_code: '2'
+- name: Struga
+  area_code: '46'
+- name: Strumica
+  area_code: '34'
+- name: Sveti Nikole
+  area_code: '32'
+- name: Tetovo
+  area_code: '44'
+- name: Valandovo
+  area_code: '34'
+- name: Veles
+  area_code: '43'
+- name: Vinica
+  area_code: '33'

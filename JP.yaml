@@ -1,0 +1,29 @@
+---
+- name: Cell Phones
+  area_code: +81    090 + eight digit number
+- name: Nagoya
+  area_code: '52'
+- name: Naha
+  area_code: '98'
+- name: Okinawa
+  area_code: '98'
+- name: Osaka
+  area_code: '66'
+- name: PHS phones
+  area_code: +81    070 + eight digit number
+- name: Sapporo
+  area_code: '11'
+- name: Sasebo
+  area_code: '956'
+- name: Seto
+  area_code: '561'
+- name: Tachikawa (Tokyo)
+  area_code: '425'
+- name: Tokyo
+  area_code: '3'
+- name: Urasoe
+  area_code: '98'
+- name: Yokohama
+  area_code: '45'
+- name: Yokosuka (Kanagawa)
+  area_code: '468'

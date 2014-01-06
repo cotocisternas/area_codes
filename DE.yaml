@@ -1,0 +1,71 @@
+---
+- name: Bad Homburg
+  area_code: '6172'
+- name: Berlin
+  area_code: '30'
+- name: Bonn
+  area_code: '228'
+- name: Bremen
+  area_code: '421'
+- name: Chemnitz
+  area_code: '371'
+- name: Cologne (Koln)
+  area_code: '221'
+- name: Cottbus
+  area_code: '355'
+- name: Darmstadt
+  area_code: '6151'
+- name: Dresden
+  area_code: '351'
+- name: Dusseldorf
+  area_code: '211'
+- name: Erfurt
+  area_code: '361'
+- name: Essen
+  area_code: '201'
+- name: Frankfurt am Main (west)
+  area_code: '69'
+- name: Frankfurt an der Oder (east)
+  area_code: '335'
+- name: Gera
+  area_code: '365'
+- name: Halle
+  area_code: '345'
+- name: Hamburg
+  area_code: '40'
+- name: Hanover
+  area_code: '511'
+- name: Heidelberg
+  area_code: '6221'
+- name: Karl-Stadt
+  area_code: '9353'
+- name: Kiel
+  area_code: '431'
+- name: Koblenz
+  area_code: '261'
+- name: Leipzig
+  area_code: '341'
+- name: Magdeburg
+  area_code: '391'
+- name: Mannheim
+  area_code: '621'
+- name: Mobile Phones
+  area_code: '17'
+- name: Munich
+  area_code: '89'
+- name: Neubrandenburg
+  area_code: '395'
+- name: Nurnberg
+  area_code: '911'
+- name: Potsdam
+  area_code: '331'
+- name: Rostock
+  area_code: '381'
+- name: Saal
+  area_code: '38223'
+- name: Schwerin
+  area_code: '385'
+- name: Stuttgart
+  area_code: '711'
+- name: Wiesbaden
+  area_code: '611'

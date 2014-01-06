@@ -1,0 +1,71 @@
+---
+- name: Albay
+  area_code: '52'
+- name: Angeles
+  area_code: '455'
+- name: Bacolod
+  area_code: '34'
+- name: Baguio City
+  area_code: '74'
+- name: Batangas
+  area_code: '43'
+- name: Cacayan de Oro
+  area_code: '8822'
+- name: Caloocan
+  area_code: '2'
+- name: Cavite
+  area_code: '46'
+- name: Cebu City
+  area_code: '32'
+- name: Cotabato
+  area_code: '64'
+- name: Dagupan
+  area_code: '75'
+- name: Dalaguete
+  area_code: '32'
+- name: Dauin
+  area_code: '3522'
+- name: Davao
+  area_code: '82'
+- name: Dumaguete City
+  area_code: '3524'
+- name: General Santos
+  area_code: '83'
+- name: Iligan City
+  area_code: '63'
+- name: Iloilo City
+  area_code: '33'
+- name: Lipa
+  area_code: '43'
+- name: Lucena
+  area_code: '42'
+- name: Manila
+  area_code: '2'
+- name: Masbate
+  area_code: '56'
+- name: Mobile Phones
+  area_code: '9'
+- name: Naga City
+  area_code: '5421'
+- name: Ozamis City
+  area_code: '88'
+- name: Pampanga
+  area_code: '45'
+- name: Pasay
+  area_code: '2'
+- name: Puerto Princesa
+  area_code: '48'
+- name: Quezon City
+  area_code: '2'
+- name: 'San Fernando: La Union'
+  area_code: '72'
+- name: San Pablo
+  area_code: '93'
+- name: Subic Bay
+  area_code: '47'
+- name: Tacloban
+  area_code: '53'
+- name: Tarlac City
+  area_code: '452'
+- name: Zamboanga
+  area_code: '62'

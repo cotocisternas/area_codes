@@ -1,0 +1,9 @@
+---
+- name: Entebbe
+  area_code: '42'
+- name: Jinja
+  area_code: '43'
+- name: Kampala
+  area_code: '41'
+- name: Kyambogo
+  area_code: '41'

@@ -1,0 +1,103 @@
+---
+- name: "\tAbrantes"
+  area_code: '241'
+- name: Angra do Heroísmo
+  area_code: '295'
+- name: Arganil
+  area_code: '235'
+- name: Aveiro
+  area_code: '234'
+- name: Beja
+  area_code: '284'
+- name: Braga
+  area_code: '253'
+- name: Bragança
+  area_code: '273'
+- name: Caldas da Raínha
+  area_code: '262'
+- name: Castelo Branco
+  area_code: '272'
+- name: Castro Verde
+  area_code: '286'
+- name: Chaves
+  area_code: '276'
+- name: Coimbra
+  area_code: '239'
+- name: Covilhã
+  area_code: '275'
+- name: Estremoz
+  area_code: '268'
+- name: Évora
+  area_code: '266'
+- name: Faro
+  area_code: '289'
+- name: Figueira da Foz
+  area_code: '233'
+- name: Funchal
+  area_code: '297'
+- name: Guarda
+  area_code: '271'
+- name: Horta
+  area_code: '292'
+- name: Idanha-a-Nova
+  area_code: '277'
+- name: Leiria
+  area_code: '244'
+- name: Lisboa
+  area_code: '21'
+- name: Mealhada
+  area_code: '231'
+- name: Mirandela
+  area_code: '278'
+- name: Moncorvo
+  area_code: '279'
+- name: Moura
+  area_code: '285'
+- name: Odemira
+  area_code: '283'
+- name: Penafiel
+  area_code: '255'
+- name: Peso da Régua
+  area_code: '254'
+- name: Pombal
+  area_code: '236'
+- name: Ponta Delgada
+  area_code: '296'
+- name: Ponte de Sôr
+  area_code: '242'
+- name: Portalegre
+  area_code: '245'
+- name: Portimão
+  area_code: '282'
+- name: Porto
+  area_code: '22'
+- name: Proença-a-Nova
+  area_code: '274'
+- name: S. João da Madeira
+  area_code: '256'
+- name: Santarém
+  area_code: '243'
+- name: Santiago do Cacém
+  area_code: '269'
+- name: Seia
+  area_code: '238'
+- name: Setúbal
+  area_code: '265'
+- name: Tavira
+  area_code: '281'
+- name: Torres Novas
+  area_code: '249'
+- name: Torres Vedras
+  area_code: '261'
+- name: V. Franca de Xira
+  area_code: '263'
+- name: V. N. de Famalicão
+  area_code: '252'
+- name: Valença
+  area_code: '251'
+- name: Viana do Castelo
+  area_code: '258'
+- name: Vila Real
+  area_code: '259'
+- name: Viseu
+  area_code: '232'

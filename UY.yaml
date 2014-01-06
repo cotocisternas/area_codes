@@ -1,0 +1,219 @@
+---
+- name: Aigui
+  area_code: '446'
+- name: Araminda
+  area_code: '337'
+- name: Artigas
+  area_code: '772'
+- name: Balneario Las Flores
+  area_code: '43'
+- name: Baltasar Brum
+  area_code: '776'
+- name: Barra del Chuy
+  area_code: '474'
+- name: Barrio Escavino
+  area_code: '349'
+- name: Belén
+  area_code: '766'
+- name: Bella Unión
+  area_code: '779'
+- name: Boca del Rosario
+  area_code: '557'
+- name: Caballada
+  area_code: '52'
+- name: Canelón Chico
+  area_code: '33'
+- name: Canelones
+  area_code: '32'
+- name: Capurro
+  area_code: '338'
+- name: Cardal
+  area_code: '339'
+- name: Cardona
+  area_code: '536'
+- name: Carlos Reyles
+  area_code: '368'
+- name: Carmelo
+  area_code: '542'
+- name: Carmen
+  area_code: '365'
+- name: Caserko Murialdo
+  area_code: '313'
+- name: Castillos
+  area_code: '475'
+- name: Casupi
+  area_code: '311'
+- name: Cebollatk
+  area_code: '459'
+- name: Cerro Chato
+  area_code: '466'
+- name: Cerro Colorado
+  area_code: '318'
+- name: Chamizo
+  area_code: '319'
+- name: Colonia Cosmopolita
+  area_code: '556'
+- name: Colonia Miguelete
+  area_code: '575'
+- name: Colonia Piamontesa
+  area_code: '552'
+- name: Colonia Rapettti
+  area_code: '546'
+- name: Colonia Tomis
+  area_code: '562'
+- name: Colonia Valdense
+  area_code: '55'
+- name: Conchillas
+  area_code: '577'
+- name: Constitución
+  area_code: '764'
+- name: Costa Azul (Rocha)
+  area_code: '479'
+- name: Dayman
+  area_code: '73'
+- name: Dolores
+  area_code: '534'
+- name: Durazno
+  area_code: '36'
+- name: Estación Andreoni
+  area_code: '317'
+- name: Estación Sosa Dkaz
+  area_code: '390'
+- name: Faro José Ignacio
+  area_code: '486'
+- name: Florida
+  area_code: '352'
+- name: Fraile Muerto
+  area_code: '688'
+- name: Guichón
+  area_code: '742'
+- name: Ismael Cortinas
+  area_code: '539'
+- name: Izcua
+  area_code: '412'
+- name: J.P.Varela
+  area_code: '455'
+- name: José Batlle y Ordonez
+  area_code: '469'
+- name: José Enrique Rodó
+  area_code: '538'
+- name: Juan Lacaze
+  area_code: '586'
+- name: La Barra (Maldonado)
+  area_code: '42'
+- name: La Coronilla
+  area_code: '476'
+- name: Lagomar
+  area_code: '38'
+- name: Laguna Merkn
+  area_code: '679'
+- name: Las Canas
+  area_code: '413'
+- name: Las Piedras
+  area_code: '324'
+- name: Lascano
+  area_code: '456'
+- name: Libertad
+  area_code: '345'
+- name: Maldonado
+  area_code: '42'
+- name: Mariscala
+  area_code: '449'
+- name: Melo
+  area_code: '64'
+- name: Mercedes
+  area_code: '53532'
+- name: Minas
+  area_code: '44442'
+- name: Minas de Corrales
+  area_code: '658'
+- name: Mones Quintela
+  area_code: '778'
+- name: Montevideo
+  area_code: '2'
+- name: Nueva Carrara
+  area_code: '415'
+- name: Nueva Palmira
+  area_code: '544'
+- name: Nuevo Berlkn
+  area_code: '568'
+- name: Ombses de Lavalle
+  area_code: '576'
+- name: Palmitas
+  area_code: '537'
+- name: Paso de los Toros
+  area_code: '664'
+- name: Paysands
+  area_code: '72'
+- name: Paysandu
+  area_code: '722'
+- name: Piedras Coloradas
+  area_code: '747'
+- name: Pintado
+  area_code: '354'
+- name: Piraraji
+  area_code: '448'
+- name: Playa Fomento
+  area_code: '587'
+- name: Punta del Diablo
+  area_code: '477'
+- name: Punta Del Este
+  area_code: '42'
+- name: Quebracho
+  area_code: '754'
+- name: Rivera
+  area_code: '62'
+- name: Rko Branco
+  area_code: '675'
+- name: Rocha
+  area_code: '47'
+- name: Rodrkguez
+  area_code: '348'
+- name: San Gregorio de Polanco
+  area_code: '369'
+- name: San Jacinto
+  area_code: '399'
+- name: San Javier
+  area_code: '569'
+- name: San José
+  area_code: '34'
+- name: San Jose
+  area_code: '342'
+- name: San Jose De Carrasco
+  area_code: '38'
+- name: San Ramón
+  area_code: '312'
+- name: Santa Ana
+  area_code: '588'
+- name: Santa Clara de Olimar
+  area_code: '464'
+- name: Sarandk del Yk
+  area_code: '367'
+- name: Solks de Mataojo
+  area_code: '379'
+- name: Tacuarembó
+  area_code: '63'
+- name: Tala
+  area_code: '315'
+- name: Tarariras
+  area_code: '574'
+- name: Termas del Arapey
+  area_code: '645'
+- name: Tomis Gomensoro
+  area_code: '777'
+- name: Tranqueras
+  area_code: '656'
+- name: Treinta y Tres
+  area_code: '45'
+- name: Trinidad
+  area_code: '364'
+- name: Velizquez
+  area_code: '457'
+- name: Vergara
+  area_code: '458'
+- name: Vichadero
+  area_code: '654'
+- name: Young
+  area_code: '567'
+- name: Zapicin
+  area_code: '463'

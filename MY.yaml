@@ -1,0 +1,87 @@
+---
+- name: Alor Setar
+  area_code: '4'
+- name: Beranang
+  area_code: '3'
+- name: Bintulu
+  area_code: '8'
+- name: Broga
+  area_code: '3'
+- name: Cheras
+  area_code: '3'
+- name: Dengkil
+  area_code: '3'
+- name: Ipoh
+  area_code: '5'
+- name: Johor Bahru
+  area_code: '7'
+- name: Johore (state)
+  area_code: '7'
+- name: Kajang
+  area_code: '3'
+- name: Kedah
+  area_code: '4'
+- name: Kelantan (state)
+  area_code: '9'
+- name: Kepala Batas
+  area_code: '4'
+- name: Kota Bharu
+  area_code: '9'
+- name: Kota Kinabalu
+  area_code: '8'
+- name: Kuala Lumpur
+  area_code: '3'
+- name: Kuala Terengganu
+  area_code: '9'
+- name: Kuantan
+  area_code: '9'
+- name: Kuching
+  area_code: '8'
+- name: Labuan
+  area_code: '8'
+- name: Machang
+  area_code: '9'
+- name: Maran
+  area_code: '9'
+- name: Melaka (state)
+  area_code: '6'
+- name: Miri
+  area_code: '8'
+- name: Muar
+  area_code: '6'
+- name: Negeri Sembilan (state)
+  area_code: '6'
+- name: Pahang
+  area_code: '9'
+- name: Penang (state)
+  area_code: '4'
+- name: Perak (state)
+  area_code: '4'
+- name: Perlis (state)
+  area_code: '4'
+- name: Port Dickson
+  area_code: '6'
+- name: Sabah (state)
+  area_code: '8'
+- name: Sandakan
+  area_code: '8'
+- name: Sarawak (state)
+  area_code: '8'
+- name: Selangor (state)
+  area_code: '3'
+- name: Semenyih
+  area_code: '3'
+- name: Seremban
+  area_code: '6'
+- name: Sibu
+  area_code: '8'
+- name: Sintok
+  area_code: '4'
+- name: Sri Aman
+  area_code: '8'
+- name: Sungei Besi
+  area_code: '3'
+- name: Sungei Renggam
+  area_code: '3'
+- name: Terengganu (state)
+  area_code: '9'

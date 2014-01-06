@@ -1,0 +1,47 @@
+---
+- name: Bjelovar
+  area_code: '43'
+- name: Cakovec
+  area_code: '40'
+- name: Dubrovnik
+  area_code: '20'
+- name: Gospic
+  area_code: '53'
+- name: Karlovac
+  area_code: '47'
+- name: Koprivnica
+  area_code: '48'
+- name: Krapina
+  area_code: '49'
+- name: Mobile Phones - T-Mobile
+  area_code: '9899'
+- name: Mobile Phones - Tele 2
+  area_code: '95'
+- name: Mobile Phones - VIP
+  area_code: '9192'
+- name: Osijek
+  area_code: '31'
+- name: Pazin
+  area_code: '52'
+- name: Pozega
+  area_code: '34'
+- name: Rijeka
+  area_code: '51'
+- name: Sibenik
+  area_code: '22'
+- name: Sisak
+  area_code: '44'
+- name: Slavonski Brod
+  area_code: '35'
+- name: Split
+  area_code: '21'
+- name: Varazdin
+  area_code: '42'
+- name: Vinkovci
+  area_code: '32'
+- name: Virovitica
+  area_code: '33'
+- name: Zadar
+  area_code: '23'
+- name: Zagreb
+  area_code: '1'

@@ -1,0 +1,99 @@
+---
+- name: Adrar
+  area_code: '49'
+- name: Ain Defla
+  area_code: '27'
+- name: Ain Temouchent
+  area_code: '43'
+- name: Alger
+  area_code: '21'
+- name: Annaba
+  area_code: '38'
+- name: Batna
+  area_code: '33'
+- name: Bechar
+  area_code: '49'
+- name: Bejaia
+  area_code: '34'
+- name: Biskra
+  area_code: '33'
+- name: Blida
+  area_code: '25'
+- name: Bordj Bou Arreridj
+  area_code: '35'
+- name: Bouira
+  area_code: '26'
+- name: Boumerdes
+  area_code: '24'
+- name: Chlef
+  area_code: '27'
+- name: Constantine
+  area_code: '31'
+- name: Djelfa
+  area_code: '27'
+- name: El Bayadh
+  area_code: '49'
+- name: El Oued
+  area_code: '32'
+- name: El Tarf
+  area_code: '38'
+- name: Ghardaia
+  area_code: '29'
+- name: Guelma
+  area_code: '37'
+- name: Illizi
+  area_code: '29'
+- name: Jijel
+  area_code: '34'
+- name: Khenchela
+  area_code: '32'
+- name: Laghouat
+  area_code: '29'
+- name: Mascara
+  area_code: '45'
+- name: Medea
+  area_code: '25'
+- name: Mila
+  area_code: '31'
+- name: Mobile Phones
+  area_code: '61'
+- name: Mostaganem
+  area_code: '45'
+- name: M’sila
+  area_code: '35'
+- name: Naama
+  area_code: '49'
+- name: Oran
+  area_code: '41'
+- name: Ouargla
+  area_code: '29'
+- name: Oum El Bouaghi
+  area_code: '32'
+- name: Relizane
+  area_code: '46'
+- name: Saida
+  area_code: '48'
+- name: Setif
+  area_code: '36'
+- name: Sidi Bel Abbes
+  area_code: '48'
+- name: Skikda
+  area_code: '38'
+- name: Souk Ahras
+  area_code: '37'
+- name: Tamenrasset
+  area_code: '29'
+- name: Tebessa
+  area_code: '37'
+- name: Tiaret
+  area_code: '46'
+- name: Tindouf
+  area_code: '49'
+- name: Tipaza
+  area_code: '24'
+- name: Tissemsilt
+  area_code: '46'
+- name: Tizi Ouzou
+  area_code: '26'
+- name: Tlemcen
+  area_code: '43'

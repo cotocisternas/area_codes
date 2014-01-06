@@ -1,0 +1,45 @@
+---
+- name: Bangkok
+  area_code: '2'
+- name: Burirum
+  area_code: '44'
+- name: Chanthaburi
+  area_code: '39'
+- name: Chiang Mai
+  area_code: '53'
+- name: Chiang Rai
+  area_code: '54'
+- name: Chon Buri
+  area_code: '38'
+- name: Kanchanaburi
+  area_code: '34'
+- name: Lampang
+  area_code: '54'
+- name: Nakhon Ratchasima
+  area_code: '44'
+- name: Nakhon Sawan
+  area_code: '56'
+- name: Namphaengphet
+  area_code: '55'
+- name: Nong Khai
+  area_code: '42'
+- name: Pattani
+  area_code: '73'
+- name: Pattaya
+  area_code: '38'
+- name: Phitsanulok
+  area_code: '55'
+- name: Phuket
+  area_code: '76'
+- name: Ratchaburi
+  area_code: '32'
+- name: Saraburi
+  area_code: '36'
+- name: Songkhla
+  area_code: '74'
+- name: Surat Thani
+  area_code: '77'
+- name: Tak
+  area_code: '55'
+- name: Ubon Ratchathani
+  area_code: '45'

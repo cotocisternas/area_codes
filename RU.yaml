@@ -1,0 +1,39 @@
+---
+- name: Belgorod
+  area_code: '472'
+- name: Bryansk
+  area_code: '483'
+- name: Ivanovo
+  area_code: '493'
+- name: Kaliningrad
+  area_code: '401'
+- name: Kaluga
+  area_code: '484'
+- name: Kostroma
+  area_code: '494'
+- name: Kursk
+  area_code: '471'
+- name: Lipetsk
+  area_code: '474'
+- name: Moscow (municipal)
+  area_code: '495'
+- name: Moscow (regional)
+  area_code: '496'
+- name: Oryol
+  area_code: '486'
+- name: Ryazan
+  area_code: '491'
+- name: Smolensk
+  area_code: '481'
+- name: Tambov
+  area_code: '475'
+- name: Tula
+  area_code: '487'
+- name: Tver
+  area_code: '482'
+- name: Vladimir
+  area_code: '492'
+- name: Voronezh
+  area_code: '473'
+- name: Yaroslavl
+  area_code: '485'

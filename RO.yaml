@@ -1,0 +1,881 @@
+---
+- name: Abrud
+  area_code: '258'
+- name: Adjud
+  area_code: '237'
+- name: Agigea
+  area_code: '241'
+- name: Agnita
+  area_code: '269'
+- name: Aiud
+  area_code: '258'
+- name: Alba Iulia
+  area_code: '258'
+- name: Alesd
+  area_code: '259'
+- name: Alexandria
+  area_code: '247'
+- name: Amara
+  area_code: '243'
+- name: Apahida
+  area_code: '264'
+- name: Arad
+  area_code: '257'
+- name: Asau
+  area_code: '234'
+- name: Avrig
+  area_code: '269'
+- name: Axente Sever
+  area_code: '269'
+- name: Azuga
+  area_code: '244'
+- name: Baba Ana
+  area_code: '244'
+- name: Babadag
+  area_code: '240'
+- name: Babeni
+  area_code: '250'
+- name: Bacau
+  area_code: '234'
+- name: Bacia
+  area_code: '254'
+- name: Baia Mare
+  area_code: '262'
+- name: Baia Sprie
+  area_code: '262'
+- name: Baicoi
+  area_code: '244'
+- name: Baiculesti
+  area_code: '248'
+- name: Baile Felix
+  area_code: '259'
+- name: Baile Govora
+  area_code: '250'
+- name: Baile Herculane
+  area_code: '255'
+- name: Baile Olanesti
+  area_code: '250'
+- name: Bailesti
+  area_code: '251'
+- name: Bals
+  area_code: '249'
+- name: Baneasa
+  area_code: '241'
+- name: Banesti
+  area_code: '244'
+- name: 'Barcanesti (judetz: Ialomitza)'
+  area_code: '243'
+- name: 'Barcanesti (judetz: Prahova)'
+  area_code: '244'
+- name: Barcani
+  area_code: '267'
+- name: Basarabi
+  area_code: '241'
+- name: Bascov
+  area_code: '248'
+- name: Beclean
+  area_code: '263'
+- name: Beius
+  area_code: '259'
+- name: Bicaz
+  area_code: '233'
+- name: Bilciuresti
+  area_code: '245'
+- name: Birca
+  area_code: '251'
+- name: Birlad
+  area_code: '235'
+- name: Bistrita
+  area_code: '263'
+- name: Blaj
+  area_code: '258'
+- name: Bocsa Româna
+  area_code: '255'
+- name: Boldesti - Scaieni
+  area_code: '244'
+- name: Bolintin Vale
+  area_code: '246'
+- name: Botosani
+  area_code: '231'
+- name: Brad
+  area_code: '254'
+- name: Braesti
+  area_code: '231'
+- name: Braila
+  area_code: '239'
+- name: Bran
+  area_code: '268'
+- name: Branesti
+  area_code: '2179'
+- name: Branisca
+  area_code: '254'
+- name: Brasov
+  area_code: '268'
+- name: Breaza
+  area_code: '244'
+- name: Brebu
+  area_code: '255'
+- name: Bretea Româna
+  area_code: '254'
+- name: Brezoi
+  area_code: '250'
+- name: Bucecea
+  area_code: '231'
+- name: Bucov
+  area_code: '244'
+- name: Bucuresci
+  area_code: '254'
+- name: Bucuresti (Bucharest)
+  area_code: '21'
+- name: Buftea
+  area_code: '2179'
+- name: Buhoci
+  area_code: '234'
+- name: Buhusi
+  area_code: '234'
+- name: Busteni
+  area_code: '244'
+- name: Buzau
+  area_code: '238'
+- name: Buzias
+  area_code: '256'
+- name: Caciulata
+  area_code: '250'
+- name: Calafat
+  area_code: '251'
+- name: Calan
+  area_code: '254'
+- name: Calarasi
+  area_code: '242'
+- name: Calimanesti
+  area_code: '250'
+- name: Calugareni
+  area_code: '246'
+- name: Cap Aurora
+  area_code: '241'
+- name: Caracal
+  area_code: '249'
+- name: Caransebes
+  area_code: '255'
+- name: Carei
+  area_code: '261'
+- name: Carpinis
+  area_code: '241'
+- name: Casin
+  area_code: '234'
+- name: Castelu
+  area_code: '241'
+- name: Catau Ludus
+  area_code: '265'
+- name: Ceahlau
+  area_code: '233'
+- name: Cehu Silvaniei
+  area_code: '260'
+- name: Cerat
+  area_code: '251'
+- name: Cerna Voda
+  area_code: '241'
+- name: Certeju De Sus
+  area_code: '254'
+- name: Chisineu Cris
+  area_code: '257'
+- name: Cimpeni
+  area_code: '258'
+- name: Cimpia Turzii
+  area_code: '264'
+- name: Cimpina
+  area_code: '244'
+- name: Cimpulung Moldovenesc
+  area_code: '230'
+- name: Cimpulung Muscel
+  area_code: '248'
+- name: Cisnadie
+  area_code: '269'
+- name: Cluj - Napoca
+  area_code: '264'
+- name: Cochirleni
+  area_code: '241'
+- name: Codlea
+  area_code: '268'
+- name: Colibasi
+  area_code: '248'
+- name: Comanesti
+  area_code: '234'
+- name: Comarnic
+  area_code: '244'
+- name: Constanta
+  area_code: '241'
+- name: Copsa Mica
+  area_code: '269'
+- name: Corabia
+  area_code: '249'
+- name: Corbeni
+  area_code: '248'
+- name: Corbu
+  area_code: '241'
+- name: Cornu
+  area_code: '244'
+- name: Cosereni
+  area_code: '243'
+- name: Costesti
+  area_code: '248'
+- name: Costinesti
+  area_code: '241'
+- name: Cotnari
+  area_code: '232'
+- name: Covasna
+  area_code: '267'
+- name: Craiova
+  area_code: '251'
+- name: Criscior
+  area_code: '254'
+- name: Cristian
+  area_code: '269'
+- name: Cristur
+  area_code: '254'
+- name: Cugir
+  area_code: '258'
+- name: Curtea De Arges
+  area_code: '248'
+- name: Curtici
+  area_code: '257'
+- name: Cuza Voda
+  area_code: '241'
+- name: Dabuleni
+  area_code: '251'
+- name: Darabani
+  area_code: '231'
+- name: Darmanesti
+  area_code: '234'
+- name: Dej
+  area_code: '264'
+- name: Deta
+  area_code: '256'
+- name: Deva
+  area_code: '254'
+- name: Dirlos
+  area_code: '269'
+- name: Dobra
+  area_code: '254'
+- name: Doi Mai
+  area_code: '241'
+- name: Dorohoi
+  area_code: '231'
+- name: 'Draganesti (judetz: Olt)'
+  area_code: '249'
+- name: 'Draganesti - Vlasca (judetz: T'
+  area_code: '247'
+- name: Draganu
+  area_code: '248'
+- name: Dragasani
+  area_code: '250'
+- name: Drobeta - Turnu Severin
+  area_code: '252'
+- name: Dumbrava Rosie
+  area_code: '233'
+- name: Dumbraveni
+  area_code: '230269'
+- name: Eforie Nord
+  area_code: '241'
+- name: Eforie Sud
+  area_code: '241'
+- name: Fagaras
+  area_code: '268'
+- name: Faget
+  area_code: '256'
+- name: Falticeni
+  area_code: '230'
+- name: 'Faurei (judetz: Braila)'
+  area_code: '239'
+- name: 'Faurei (judetz: Constanta)'
+  area_code: '241'
+- name: Fetesti
+  area_code: '243'
+- name: Fieni
+  area_code: '245'
+- name: Filiasi
+  area_code: '251'
+- name: Fintinele
+  area_code: '257'
+- name: Flaminzi
+  area_code: '231'
+- name: 'Floresti (judetz: Cluj)'
+  area_code: '264'
+- name: 'Floresti (judetz: Prahova)'
+  area_code: '244'
+- name: Focsani
+  area_code: '237'
+- name: Frasin
+  area_code: '230'
+- name: Gaiesti
+  area_code: '245'
+- name: Galati
+  area_code: '236'
+- name: Gelu
+  area_code: '261'
+- name: Geoagiu Bai
+  area_code: '254'
+- name: Ghelari
+  area_code: '254'
+- name: Gheorghi- Eni
+  area_code: '266'
+- name: Gheraseni
+  area_code: '238'
+- name: Gherla
+  area_code: '264'
+- name: Ghimpati
+  area_code: '246'
+- name: Giarmata
+  area_code: '256'
+- name: Girbovi
+  area_code: '243'
+- name: Giurgiu
+  area_code: '246'
+- name: Glodeanu Silistea
+  area_code: '238'
+- name: Gura Humorului
+  area_code: '230'
+- name: Gura Ocnitei
+  area_code: '245'
+- name: Gura Sutii
+  area_code: '245'
+- name: Harman
+  area_code: '268'
+- name: Hateg
+  area_code: '254'
+- name: Hirlau
+  area_code: '232'
+- name: Hirsova
+  area_code: '241'
+- name: Hlipiceni
+  area_code: '231'
+- name: Horezu
+  area_code: '250'
+- name: Huedin
+  area_code: '264'
+- name: Hunedoara
+  area_code: '254'
+- name: Husi
+  area_code: '235'
+- name: Ianca
+  area_code: '239'
+- name: Iasi
+  area_code: '232'
+- name: Iernut
+  area_code: '265'
+- name: Ineu
+  area_code: '257'
+- name: Insuratei
+  area_code: '239'
+- name: Intorsura Buzaului
+  area_code: '267'
+- name: Ion Luca Caragiale
+  area_code: '245'
+- name: Isaccea
+  area_code: '240'
+- name: Jibou
+  area_code: '260'
+- name: Jimbolia
+  area_code: '256'
+- name: Jupiter
+  area_code: '241'
+- name: Lazu
+  area_code: '241'
+- name: Lehliu Gara
+  area_code: '242'
+- name: Leresti
+  area_code: '248'
+- name: Letea Veche
+  area_code: '234'
+- name: Leu
+  area_code: '251'
+- name: Liesti
+  area_code: '236'
+- name: Limanu
+  area_code: '241'
+- name: Lipanesti
+  area_code: '244'
+- name: Lipova
+  area_code: '257'
+- name: Livezi
+  area_code: '234'
+- name: Livezile
+  area_code: '252'
+- name: Ludus
+  area_code: '265'
+- name: Lugoj
+  area_code: '256'
+- name: Lumina
+  area_code: '241'
+- name: Luminita
+  area_code: '241'
+- name: Lupeni
+  area_code: '254'
+- name: M. Kogalniceanu
+  area_code: '243'
+- name: Macin
+  area_code: '240'
+- name: Magura
+  area_code: '234'
+- name: Malu Cu Flori
+  area_code: '245'
+- name: Mamaia
+  area_code: '241'
+- name: Manastirea Neamt
+  area_code: '233'
+- name: Mangalia
+  area_code: '241'
+- name: Maracineni
+  area_code: '238'
+- name: Marasesti
+  area_code: '237'
+- name: Marghita
+  area_code: '259'
+- name: Margineni
+  area_code: '234'
+- name: Medgidia
+  area_code: '241'
+- name: Medias
+  area_code: '269'
+- name: Merei
+  area_code: '238'
+- name: Merisani
+  area_code: '248'
+- name: Miercurea Ciuc
+  area_code: '266'
+- name: Miercurea Miraj
+  area_code: '265'
+- name: Mizil
+  area_code: '244'
+- name: Moeciu De Jos
+  area_code: '268'
+- name: Mogosoaia
+  area_code: '21'
+- name: Moinesti
+  area_code: '234'
+- name: Moldova Veche
+  area_code: '255'
+- name: Moneasa
+  area_code: '257'
+- name: Moreni
+  area_code: '245'
+- name: Moroeni
+  area_code: '245'
+- name: Motru
+  area_code: '253'
+- name: Nadlac
+  area_code: '257'
+- name: Nasaud
+  area_code: '263'
+- name: Navodari
+  area_code: '241'
+- name: Negresti
+  area_code: '235'
+- name: Negresti - Oas
+  area_code: '261'
+- name: Negureni
+  area_code: '241'
+- name: Nehoiu
+  area_code: '238'
+- name: Neptun
+  area_code: '241'
+- name: Nicolae Balcescu
+  area_code: '234'
+- name: Nisipari
+  area_code: '241'
+- name: Novaci
+  area_code: '253'
+- name: Ocna Mures
+  area_code: '258'
+- name: Ocna Sibiului
+  area_code: '269'
+- name: Ocnita
+  area_code: '245'
+- name: Odobesti
+  area_code: '237'
+- name: Odorheiu Secuiesc
+  area_code: '266'
+- name: Olimp
+  area_code: '241'
+- name: Oltenita
+  area_code: '242'
+- name: Onesti
+  area_code: '234'
+- name: Oradea
+  area_code: '259'
+- name: Orastie
+  area_code: '254'
+- name: Oravita
+  area_code: '255'
+- name: Orsova
+  area_code: '252'
+- name: Otelu Rosu
+  area_code: '255'
+- name: Otopeni
+  area_code: '21'
+- name: Ovidiu
+  area_code: '241'
+- name: Palazu Mare
+  area_code: '241'
+- name: Panciu
+  area_code: '237'
+- name: Parava
+  area_code: '234'
+- name: Pascani
+  area_code: '232'
+- name: Patirla Gele
+  area_code: '238'
+- name: Paulis
+  area_code: '257'
+- name: 'Petresti (judetz: Alba)'
+  area_code: '258'
+- name: 'Petresti (judetz: Dambovita)'
+  area_code: '245'
+- name: Petrila
+  area_code: '254'
+- name: Petrosani
+  area_code: '254'
+- name: Piatra
+  area_code: '241'
+- name: Piatra Neamt
+  area_code: '233'
+- name: Pielesti
+  area_code: '251'
+- name: Pietrosita
+  area_code: '245'
+- name: Pincesti
+  area_code: '234'
+- name: Piriul Rece
+  area_code: '268'
+- name: Pitesti
+  area_code: '248'
+- name: Plenita
+  area_code: '251'
+- name: Ploiesti
+  area_code: '244'
+- name: Plopeni
+  area_code: '244'
+- name: Podari
+  area_code: '251'
+- name: Podu Iloaiei
+  area_code: '232'
+- name: Podu Turcului
+  area_code: '234'
+- name: Podu Vadului
+  area_code: '244'
+- name: Poduri
+  area_code: '234'
+- name: Pogoanele
+  area_code: '238'
+- name: Poiana
+  area_code: '241'
+- name: Poiana Brasov
+  area_code: '268'
+- name: Poiana Cimpina
+  area_code: '244'
+- name: Poiana Marului
+  area_code: '268'
+- name: Poiana Tapului
+  area_code: '244'
+- name: Predeal
+  area_code: '268'
+- name: Prundu Birgaului
+  area_code: '263'
+- name: Pucioasa
+  area_code: '245'
+- name: Racaciuni
+  area_code: '234'
+- name: Racari
+  area_code: '245'
+- name: Radauti
+  area_code: '230'
+- name: Rasinari
+  area_code: '269'
+- name: Razoare
+  area_code: '241'
+- name: Razvad
+  area_code: '245'
+- name: Reghin
+  area_code: '265'
+- name: Remus Opreanu
+  area_code: '241'
+- name: Resita
+  area_code: '255'
+- name: Rimnicu Sarat
+  area_code: '238'
+- name: Rimnicu Vilcea
+  area_code: '250'
+- name: Ripiceni
+  area_code: '231'
+- name: Risnov
+  area_code: '268'
+- name: Roman
+  area_code: '233'
+- name: Romos
+  area_code: '254'
+- name: Ropotu Mare
+  area_code: '254'
+- name: Rosiori De Vede
+  area_code: '247'
+- name: Roznov
+  area_code: '233'
+- name: Rucar
+  area_code: '248'
+- name: Rupea
+  area_code: '268'
+- name: Sacele
+  area_code: '268'
+- name: Saligny
+  area_code: '241'
+- name: Saliste
+  area_code: '269'
+- name: Salonta
+  area_code: '259'
+- name: Sarmisege- Tuza
+  area_code: '254'
+- name: Sasciori
+  area_code: '258'
+- name: Sascut
+  area_code: '234'
+- name: Satu Mare
+  area_code: '261'
+- name: Satu Nou
+  area_code: '241'
+- name: Saturn
+  area_code: '241'
+- name: Saucesti
+  area_code: '234'
+- name: Saveni
+  area_code: '231'
+- name: Savinesti
+  area_code: '233'
+- name: Savirsin
+  area_code: '257'
+- name: Schitu
+  area_code: '241'
+- name: Scinteia
+  area_code: '243'
+- name: Scornicesti
+  area_code: '249'
+- name: Scurtesti
+  area_code: '238'
+- name: Sebes
+  area_code: '258'
+- name: Sebis
+  area_code: '257'
+- name: Secuieni
+  area_code: '234'
+- name: Segarcea
+  area_code: '251'
+- name: Seimenii Mici
+  area_code: '241'
+- name: Seini
+  area_code: '262'
+- name: Seitin
+  area_code: '257'
+- name: Selimbar
+  area_code: '269'
+- name: Sfintu Gheorghe
+  area_code: '267'
+- name: Sibioara
+  area_code: '241'
+- name: Sibiu
+  area_code: '269'
+- name: Sighetu Marmatiei
+  area_code: '262'
+- name: Sighisoara
+  area_code: '265'
+- name: Simeria
+  area_code: '254'
+- name: Siminoc
+  area_code: '241'
+- name: Simleul Silvaniei
+  area_code: '260'
+- name: Sinaia
+  area_code: '244'
+- name: Singeorz-Bai
+  area_code: '263'
+- name: Sinnicolau-Mare
+  area_code: '256'
+- name: Sinpetru
+  area_code: '268'
+- name: Sintandrei
+  area_code: '254'
+- name: Sintimbru
+  area_code: '258'
+- name: Siret
+  area_code: '230'
+- name: Siria
+  area_code: '257'
+- name: Sita Buzaului
+  area_code: '267'
+- name: Slanic
+  area_code: '244'
+- name: Slanic Moldova
+  area_code: '234'
+- name: Slatina
+  area_code: '249'
+- name: Slobozia
+  area_code: '243'
+- name: Snagov
+  area_code: '2179'
+- name: Sofronea
+  area_code: '257'
+- name: Soimus
+  area_code: '254'
+- name: Solca
+  area_code: '230'
+- name: Sovata Bai
+  area_code: '265'
+- name: Stefanesti
+  area_code: '248'
+- name: Stei
+  area_code: '259'
+- name: Stolnici
+  area_code: '248'
+- name: Strehaia
+  area_code: '252'
+- name: Suceava
+  area_code: '230'
+- name: Sulina
+  area_code: '240'
+- name: Talmaciu
+  area_code: '269'
+- name: Tandarei
+  area_code: '243'
+- name: Tasnad
+  area_code: '261'
+- name: Techirghiol
+  area_code: '241'
+- name: Tecuci
+  area_code: '236'
+- name: Telega
+  area_code: '244'
+- name: Teliucu Inferior
+  area_code: '254'
+- name: Teremia Mare
+  area_code: '256'
+- name: Timisoara
+  area_code: '256'
+- name: Timisu De Jos
+  area_code: '268'
+- name: Timisu De Sus
+  area_code: '268'
+- name: Tintea
+  area_code: '244'
+- name: Tirgoviste
+  area_code: '245'
+- name: Tirgu Bujor
+  area_code: '236'
+- name: Tirgu Frumos
+  area_code: '232'
+- name: Tirgu Jiu
+  area_code: '253'
+- name: Tirgu Lapus
+  area_code: '262'
+- name: Tirgu Mures
+  area_code: '265'
+- name: Tirgu Neamt
+  area_code: '233'
+- name: Tirgu Ocna
+  area_code: '234'
+- name: Tirgu Secuiesc
+  area_code: '267'
+- name: Tirnaveni
+  area_code: '265'
+- name: Tismana
+  area_code: '253'
+- name: Titu
+  area_code: '245'
+- name: Tohan
+  area_code: '268'
+- name: Toplita
+  area_code: '266'
+- name: Topoloveni
+  area_code: '248'
+- name: Tortoman
+  area_code: '241'
+- name: Traian
+  area_code: '234'
+- name: Tulcea
+  area_code: '240'
+- name: Turceni
+  area_code: '253'
+- name: Turda
+  area_code: '264'
+- name: Turnu Magurele
+  area_code: '247'
+- name: Tuzla
+  area_code: '241'
+- name: Urlati
+  area_code: '244'
+- name: Urziceni
+  area_code: '243'
+- name: Vacaresti
+  area_code: '245'
+- name: Vaculesti
+  area_code: '231'
+- name: Vadu Oii
+  area_code: '241'
+- name: Vadu Pasii
+  area_code: '238'
+- name: Valea Bolvasnita
+  area_code: '255'
+- name: Valea Calugareasca
+  area_code: '244'
+- name: Valea Ciorii
+  area_code: '243'
+- name: Valea Dacilor
+  area_code: '241'
+- name: Valea Doftanei
+  area_code: '244'
+- name: Valenii De Munte
+  area_code: '244'
+- name: Vama Veche
+  area_code: '241'
+- name: Varias
+  area_code: '256'
+- name: Vaslui
+  area_code: '235'
+- name: Vatra Dornei
+  area_code: '230'
+- name: Vatra Moldovitei
+  area_code: '230'
+- name: Venus
+  area_code: '241'
+- name: Vetel
+  area_code: '254'
+- name: Victoria
+  area_code: '268'
+- name: Videle
+  area_code: '247'
+- name: Viile Satu Mare
+  area_code: '261'
+- name: Viisoara
+  area_code: '233'
+- name: Vinatorii-Neamt
+  area_code: '233'
+- name: Vinga
+  area_code: '257'
+- name: Vinju Mare
+  area_code: '252'
+- name: Vladimirescu
+  area_code: '257'
+- name: Voicesti
+  area_code: '250'
+- name: Voinesti
+  area_code: '245'
+- name: Vulcan
+  area_code: '254'
+- name: Zadareni
+  area_code: '257'
+- name: Zalau
+  area_code: '260'
+- name: Zanesti
+  area_code: '233'
+- name: Zarnesti
+  area_code: '268'
+- name: Zimnicea
+  area_code: '247'
+- name: Zlatna
+  area_code: '258'

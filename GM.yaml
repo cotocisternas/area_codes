@@ -1,0 +1,15 @@
+---
+- name: Bakau
+  area_code: '449'
+- name: Banjul
+  area_code: '42'
+- name: Kotu
+  area_code: '446'
+- name: Outside Libreville
+  area_code: '2'
+- name: Sanyang
+  area_code: '441'
+- name: Serekunda
+  area_code: '43'
+- name: Yundum
+  area_code: '447'

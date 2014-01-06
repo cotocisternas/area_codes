@@ -1,0 +1,53 @@
+---
+- name: Amsterdam
+  area_code: '20'
+- name: Arnhem
+  area_code: '26'
+- name: de Meern
+  area_code: '30'
+- name: Den Bosch
+  area_code: '73'
+- name: Deventer
+  area_code: '570'
+- name: Eindhoven
+  area_code: '40'
+- name: Groningen
+  area_code: '50'
+- name: Haarlem
+  area_code: '23'
+- name: Heemstede
+  area_code: '23'
+- name: Hillegersberg
+  area_code: '10'
+- name: Hilversum
+  area_code: '35'
+- name: Hoensbroek
+  area_code: '45'
+- name: Hoogkerk
+  area_code: '50'
+- name: Hoogvliet
+  area_code: '10'
+- name: Houten
+  area_code: '30'
+- name: IJsselstein
+  area_code: '30'
+- name: Leiden
+  area_code: '71'
+- name: Nieuwegein
+  area_code: '30'
+- name: Nijmegen
+  area_code: '24'
+- name: Oud Zuilen
+  area_code: '30'
+- name: Oud Zuilen is part of Utrecht
+  area_code: ''
+- name: Rotterdam
+  area_code: '10'
+- name: The Hague (Den Haag)
+  area_code: '70'
+- name: Utrecht
+  area_code: '30'
+- name: Vught
+  area_code: '73'
+- name: Zeist
+  area_code: '30'

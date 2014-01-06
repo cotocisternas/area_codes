@@ -1,0 +1,59 @@
+---
+- name: All other points
+  area_code: +268    5 digits with no Cit
+- name: Bhunya
+  area_code: '452453'
+- name: Big Bend
+  area_code: '363364'
+- name: Hlathikulu
+  area_code: '217'
+- name: Hluthi
+  area_code: '227'
+- name: Lobamba
+  area_code: '416'
+- name: Ludzeludze
+  area_code: '548'
+- name: Mahamba
+  area_code: '237'
+- name: Mahwalala
+  area_code: '472'
+- name: Malkerns
+  area_code: '528'
+- name: Mankayane
+  area_code: '538'
+- name: Manzini
+  area_code: '505506'
+- name: Maphiveni
+  area_code: '373'
+- name: Matsapha
+  area_code: '517518'
+- name: Mbabane
+  area_code: '404405406'
+- name: Mhlambanyatsi
+  area_code: '467'
+- name: Mhlume
+  area_code: '312313'
+- name: Mpaka
+  area_code: '333'
+- name: Ngwenya
+  area_code: '442'
+- name: Nhlangano
+  area_code: '207'
+- name: Nsoko
+  area_code: '303'
+- name: Pigg's Peak
+  area_code: '437'
+- name: Sidwashini
+  area_code: '422'
+- name: Simunye
+  area_code: '382383'
+- name: Siphocosini
+  area_code: '482'
+- name: Siphofaneni
+  area_code: '344'
+- name: Siteki
+  area_code: '343'
+- name: Tshaneni
+  area_code: '322323'
+- name: Villaverde de Guadalimar
+  area_code: '67'

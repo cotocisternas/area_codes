@@ -1,0 +1,67 @@
+---
+- name: Blagoevgrad
+  area_code: '73'
+- name: Bourgas
+  area_code: '56'
+- name: Dobritch
+  area_code: '58'
+- name: Gabrovo
+  area_code: '66'
+- name: Gotse Delchev
+  area_code: '751'
+- name: Haskovo
+  area_code: '38'
+- name: Kardjali
+  area_code: '361'
+- name: Kazanluk
+  area_code: '431'
+- name: Kjustendil
+  area_code: '78'
+- name: Lovetch
+  area_code: '68'
+- name: Mobile Phones - Globul
+  area_code: '89'
+- name: Mobile Phones - Mobikom
+  area_code: '48'
+- name: Mobile Phones - Mtel
+  area_code: '88'
+- name: Mobile Phones - Vivacom
+  area_code: '87'
+- name: Montana
+  area_code: '96'
+- name: Pazardjik
+  area_code: '34'
+- name: Pernik
+  area_code: '76'
+- name: Pleven
+  area_code: '64'
+- name: Plovdiv
+  area_code: '32'
+- name: Razgrad
+  area_code: '84'
+- name: Rousse
+  area_code: '82'
+- name: Shoumen
+  area_code: '54'
+- name: Silistra
+  area_code: '86'
+- name: Sliven
+  area_code: '44'
+- name: Smolyan
+  area_code: '301'
+- name: Sofia
+  area_code: '2'
+- name: Stara Zagora
+  area_code: '42'
+- name: Targovishte
+  area_code: '601'
+- name: Varna
+  area_code: '52'
+- name: Veliko Tarnovo
+  area_code: '62'
+- name: Vidin
+  area_code: '94'
+- name: Vratsa
+  area_code: '92'
+- name: Yambol
+  area_code: '46'

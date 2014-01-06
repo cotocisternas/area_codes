@@ -1,0 +1,15 @@
+---
+- name: Basse Terre
+  area_code: '81'
+- name: Capesterre
+  area_code: '86'
+- name: Gosier
+  area_code: '84'
+- name: Grand Bourg
+  area_code: '97'
+- name: Jarry
+  area_code: '26'
+- name: Pointe A Pitre
+  area_code: '8'
+- name: Pointe A Pitre
+  area_code: '9'

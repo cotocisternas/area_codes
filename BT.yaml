@@ -1,0 +1,127 @@
+---
+- name: Bangtar DAMA
+  area_code: '7'
+- name: Basochu
+  area_code: '2'
+- name: Chapcha
+  area_code: '8'
+- name: Chargary
+  area_code: '5'
+- name: Chumey
+  area_code: '3'
+- name: Dagana
+  area_code: '6'
+- name: Dagapela
+  area_code: '6'
+- name: Daifam DAMA
+  area_code: '7'
+- name: Damphu DAMA
+  area_code: '6'
+- name: Dechencholing
+  area_code: '2'
+- name: Deothang
+  area_code: '7'
+- name: Drujegang
+  area_code: '6'
+- name: Drukgyel Dzong
+  area_code: '8'
+- name: Gasa
+  area_code: '2'
+- name: Gedu/Tala/Padechu/Sinchekha
+  area_code: '5'
+- name: Gelephu
+  area_code: '6'
+- name: Gelpoyshing
+  area_code: '4'
+- name: Gomtu
+  area_code: '5'
+- name: Ha
+  area_code: '8'
+- name: Ha (Damthang)
+  area_code: '8'
+- name: Jakar
+  area_code: '3'
+- name: Kanglung
+  area_code: '4'
+- name: Khaling
+  area_code: '4'
+- name: Kharsadrapchu
+  area_code: '2'
+- name: Lhamoi Zingkha
+  area_code: '5'
+- name: Lhuntse
+  area_code: '4'
+- name: Lingshi DAMA
+  area_code: '2'
+- name: Lodrai
+  area_code: '6'
+- name: Mobile Phones
+  area_code: '17'
+- name: Mongar
+  area_code: '4'
+- name: Nganglam
+  area_code: '7'
+- name: Nganglam DAMA
+  area_code: '7'
+- name: P/Gatshel
+  area_code: '7'
+- name: P/Gatshel DAMA
+  area_code: '7'
+- name: Panbang DAMA
+  area_code: '6'
+- name: Paro
+  area_code: '8'
+- name: Pasakha
+  area_code: '5'
+- name: Phuntsholing
+  area_code: '5'
+- name: Punakha
+  area_code: '2'
+- name: Rangjung
+  area_code: '4'
+- name: S/Jongkhar
+  area_code: '7'
+- name: Sakteng DAMA
+  area_code: '4'
+- name: Samtse
+  area_code: '5'
+- name: Sarpang
+  area_code: '6'
+- name: Shaba
+  area_code: '8'
+- name: Sibsoo
+  area_code: '5'
+- name: Simtokha
+  area_code: '2'
+- name: Suray
+  area_code: '6'
+- name: Taba
+  area_code: '2'
+- name: Tangmachu
+  area_code: '4'
+- name: Thimphu
+  area_code: '2'
+- name: Tingtibi
+  area_code: '3'
+- name: Trashi Yangtse
+  area_code: '4'
+- name: Trashigang
+  area_code: '4'
+- name: Trongsa
+  area_code: '3'
+- name: Tsenkharla
+  area_code: '4'
+- name: Tsimasham
+  area_code: '8'
+- name: Tsirang (Damphu)
+  area_code: '6'
+- name: Wamrong
+  area_code: '4'
+- name: Wangdue
+  area_code: '2'
+- name: Wangkha
+  area_code: '8'
+- name: Zhemgang
+  area_code: '3'
+- name: Zhemgang DAMA
+  area_code: '3'

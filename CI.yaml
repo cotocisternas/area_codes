@@ -1,0 +1,25 @@
+---
+- name: Abengourou
+  area_code: '35'
+- name: Abidjan
+  area_code: '21'
+- name: Abobo
+  area_code: '24'
+- name: Banco
+  area_code: '23'
+- name: Bouaké
+  area_code: '31'
+- name: Cocody
+  area_code: '22'
+- name: Daloa
+  area_code: '32'
+- name: Korhogo
+  area_code: '36'
+- name: Man
+  area_code: '33'
+- name: Plateau
+  area_code: '20'
+- name: San Pedro
+  area_code: '34'
+- name: Yamoussoukro
+  area_code: '30'

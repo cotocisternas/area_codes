@@ -1,0 +1,23 @@
+---
+- name: Atbara
+  area_code: '21'
+- name: Elobeid
+  area_code: '81'
+- name: Jedaraf
+  area_code: '441'
+- name: Kassala
+  area_code: '41'
+- name: Khartoum
+  area_code: '183'
+- name: Kosti
+  area_code: '71'
+- name: Modurman
+  area_code: '11'
+- name: Port Sudan
+  area_code: '31'
+- name: Sennar
+  area_code: '61'
+- name: Shetnzi
+  area_code: '616'
+- name: Wadmedai
+  area_code: '51'

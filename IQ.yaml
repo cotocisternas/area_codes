@@ -1,0 +1,13 @@
+---
+- name: Baghdad
+  area_code: '1'
+- name: Basra
+  area_code: '40'
+- name: Kerbela
+  area_code: '32'
+- name: Kirkuk
+  area_code: '50'
+- name: Mousil
+  area_code: '60'
+- name: Najaf
+  area_code: '33'

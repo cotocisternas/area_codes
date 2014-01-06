@@ -1,0 +1,17 @@
+---
+- name: Famagusta
+  area_code: '23'
+- name: Larnaca
+  area_code: '24'
+- name: Limassol
+  area_code: '25'
+- name: Mobile Phones - CYTA
+  area_code: '99'
+- name: Mobile Phones - NMT
+  area_code: '992'
+- name: Mobile Phones - SoEasy
+  area_code: '998'
+- name: Nicosia
+  area_code: '22'
+- name: Paphos
+  area_code: '26'

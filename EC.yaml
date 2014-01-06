@@ -1,0 +1,13 @@
+---
+- name: Azuay
+  area_code: '7'
+- name: Bolívar
+  area_code: '3'
+- name: Carchi
+  area_code: '6'
+- name: Guayas (Guayaquil)
+  area_code: '4'
+- name: Los Rios
+  area_code: '5'
+- name: Pichincha (Quito)
+  area_code: '2'

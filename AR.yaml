@@ -1,0 +1,63 @@
+---
+- name: Bahia Blanca
+  area_code: '291'
+- name: Buenos Aires
+  area_code: '11'
+- name: Catamarca
+  area_code: '3833'
+- name: Comodoro Rivadavia
+  area_code: '297'
+- name: Concordia
+  area_code: '345'
+- name: Cordoba
+  area_code: '351'
+- name: Corrientes
+  area_code: '3783'
+- name: Formosa
+  area_code: '3717'
+- name: Jesus Maria
+  area_code: '3525'
+- name: La Plata
+  area_code: '221'
+- name: La Rioja
+  area_code: '3822'
+- name: Mar del Plata
+  area_code: '223'
+- name: Mendoza
+  area_code: '261'
+- name: Mercedes/Prov. B.A.
+  area_code: '2324'
+- name: Neuquen
+  area_code: '299'
+- name: Parana
+  area_code: '343'
+- name: Posadas
+  area_code: '3752'
+- name: Resistencia
+  area_code: '3722'
+- name: Rio Cuarto
+  area_code: '358'
+- name: Rosario
+  area_code: '341'
+- name: Salta
+  area_code: '387'
+- name: San Juan
+  area_code: '264'
+- name: San Luis
+  area_code: '2652'
+- name: San Nicolas
+  area_code: '3461'
+- name: San Rafael
+  area_code: '2627'
+- name: Santa Fe
+  area_code: '342'
+- name: Santiago del Estero
+  area_code: '385'
+- name: Santo Tome
+  area_code: '3756'
+- name: Tandil
+  area_code: '2293'
+- name: Trelew
+  area_code: '2965'
+- name: Villa Maria
+  area_code: '531'

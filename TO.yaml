@@ -1,0 +1,27 @@
+---
+- name: Eua
+  area_code: '50'
+- name: Ha'apai Group
+  area_code: '6069'
+- name: Kolonga
+  area_code: '3334'
+- name: Masilamea
+  area_code: '4142'
+- name: Matangiake
+  area_code: '4344'
+- name: Mua
+  area_code: '3132'
+- name: Nakolo
+  area_code: '3536'
+- name: Neiafu
+  area_code: '70717479'
+- name: Niuafo'ou
+  area_code: '80'
+- name: Niuatoputapu
+  area_code: '85'
+- name: Nuku'alofa
+  area_code: '202122232425262728'
+- name: Pea
+  area_code: '2930'
+- name: Vaini
+  area_code: '3738'

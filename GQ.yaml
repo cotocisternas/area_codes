@@ -1,0 +1,7 @@
+---
+- name: Bata (Continent)
+  area_code: '8'
+- name: Malabo (Bioko Island)
+  area_code: '9'
+- name: Malabo (Continent)
+  area_code: '7'

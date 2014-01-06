@@ -1,0 +1,43 @@
+---
+- name: Bludenz
+  area_code: '5552'
+- name: Graz
+  area_code: '316'
+- name: Innsbruck
+  area_code: '512'
+- name: Kitzbuhel
+  area_code: '5356'
+- name: Klagenfurt
+  area_code: '463'
+- name: Krems An Der Donau
+  area_code: '2732'
+- name: Leoben
+  area_code: '3842'
+- name: Linz Donau
+  area_code: '732'
+- name: Mobile Phones - A1
+  area_code: '664'
+- name: Mobile Phones - Drei
+  area_code: '660'
+- name: Mobile Phones - Max
+  area_code: '676'
+- name: Mobile Phones - One
+  area_code: '699'
+- name: Mobile Phones - Telering
+  area_code: '650'
+- name: Neunkirchen Niederosterreich
+  area_code: '2635'
+- name: Salzburg
+  area_code: '662'
+- name: St. Polten
+  area_code: '2742'
+- name: Vienna (Wien)
+  area_code: '1'
+- name: Villach
+  area_code: '4242'
+- name: Wels
+  area_code: '7242'
+- name: Wiener Neustadt
+  area_code: '2622'
+- name: Wolfsberg
+  area_code: '4352'

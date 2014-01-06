@@ -1,0 +1,21 @@
+---
+- name: Belize City
+  area_code: '2'
+- name: Benque Viejo
+  area_code: '93'
+- name: Cayo
+  area_code: '9'
+- name: Corozal
+  area_code: '4'
+- name: Dangriga
+  area_code: '5'
+- name: Independence
+  area_code: '6'
+- name: Orange Walk
+  area_code: '3'
+- name: Punta Gorda
+  area_code: '7'
+- name: Stann Creek
+  area_code: '5'
+- name: Toledo
+  area_code: '7'

@@ -1,0 +1,15 @@
+---
+- name: Loungprabang
+  area_code: '71'
+- name: Mobile Phones
+  area_code: '20'
+- name: Pakse
+  area_code: '31'
+- name: Pakxan
+  area_code: '54'
+- name: Svannakhet
+  area_code: '41'
+- name: Thakhek
+  area_code: '51'
+- name: Vientiane (Capital)
+  area_code: '21'

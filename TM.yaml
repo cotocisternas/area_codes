@@ -1,0 +1,13 @@
+---
+- name: Ashgabat
+  area_code: '12'
+- name: Dashkhouvuz
+  area_code: '322'
+- name: Mary
+  area_code: '522'
+- name: Serdarabad (formerly Nebitdag)
+  area_code: '222'
+- name: Turkmenabad (formerly Chardzho
+  area_code: '378'
+- name: Turkmenbashi (formerly Krasnov
+  area_code: '243'

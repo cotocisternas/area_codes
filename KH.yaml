@@ -1,0 +1,57 @@
+---
+- name: Banteay Meanchey
+  area_code: '54'
+- name: Battambang
+  area_code: '53'
+- name: Kampong Cham
+  area_code: '42'
+- name: Kampong Chhnang
+  area_code: '26'
+- name: Kampong Speu
+  area_code: '25'
+- name: Kampong Thom
+  area_code: '62'
+- name: Kampot
+  area_code: '33'
+- name: Kandal
+  area_code: '24'
+- name: Kep
+  area_code: '36'
+- name: Koh Kong
+  area_code: '35'
+- name: Kratie
+  area_code: '72'
+- name: Mobile Phones - CamGSM
+  area_code: '12'
+- name: Mobile Phones - Camshin
+  area_code: '11'
+- name: Mobile Phones - Camtel AMPS
+  area_code: '18'
+- name: Mobile Phones - Casacom
+  area_code: '1516'
+- name: Mondolkiri
+  area_code: '73'
+- name: Pailin
+  area_code: '55'
+- name: Phnom Penh
+  area_code: '23'
+- name: Preah Vihear
+  area_code: '64'
+- name: Prey Veng
+  area_code: '43'
+- name: Pursat
+  area_code: '52'
+- name: Ratanakiri
+  area_code: '75'
+- name: Siem Riep
+  area_code: '63'
+- name: Sihanoukville
+  area_code: '34'
+- name: Stung Treng
+  area_code: '74'
+- name: Svay Rieng
+  area_code: '44'
+- name: Takeo
+  area_code: '32'
+- name: Udar Meanchey
+  area_code: '65'

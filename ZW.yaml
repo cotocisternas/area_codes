@@ -1,0 +1,13 @@
+---
+- name: Bulawayo
+  area_code: '9'
+- name: Harare
+  area_code: '4'
+- name: Mobile Phones - Econet
+  area_code: '091'
+- name: Mobile Phones - NetOne
+  area_code: '011'
+- name: Mobile Phones - Telecel Zimbab
+  area_code: '023'
+- name: Mutare
+  area_code: '20'

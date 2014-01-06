@@ -1,0 +1,21 @@
+---
+- name: Antelias
+  area_code: '4'
+- name: Baabda
+  area_code: '5'
+- name: Beirut
+  area_code: '1'
+- name: Jezine
+  area_code: '7'
+- name: Jounieh
+  area_code: '9'
+- name: Mobile Phones - Cellis
+  area_code: '3'
+- name: Mobile Phones - LibanCell
+  area_code: '3'
+- name: Saida
+  area_code: '7'
+- name: Tripoli
+  area_code: '6'
+- name: Zahle
+  area_code: '8'

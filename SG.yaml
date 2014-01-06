@@ -1,0 +1,19 @@
+---
+- name: Ang Mo Kio
+  area_code: '645'
+- name: Ayer Rajah
+  area_code: '676'
+- name: Bedok
+  area_code: '644'
+- name: City
+  area_code: '653'
+- name: Geylang
+  area_code: '673'
+- name: Jurong West, Tampines
+  area_code: '678'
+- name: North
+  area_code: '635'
+- name: Sembawang
+  area_code: '675'
+- name: Tampines
+  area_code: '677'

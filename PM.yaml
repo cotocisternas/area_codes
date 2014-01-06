@@ -1,0 +1,3 @@
+---
+- name: St. Pierre and Miquelon do not use city codes.
+  area_code: ''

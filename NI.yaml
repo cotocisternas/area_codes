@@ -1,0 +1,29 @@
+---
+- name: Boaco
+  area_code: '54'
+- name: Chinandega
+  area_code: '341'
+- name: Diriamba
+  area_code: '4222'
+- name: Esteli
+  area_code: '71'
+- name: Granada
+  area_code: '55'
+- name: Leon
+  area_code: '311'
+- name: Managua
+  area_code: '2'
+- name: Masatepe
+  area_code: '44'
+- name: Masaya
+  area_code: '52'
+- name: Nandaime
+  area_code: '4522'
+- name: Rivas
+  area_code: '46'
+- name: San Juan Del Sur
+  area_code: '4682'
+- name: San Marcos
+  area_code: '43'
+- name: Tipitapa
+  area_code: '53'

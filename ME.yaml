@@ -1,0 +1,19 @@
+---
+- name: Bar
+  area_code: '85'
+- name: Berane
+  area_code: '87'
+- name: Bijelo Polje
+  area_code: '84'
+- name: Cetinje
+  area_code: '86'
+- name: Herceg Novi
+  area_code: '88'
+- name: Kotor
+  area_code: '82'
+- name: Nikshic
+  area_code: '83'
+- name: Pljevlja
+  area_code: '89'
+- name: Podgorica
+  area_code: '81'

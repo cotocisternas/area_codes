@@ -1,0 +1,9 @@
+---
+- name: Comtel
+  area_code: '420'
+- name: Haitel
+  area_code: '510'
+- name: Iris
+  area_code: '851'
+- name: Rectel
+  area_code: '330'

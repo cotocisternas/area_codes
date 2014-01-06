@@ -1,0 +1,19 @@
+---
+- name: Casey
+  area_code: '12'
+- name: Central East Region
+  area_code: '2'
+- name: Central West Region
+  area_code: '8'
+- name: Davis
+  area_code: '10'
+- name: Macquarie Island
+  area_code: '13'
+- name: Mawson
+  area_code: '11'
+- name: Mobile Phones
+  area_code: '4'
+- name: North East Region
+  area_code: '7'
+- name: South East Region
+  area_code: '3'

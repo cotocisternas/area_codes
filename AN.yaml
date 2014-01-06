@@ -1,0 +1,11 @@
+---
+- name: Bonaire
+  area_code: '7'
+- name: Curaçao
+  area_code: '9'
+- name: Saba
+  area_code: '4'
+- name: St. Eustatius
+  area_code: '3'
+- name: St. Maarten
+  area_code: '5'

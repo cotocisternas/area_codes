@@ -1,0 +1,9 @@
+---
+- name: Fire brigade
+  area_code: '18'
+- name: Police
+  area_code: '17'
+- name: Speaking clock
+  area_code: '16'
+- name: Telephone inquiries
+  area_code: '12'

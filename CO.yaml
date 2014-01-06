@@ -1,0 +1,45 @@
+---
+- name: Armenia
+  area_code: '6'
+- name: Barranquilla
+  area_code: '5'
+- name: Bogota
+  area_code: '1'
+- name: Bucaramanga
+  area_code: '7'
+- name: Cali
+  area_code: '2'
+- name: Cartagena
+  area_code: '5'
+- name: Cucuta
+  area_code: '7'
+- name: Ibague
+  area_code: '8'
+- name: Manizales
+  area_code: '6'
+- name: Medellin
+  area_code: '4'
+- name: Mobile Phones - Comcel
+  area_code: '310'
+- name: Mobile Phones - Comcel
+  area_code: '311'
+- name: Mobile Phones - Comcel
+  area_code: '312'
+- name: Mobile Phones - Movistar
+  area_code: '315'
+- name: Mobile Phones - Movistar
+  area_code: '315'
+- name: Mobile Phones - Ola
+  area_code: '301'
+- name: Mobile Phones - Ola
+  area_code: '301'
+- name: Neiva
+  area_code: '8'
+- name: Palmira
+  area_code: '2'
+- name: Pereira
+  area_code: '6'
+- name: Santa Marta
+  area_code: '5'
+- name: Villavicencio
+  area_code: '8'

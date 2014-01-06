@@ -1,0 +1,17 @@
+---
+- name: Accra
+  area_code: '21'
+- name: Bolgatanga
+  area_code: '72'
+- name: Cape Coast
+  area_code: '42'
+- name: Koforidua
+  area_code: '81'
+- name: Kumasi
+  area_code: '51'
+- name: Takoradi
+  area_code: '31'
+- name: Tamale
+  area_code: '71'
+- name: Tema
+  area_code: '22'

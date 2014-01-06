@@ -1,0 +1,63 @@
+---
+- name: Baia Farta
+  area_code: '72'
+- name: Bela Vista
+  area_code: '72'
+- name: Benguela
+  area_code: '72'
+- name: Cabinda
+  area_code: '31'
+- name: Catete
+  area_code: '34'
+- name: Catumbela
+  area_code: '72'
+- name: Caxito
+  area_code: '34'
+- name: Cubal
+  area_code: '72'
+- name: Cunene
+  area_code: '65'
+- name: Dombe Grande
+  area_code: '72'
+- name: Ganda
+  area_code: '72'
+- name: Huambo
+  area_code: '41'
+- name: Huila
+  area_code: '61'
+- name: Kuito
+  area_code: '48'
+- name: Lobito
+  area_code: '72'
+- name: Luanda
+  area_code: '2'
+- name: Lubango
+  area_code: '61'
+- name: Lucapa
+  area_code: '52'
+- name: Luena
+  area_code: '54'
+- name: Malange
+  area_code: '51'
+- name: Menongue
+  area_code: '49'
+- name: Mobile Phones - Angola Telecom
+  area_code: '91'
+- name: Mobile Phones - Unitel
+  area_code: '92'
+- name: Namibe
+  area_code: '64'
+- name: Ndalatando
+  area_code: '35'
+- name: Ondjiva
+  area_code: '65'
+- name: Saurimo
+  area_code: '53'
+- name: Sumbe
+  area_code: '36'
+- name: Tombwa
+  area_code: '64'
+- name: Uíge
+  area_code: '33'
+- name: Xangongo
+  area_code: '65'

@@ -1,0 +1,7 @@
+---
+- name: Central and East Suriname
+  area_code: '3'
+- name: Paramaribo
+  area_code: '4'
+- name: West Suriname
+  area_code: '2'

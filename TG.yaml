@@ -1,0 +1,13 @@
+---
+- name: Central Region
+  area_code: '5'
+- name: Kara
+  area_code: '6'
+- name: Lomé
+  area_code: '2'
+- name: Maritime
+  area_code: '3'
+- name: Plateaux
+  area_code: '4'
+- name: Savannah
+  area_code: '7'

@@ -1,0 +1,19 @@
+---
+- name: Beira
+  area_code: '23'
+- name: Chimolo
+  area_code: '251'
+- name: Chokwe
+  area_code: '221'
+- name: Maputo
+  area_code: '21'
+- name: Matola
+  area_code: '24'
+- name: Nampula
+  area_code: '26'
+- name: Quelimane
+  area_code: '24'
+- name: Tete
+  area_code: '252'
+- name: Xai-Xai
+  area_code: '222'

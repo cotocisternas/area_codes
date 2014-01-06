@@ -1,0 +1,5 @@
+---
+- name: The Solomon Islands do not use city codes for landlines.
+  area_code: ''
+- name: Mobile Phones
+  area_code: '74'

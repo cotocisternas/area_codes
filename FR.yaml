@@ -1,0 +1,11 @@
+---
+- name: Northeast France
+  area_code: '3'
+- name: Northwest France
+  area_code: '2'
+- name: Paris and Paris Region
+  area_code: '1'
+- name: Southeast France and Corsica
+  area_code: '4'
+- name: Southwest France
+  area_code: '5'

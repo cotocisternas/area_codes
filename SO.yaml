@@ -1,0 +1,5 @@
+---
+- name: Hargeysa
+  area_code: '1'
+- name: Mogadiscio
+  area_code: '61'

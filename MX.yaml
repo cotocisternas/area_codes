@@ -1,0 +1,97 @@
+---
+- name: Acapulco
+  area_code: '744'
+- name: Aguascalientes
+  area_code: '449'
+- name: Apizaco
+  area_code: '241'
+- name: Cabo San Lucas
+  area_code: '624'
+- name: Cancun
+  area_code: '998'
+- name: Celaya
+  area_code: '461'
+- name: Chihuahua
+  area_code: '614'
+- name: Chuuk
+  area_code: '330'
+- name: Ciudad del Carmen
+  area_code: '938'
+- name: Ciudad Juarez
+  area_code: '656'
+- name: Cuernavaca
+  area_code: '777'
+- name: Culiacan
+  area_code: '667'
+- name: Durango
+  area_code: '618'
+- name: Ensenada
+  area_code: '646'
+- name: Guadalajara
+  area_code: '33'
+- name: Hermosillo
+  area_code: '662'
+- name: Irapuato
+  area_code: '462'
+- name: Ixtapa
+  area_code: '961'
+- name: Jalapa
+  area_code: '932'
+- name: Juchita
+  area_code: '971'
+- name: Kosrae
+  area_code: '370'
+- name: Leon
+  area_code: '477'
+- name: Los Mochis
+  area_code: '668'
+- name: Matamoros
+  area_code: '871'
+- name: Mazatlan
+  area_code: '669'
+- name: Merida
+  area_code: '999'
+- name: Mexicali
+  area_code: '686'
+- name: Mexico City
+  area_code: '55'
+- name: Mobile Phones
+  area_code: '1'
+- name: Monterrey
+  area_code: '81'
+- name: Morelia
+  area_code: '443'
+- name: Nogales
+  area_code: '631'
+- name: Nuevo Laredo
+  area_code: '867'
+- name: Oaxaca de Juarez
+  area_code: '951'
+- name: Playa del Carmen
+  area_code: '984'
+- name: Pohnpei
+  area_code: '320'
+- name: Progreso
+  area_code: '861'
+- name: Puebla
+  area_code: '222'
+- name: Puerto Vallarta
+  area_code: '322'
+- name: Reynosa
+  area_code: '899'
+- name: Saltillo
+  area_code: '844'
+- name: San Luis Potosi
+  area_code: '444'
+- name: Tampico
+  area_code: '833'
+- name: Tijuana
+  area_code: '664'
+- name: Torreon
+  area_code: '871'
+- name: Veracruz
+  area_code: '229'
+- name: Villahermosa
+  area_code: '993'
+- name: Yap
+  area_code: '350'

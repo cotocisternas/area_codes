@@ -1,0 +1,9 @@
+---
+- name: Casey Base
+  area_code: '12'
+- name: Davis Base
+  area_code: '10'
+- name: Macquarie Base
+  area_code: '13'
+- name: Mawson Base
+  area_code: '11'

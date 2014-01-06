@@ -1,0 +1,45 @@
+---
+- name: Ambatolampy
+  area_code: '42'
+- name: Ambositra
+  area_code: '47'
+- name: Ambotondrazaka
+  area_code: '54'
+- name: Antananarivo
+  area_code: '22'
+- name: Antsirabe
+  area_code: '44'
+- name: Antsiranana (Diego Suarez)
+  area_code: '82'
+- name: Antsohihy
+  area_code: '67'
+- name: Farafangana
+  area_code: '73'
+- name: Fianarantsoa
+  area_code: '75'
+- name: Mahajanga
+  area_code: '62'
+- name: Maintirano
+  area_code: '69'
+- name: Manakara
+  area_code: '72'
+- name: Mananjary
+  area_code: '72'
+- name: Mideast Region
+  area_code: '13'
+- name: Moramanga
+  area_code: '56'
+- name: Morondava
+  area_code: '95'
+- name: Nosy Be Is.
+  area_code: '86'
+- name: Sainte Marie
+  area_code: '57'
+- name: Sambava
+  area_code: '88'
+- name: Toamasina
+  area_code: '53'
+- name: Tolagnaro
+  area_code: '92'
+- name: Toliaray
+  area_code: '94'

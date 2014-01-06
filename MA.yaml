@@ -1,0 +1,21 @@
+---
+- name: Casablanca
+  area_code: '22'
+- name: Fes
+  area_code: '55'
+- name: Lâayoune
+  area_code: '48'
+- name: Marrakech
+  area_code: '44'
+- name: Méknès
+  area_code: '55'
+- name: Oujda
+  area_code: '56'
+- name: Rabat
+  area_code: '37'
+- name: Settat
+  area_code: '23'
+- name: Tanger (Tangiers)
+  area_code: '39'
+- name: Tétouan
+  area_code: '39'

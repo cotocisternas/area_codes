@@ -1,0 +1,45 @@
+---
+- name: Brno
+  area_code: '54'
+- name: Plzen
+  area_code: '377'
+- name: Praha (Prague)
+  area_code: '3'
+- name: Region Jihocesky
+  area_code: '38'
+- name: Region Jihocesky
+  area_code: '39'
+- name: Region Jihomoravsky
+  area_code: '51'
+- name: Region Jihomoravsky
+  area_code: '51'
+- name: Region Jihomoravsky
+  area_code: '54'
+- name: Region Karlovarsky
+  area_code: '35'
+- name: Region Kralovehradecky
+  area_code: '49'
+- name: Region Liberecky
+  area_code: '48'
+- name: Region Moravskoslezsky
+  area_code: '55'
+- name: Region Moravskoslezsky
+  area_code: '59'
+- name: Region Olomoucky
+  area_code: '58'
+- name: Region Pardubicky
+  area_code: '46'
+- name: Region Plzensky
+  area_code: '37'
+- name: Region Stredocesky
+  area_code: '32'
+- name: Region Stredocesky
+  area_code: '32'
+- name: Region Ustecky
+  area_code: '41'
+- name: Region Ustecky
+  area_code: '47'
+- name: Region Vysocina
+  area_code: '56'
+- name: Region Zlinsky
+  area_code: '57'

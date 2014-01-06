@@ -1,0 +1,17 @@
+---
+- name: Aden
+  area_code: '2'
+- name: Almahrah
+  area_code: '5'
+- name: Amran
+  area_code: '7'
+- name: Hodeidah
+  area_code: '3'
+- name: Sana'a
+  area_code: '1'
+- name: Taiz
+  area_code: '4'
+- name: Yarim
+  area_code: '4'
+- name: Zabid
+  area_code: '3'

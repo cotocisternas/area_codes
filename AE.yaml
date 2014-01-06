@@ -1,0 +1,29 @@
+---
+- name: Abu Dhabi
+  area_code: '2'
+- name: Ajman
+  area_code: '6'
+- name: Al Ain
+  area_code: '3'
+- name: Aweir
+  area_code: '58'
+- name: Dhayd
+  area_code: '6'
+- name: Dibba
+  area_code: '9'
+- name: Dubai
+  area_code: '4'
+- name: Falaj-al-Moalla
+  area_code: '6'
+- name: Fujairah
+  area_code: '70'
+- name: Khawanij
+  area_code: '48'
+- name: Ras-al-Khaimah
+  area_code: '77'
+- name: Sharjah
+  area_code: '6'
+- name: Tarif
+  area_code: '88'
+- name: Umm-al-Qaiwain
+  area_code: '6'

@@ -1,0 +1,49 @@
+---
+- name: Afula
+  area_code: '4'
+- name: Akko (Acre)
+  area_code: '4'
+- name: Ashdod
+  area_code: '8'
+- name: Ashkelon
+  area_code: '8'
+- name: Bat Iam
+  area_code: '3'
+- name: Beersheva
+  area_code: '8'
+- name: Carmiel
+  area_code: '4'
+- name: Dimona
+  area_code: '8'
+- name: Eilat
+  area_code: '8'
+- name: Hadera
+  area_code: '4'
+- name: Haifa
+  area_code: '4'
+- name: Herzliya
+  area_code: '9'
+- name: Holon
+  area_code: '3'
+- name: Jaffa
+  area_code: '3'
+- name: Jerusalem
+  area_code: '2'
+- name: Nazareth
+  area_code: '4'
+- name: Netanya
+  area_code: '9'
+- name: Qiryat Shmona
+  area_code: '4'
+- name: Raanana
+  area_code: '9'
+- name: Ramat Gan
+  area_code: '3'
+- name: Rehovot
+  area_code: '8'
+- name: Tel Aviv
+  area_code: '3'
+- name: Tiberias
+  area_code: '4'
+- name: Tsefat
+  area_code: '4'

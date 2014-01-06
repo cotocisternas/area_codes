@@ -1,0 +1,5 @@
+---
+- name: Dnepropetrovsk
+  area_code: '562'
+- name: Donetsk
+  area_code: '62'

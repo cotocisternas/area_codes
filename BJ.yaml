@@ -1,0 +1,9 @@
+---
+- name: Alibori
+  area_code: '23'
+- name: Atlantique
+  area_code: '21'
+- name: Collines
+  area_code: '22'
+- name: Ouémé
+  area_code: '20'

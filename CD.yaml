@@ -1,0 +1,13 @@
+---
+- name: Bas-Congo, Bandundu
+  area_code: '3'
+- name: Kasai-Oriental
+  area_code: '4'
+- name: Katanga
+  area_code: '2'
+- name: Kinshasa
+  area_code: '1'
+- name: Nord-Kivu, Sud-Kivu, Maniema
+  area_code: '6'
+- name: Province Orientale (Kisanga; M
+  area_code: '5'

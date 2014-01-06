@@ -1,0 +1,43 @@
+---
+- name: Beograd (Belgrade)
+  area_code: '11'
+- name: Bor
+  area_code: '30'
+- name: Jagodina
+  area_code: '35'
+- name: Kosovska Mitrovica
+  area_code: '28'
+- name: Kragujevac
+  area_code: '34'
+- name: Kraljevo
+  area_code: '36'
+- name: Krushevac
+  area_code: '37'
+- name: Niš (Nish)
+  area_code: '18'
+- name: Novi Pazar
+  area_code: '20'
+- name: Novi Sad
+  area_code: '21'
+- name: Panchevo
+  area_code: '13'
+- name: Pec
+  area_code: '39'
+- name: Pirot
+  area_code: '10'
+- name: Pozarevac
+  area_code: '12'
+- name: Prishtina
+  area_code: '38'
+- name: Sombor
+  area_code: '25'
+- name: Sremska Mitrovica
+  area_code: '22'
+- name: Subotica
+  area_code: '24'
+- name: Uzice
+  area_code: '31'
+- name: Valjevo
+  area_code: '14'
+- name: Zajechar
+  area_code: '19'

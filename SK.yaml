@@ -1,0 +1,51 @@
+---
+- name: Banská Bystrica
+  area_code: '48'
+- name: Bardejov
+  area_code: '54'
+- name: Bratislava
+  area_code: '2'
+- name: Dujanská Streda
+  area_code: '31'
+- name: Humenné
+  area_code: '57'
+- name: Košice
+  area_code: '55'
+- name: Levice 36
+  area_code: '36'
+- name: Liptovský Mikuláš
+  area_code: '44'
+- name: Lucenec
+  area_code: '47'
+- name: Martin
+  area_code: '43'
+- name: Michalovce
+  area_code: '56'
+- name: Nitra
+  area_code: '37'
+- name: Nové Zámky
+  area_code: '35'
+- name: Poprad
+  area_code: '52'
+- name: Považská Bystrica
+  area_code: '42'
+- name: Prešov
+  area_code: '51'
+- name: Prievidza
+  area_code: '46'
+- name: Rožnava
+  area_code: '58'
+- name: Senica
+  area_code: '34'
+- name: Spišská Nová Ves
+  area_code: '53'
+- name: Topol'cany
+  area_code: '38'
+- name: Trencín
+  area_code: '32'
+- name: Trnava
+  area_code: '33'
+- name: Zvolen
+  area_code: '45'
+- name: Žilina
+  area_code: '41'

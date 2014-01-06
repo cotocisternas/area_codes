@@ -1,0 +1,65 @@
+---
+- name: Calgary
+  area_code: '403'
+- name: Calgary
+  area_code: '587'
+- name: Edmonton
+  area_code: '780'
+- name: Gatineau
+  area_code: '819'
+- name: Halifax
+  area_code: '902'
+- name: London
+  area_code: '519'
+- name: London
+  area_code: '226'
+- name: Mississauga
+  area_code: '905'
+- name: Mississauga
+  area_code: '289'
+- name: Montreal
+  area_code: '514'
+- name: Montreal
+  area_code: '438'
+- name: Ottawa
+  area_code: '613'
+- name: Ottawa
+  area_code: '343'
+- name: Quebec City
+  area_code: '581'
+- name: Quebec City
+  area_code: '418'
+- name: Saskatoon
+  area_code: '306'
+- name: Sault Ste. Marie
+  area_code: '705'
+- name: Sault Ste. Marie
+  area_code: '249'
+- name: Specialized Telecom Services
+  area_code: '600'
+- name: St. John
+  area_code: '506'
+- name: St. John's
+  area_code: '709'
+- name: Terrebone
+  area_code: '450'
+- name: Terrebone
+  area_code: '579'
+- name: Thunber Bay
+  area_code: '807'
+- name: Toronto
+  area_code: '647'
+- name: Toronto
+  area_code: '416'
+- name: Vancouver
+  area_code: '236'
+- name: Vancouver
+  area_code: '778'
+- name: Vancouver
+  area_code: '604'
+- name: Victoria
+  area_code: '250'
+- name: Winnipeg
+  area_code: '204'
+- name: Yellowknife
+  area_code: '867'

@@ -1,0 +1,61 @@
+---
+- name: Antofagasta
+  area_code: '55'
+- name: Arica
+  area_code: '58'
+- name: Calama
+  area_code: '55'
+- name: Chillán
+  area_code: '42'
+- name: Concepción
+  area_code: '41'
+- name: Copiacó
+  area_code: '52'
+- name: Coquimbo
+  area_code: '51'
+- name: Coyhaique
+  area_code: '67'
+- name: Curicó
+  area_code: '75'
+- name: Iquique
+  area_code: '57'
+- name: La Serena
+  area_code: '51'
+- name: Linares
+  area_code: '73'
+- name: Los Andes
+  area_code: '34'
+- name: Los Angeles
+  area_code: '43'
+- name: Osorno
+  area_code: '64'
+- name: Ovalle
+  area_code: '53'
+- name: Puerto Montt
+  area_code: '65'
+- name: Punta Arenas
+  area_code: '61'
+- name: Quillota
+  area_code: '33'
+- name: Rancagua
+  area_code: '72'
+- name: San Antonio
+  area_code: '35'
+- name: San Felipe
+  area_code: '34'
+- name: San Fernando
+  area_code: '72'
+- name: Santiago (Metropolitan Region)
+  area_code: '2'
+- name: Talca
+  area_code: '71'
+- name: Talcahuano
+  area_code: '41'
+- name: Temuco
+  area_code: '45'
+- name: Valdivia
+  area_code: '63'
+- name: Valparaíso
+  area_code: '32'
+- name: Viña del Mar
+  area_code: '32'

@@ -1,0 +1,61 @@
+---
+- name: Ambalangoda
+  area_code: '97'
+- name: Ampara
+  area_code: +94    63 + 4 digits
+- name: Anuradhapura
+  area_code: +94    25 + 4 digits
+- name: Avissawella
+  area_code: +94    36 + 5 digits
+- name: Badulla
+  area_code: +94    55 + 4 digits
+- name: Bandarawella
+  area_code: +94    57 + 4 digits
+- name: Batticaloa
+  area_code: +94    65 + 4 digits
+- name: Chilaw
+  area_code: +94    32 + 4 digits
+- name: Galle
+  area_code: +94    9 + 5 digits
+- name: Gampaha
+  area_code: +94    33 + 5 digits
+- name: Hambantota
+  area_code: +94    47 + 5 digits
+- name: Hatton
+  area_code: +94    51 + 5 digits
+- name: Jaffna
+  area_code: +94    21 + 4 digits
+- name: Kalmunai
+  area_code: +94    67 + 4 digits
+- name: Kalutara
+  area_code: +94    34 + 5 digits
+- name: Kandy
+  area_code: +94    8 + 6 digits
+- name: Katagastota
+  area_code: '8'
+- name: Kegalle
+  area_code: +94    35 + 4 digits
+- name: Kurunegala
+  area_code: +94    37 + 5 digits
+- name: Mannar
+  area_code: +94    23 + 4 digits
+- name: Matale
+  area_code: +94    66 + 4 digits
+- name: Mathara
+  area_code: +94    41 + 5 digits
+- name: Nawalapitiya
+  area_code: +94    542 + 4 digits
+- name: Negambo
+  area_code: +94    31 + 4 digits
+- name: Nuwara Eliya
+  area_code: +94    52 + 4 digits
+- name: Panadura
+  area_code: '34'
+- name: Polonnaruwa
+  area_code: +94    27 + 4 digits
+- name: Ratnapura
+  area_code: +94    45 + 4 digits
+- name: Trincomalee
+  area_code: +94    26 + 5 digits
+- name: Vavuniya
+  area_code: +94    24 + 5 digits

@@ -1,0 +1,31 @@
+---
+- name: Bouenza
+  area_code: '25'
+- name: Brazzaville
+  area_code: '28'
+- name: Cuvette
+  area_code: '21'
+- name: Lekoumou
+  area_code: '25'
+- name: Likouala
+  area_code: '22'
+- name: Mobile Phones - Celtel Congo
+  area_code: '525'
+- name: Mobile Phones - Celtel Congo
+  area_code: '355'
+- name: Mobile Phones - CYRUS
+  area_code: '441'
+- name: Mobile Phones - CYRUS
+  area_code: '442'
+- name: Mobile Phones - Libertis Telecom
+  area_code: '6667'
+- name: Niari
+  area_code: '25'
+- name: Plateaux
+  area_code: '24'
+- name: Pointe-Noire
+  area_code: '29'
+- name: Pool
+  area_code: '23'
+- name: Sangha
+  area_code: '22'

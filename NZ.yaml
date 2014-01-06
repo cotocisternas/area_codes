@@ -1,0 +1,45 @@
+---
+- name: Auckland
+  area_code: '9'
+- name: Christchurch
+  area_code: '3'
+- name: Dunedin
+  area_code: '3'
+- name: Hamilton
+  area_code: '7'
+- name: Hastings
+  area_code: '6'
+- name: Invercargill
+  area_code: '3'
+- name: Napier
+  area_code: '6'
+- name: Nelson
+  area_code: '3'
+- name: New Plymouth
+  area_code: '6'
+- name: New Zealand External Territori
+  area_code: '24'
+- name: North Island (Central and East
+  area_code: '7'
+- name: North Island (North)
+  area_code: '9'
+- name: North Island (Western)
+  area_code: '6'
+- name: Palmerston North
+  area_code: '6'
+- name: Pokeno
+  area_code: '9'
+- name: Rotorua
+  area_code: '7'
+- name: South Island
+  area_code: '3'
+- name: Tauranga
+  area_code: '7'
+- name: Timaru
+  area_code: '3'
+- name: Wanganui
+  area_code: '6'
+- name: Wellington Region
+  area_code: '4'
+- name: Whangarei
+  area_code: '9'

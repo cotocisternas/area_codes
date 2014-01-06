@@ -1,0 +1,65 @@
+---
+- name: Agareb
+  area_code: '4'
+- name: Ariana
+  area_code: '1'
+- name: Beja
+  area_code: '8'
+- name: Ben Arous
+  area_code: '1'
+- name: Bizerte
+  area_code: '2'
+- name: Carthage
+  area_code: '1'
+- name: Cell phones
+  area_code: '9'
+- name: Chebba
+  area_code: '4'
+- name: Gabes
+  area_code: '5'
+- name: Gafsa
+  area_code: '6'
+- name: Haffouz
+  area_code: '7'
+- name: Hamman-Sousse
+  area_code: '3'
+- name: Jendouba
+  area_code: '8'
+- name: Kairouan
+  area_code: '7'
+- name: Kasserine
+  area_code: '7'
+- name: Kebili
+  area_code: '5'
+- name: Kef
+  area_code: '8'
+- name: Khenis
+  area_code: '3'
+- name: La Kef
+  area_code: '8'
+- name: Mahdia
+  area_code: '3'
+- name: Medenine
+  area_code: '5'
+- name: Monastir
+  area_code: '3'
+- name: Nabeul
+  area_code: '2'
+- name: Sfax
+  area_code: '4'
+- name: Sidi Bouzid
+  area_code: '6'
+- name: Siliana
+  area_code: '8'
+- name: Sousse
+  area_code: '3'
+- name: Tabarka
+  area_code: '8'
+- name: Tataouine
+  area_code: '5'
+- name: Tozeur
+  area_code: '6'
+- name: Tunis
+  area_code: '1'
+- name: Zaghouan
+  area_code: '2'

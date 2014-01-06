@@ -1,0 +1,25 @@
+---
+- name: Aitutaki
+  area_code: '3132'
+- name: Atiu
+  area_code: '33'
+- name: Mangaia
+  area_code: '34'
+- name: Manihiki
+  area_code: '43'
+- name: Mauke
+  area_code: '35'
+- name: Mitiaro
+  area_code: '36'
+- name: Nassau
+  area_code: '45'
+- name: Palmerston
+  area_code: '37'
+- name: Penrhyn
+  area_code: '42'
+- name: Pukapuka
+  area_code: '41'
+- name: Rakahanga
+  area_code: '44'
+- name: Rarotonga
+  area_code: '2'

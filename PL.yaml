@@ -1,0 +1,819 @@
+---
+- name: 32211 (manual exchange) Lancut
+  area_code: '17'
+- name: 4 Grodzisk Mazowiecki
+  area_code: '22'
+- name: 5 Szaflary
+  area_code: '87'
+- name: 8 Lask (Sieradz)
+  area_code: '198'
+- name: 8 Wadowice (Bielsko)
+  area_code: '387'
+- name: Albigowa
+  area_code: '17'
+- name: Aleksandrow Kujawski
+  area_code: '54'
+- name: Aleksandrow Lodzki
+  area_code: '42'
+- name: Alwernia
+  area_code: '12'
+- name: Andrespol
+  area_code: '42'
+- name: Andrychow
+  area_code: '387'
+- name: Andrzejow
+  area_code: '42'
+- name: Aniolowo
+  area_code: '49'
+- name: Ankamaty
+  area_code: '55'
+- name: Antonin
+  area_code: '64'
+- name: Babica
+  area_code: '387'
+- name: Babice Stare
+  area_code: '22'
+- name: Baczyna
+  area_code: '95'
+- name: Bagart (Elblag)
+  area_code: '55'
+- name: Baldowo
+  area_code: '69'
+- name: Balice
+  area_code: '496'
+- name: Balin
+  area_code: '35'
+- name: Balucz
+  area_code: '435'
+- name: Banie
+  area_code: '91'
+- name: Banino
+  area_code: '58'
+- name: Baniocha
+  area_code: '22'
+- name: Banska Dolina
+  area_code: '187'
+- name: Banska Nizna
+  area_code: '187'
+- name: Baranow Sandomierski
+  area_code: '15'
+- name: Baranowo (Ostroleka)
+  area_code: '478'
+- name: Baranowo (Poznan)
+  area_code: '61'
+- name: Barcice
+  area_code: '18'
+- name: Barcin
+  area_code: '52'
+- name: Barczewko
+  area_code: '89'
+- name: Barczewo
+  area_code: '89'
+- name: Barlozno
+  area_code: '69'
+- name: Baruchowo
+  area_code: '54'
+- name: Barwald
+  area_code: '387'
+- name: Baszkow
+  area_code: '641'
+- name: Bedzin
+  area_code: '44'
+- name: Biala Podlaska
+  area_code: '57'
+- name: Bialka (Biala Podlaska)
+  area_code: '80'
+- name: Bialka Tatrzanska (Nowy Sacz)
+  area_code: '187'
+- name: Bialobrzegi (Piotrkow Trybunal
+  area_code: '451'
+- name: Bialobrzegi (Radom)
+  area_code: '48'
+- name: Bialobrzegi (Rzeszow)
+  area_code: '17'
+- name: Bialobrzegi (Warszawa)
+  area_code: '22'
+- name: Bialobrzegi (Zamosc)
+  area_code: '84'
+- name: Bialobrzegi k/Aug (Suwalki)
+  area_code: '119'
+- name: Bialogard
+  area_code: '94'
+- name: Bialy Dunajec
+  area_code: '165'
+- name: Bialystok
+  area_code: '85'
+- name: Bielsko Biala
+  area_code: '33'
+- name: Bilgoraj
+  area_code: '84'
+- name: Biskupiec (Olsztyn)
+  area_code: '89'
+- name: Bochnia
+  area_code: '197'
+- name: Bogatynia
+  area_code: '797'
+- name: Bogdanki (Bialystok)
+  area_code: '85'
+- name: Boguchwala
+  area_code: '17'
+- name: Borowa (Wroclaw)
+  area_code: '71'
+- name: Borowa k. Mielca
+  area_code: '196'
+- name: Braniewo
+  area_code: '506'
+- name: Brenna (Bielsko Biala)
+  area_code: '33'
+- name: Brusy (Bydgoszcz)
+  area_code: '531'
+- name: Brzeg Dolny
+  area_code: '71'
+- name: Brzesko (Szczecin)
+  area_code: '92'
+- name: Brzesko (Tarnow)
+  area_code: '192'
+- name: Brzeznica (Pila)
+  area_code: '67'
+- name: Brzeznica (Radom)
+  area_code: '48'
+- name: Brzeznica (Tarnow)
+  area_code: '197'
+- name: Brzeznica Debicka
+  area_code: '146'
+- name: Brzeznica n/Warta (Czestochowa
+  area_code: '34'
+- name: Bukowina Tatrzanska
+  area_code: '18'
+- name: Busko Zdroj
+  area_code: '52'
+- name: Bydgoszcz
+  area_code: '3252'
+- name: Bytom
+  area_code: '3282'
+- name: Chelmza
+  area_code: '56'
+- name: Chocholow
+  area_code: '187'
+- name: Chojnice (Bydgoszcz)
+  area_code: '531'
+- name: Chojnow (Legnica)
+  area_code: '76'
+- name: Chorzow
+  area_code: '32'
+- name: Choszczno
+  area_code: '95'
+- name: Ciechanow
+  area_code: '23'
+- name: Ciechocinek
+  area_code: '54'
+- name: Cieszyn
+  area_code: '33'
+- name: Crakow (Krakow)
+  area_code: '12'
+- name: Czarna (Rzeszow)
+  area_code: '17'
+- name: Czarna (Tarnow)
+  area_code: '146'
+- name: Czarna Woda
+  area_code: '69'
+- name: Czarny Dunajec
+  area_code: '187'
+- name: Czechowice
+  area_code: '32'
+- name: Czechowice Dziedzice
+  area_code: '531'
+- name: Czestochowa
+  area_code: '34'
+- name: Czorsztyn
+  area_code: '187'
+- name: Czudec (Rzeszow)
+  area_code: '171'
+- name: Dabie (Siedlce)
+  area_code: '255'
+- name: Dabrowa Gornicza
+  area_code: '146'
+- name: Dabrowa Tarnowska
+  area_code: '14'
+- name: Debki (Koszalin)
+  area_code: '94'
+- name: Debno (Kielce)
+  area_code: '41'
+- name: Debno Lub.
+  area_code: '962'
+- name: Dobre Miasto
+  area_code: '89'
+- name: Drzonkow
+  area_code: '68'
+- name: Dzierzoniow
+  area_code: '74'
+- name: Elblag
+  area_code: '50'
+- name: Elk
+  area_code: '87'
+- name: Frombork
+  area_code: '506'
+- name: Gdansk
+  area_code: '58'
+- name: Gdynia
+  area_code: '58'
+- name: Gizycko
+  area_code: '878'
+- name: Gliwice
+  area_code: '3276'
+- name: Glogow Malopolski (Rzeszow)
+  area_code: '17'
+- name: Glogowek
+  area_code: '794'
+- name: Gniezno
+  area_code: '66'
+- name: Goleniow
+  area_code: '91'
+- name: Golub-Dobrzyn
+  area_code: '56'
+- name: Gorlice
+  area_code: '18'
+- name: Gorzow Wielkopolski
+  area_code: '95'
+- name: Gostyn (Katowice)
+  area_code: '65'
+- name: Gostyn (Szczecin)
+  area_code: '928'
+- name: Gostyn Poznanski
+  area_code: '657'
+- name: Grajewo
+  area_code: '868'
+- name: Grudziadz
+  area_code: '51'
+- name: Grybow
+  area_code: '18'
+- name: Gryfice
+  area_code: '931'
+- name: Gryfino
+  area_code: '91'
+- name: Hel
+  area_code: '58'
+- name: Inowroclaw
+  area_code: '536'
+- name: Iwonicz
+  area_code: '131'
+- name: Iwonicz Zdroj
+  area_code: '131'
+- name: Jablonka Orawska
+  area_code: '187'
+- name: Janow Lubelski
+  area_code: '16'
+- name: Jarocin (Kalisz)
+  area_code: '646'
+- name: Jarocin (Tarnobrzeg)
+  area_code: '16'
+- name: Jaroslaw (Przemysl)
+  area_code: '194'
+- name: Jaslo
+  area_code: '136'
+- name: Jastarnia
+  area_code: '58'
+- name: Jastrzebie (Katowice)
+  area_code: '36'
+- name: Jastrzebie (Torun)
+  area_code: '511'
+- name: Jastrzebie Zdroj (Katowice)
+  area_code: '36'
+- name: Jawor
+  area_code: '76'
+- name: Jaworzno
+  area_code: '35'
+- name: Jedrzejow (Kielce)
+  area_code: '498'
+- name: Jedrzejow (Siedlce)
+  area_code: '256'
+- name: Jelcz (Wroclaw)
+  area_code: '71'
+- name: Jelcz Laskowice
+  area_code: '71'
+- name: Jelenia Gora
+  area_code: '75'
+- name: Jelesnia
+  area_code: '30'
+- name: Jordanow (Nowy Sacz)
+  area_code: '187'
+- name: Jordanow (Wroclaw)
+  area_code: '725'
+- name: Kalisz
+  area_code: '62'
+- name: Kalwaria Zebrzydowska
+  area_code: '387'
+- name: Kamien Pomorski
+  area_code: '928'
+- name: Karczew (Warszawa)
+  area_code: '94'
+- name: Karpacz
+  area_code: '75'
+- name: Kartuzy
+  area_code: '32'
+- name: Katowice
+  area_code: '3271'
+- name: Kedzierzyn-Kozle
+  area_code: '794'
+- name: Kepno
+  area_code: '647'
+- name: Kety
+  area_code: '381'
+- name: Kielce
+  area_code: '41'
+- name: Klobuck
+  area_code: '34'
+- name: Klodawa (Gdansk)
+  area_code: '58'
+- name: Klodawa (Gorzow)
+  area_code: '95'
+- name: Klodawa (Konin)
+  area_code: '636'
+- name: Klucze
+  area_code: '35376'
+- name: Knurow
+  area_code: '136'
+- name: Kolbuszowa
+  area_code: '17'
+- name: Kolno (Lomza)
+  area_code: '86'
+- name: Kolo
+  area_code: '636'
+- name: Kolobrzeg
+  area_code: '965'
+- name: Konin
+  area_code: '63'
+- name: Konskie (Kielce)
+  area_code: '41'
+- name: Koscian
+  area_code: '65'
+- name: Koscielisko
+  area_code: '94'
+- name: Koszalin
+  area_code: '94'
+- name: Kowal
+  area_code: '54'
+- name: Kowary
+  area_code: '75'
+- name: Kozienice
+  area_code: '48'
+- name: Krakow (Cracow)
+  area_code: '12'
+- name: Krasiczyn
+  area_code: '10'
+- name: Krasnik
+  area_code: '837'
+- name: Krosno
+  area_code: '131'
+- name: Krotoszyn
+  area_code: '64'
+- name: Kruszwica
+  area_code: '536'
+- name: Krynica
+  area_code: '18'
+- name: Krzeszowice
+  area_code: '12'
+- name: Ksiaz (Poznan)
+  area_code: '667'
+- name: Kutno
+  area_code: '218'
+- name: Kwidzyn
+  area_code: '555'
+- name: Labedy
+  area_code: '32'
+- name: Lacko (Koszalin)
+  area_code: '94'
+- name: Lacko (Nowy Sacz)
+  area_code: '184'
+- name: Lapsze Nizne
+  area_code: '187'
+- name: Lapy
+  area_code: '85'
+- name: Lasin
+  area_code: '518'
+- name: Laski (Kalisz)
+  area_code: '647'
+- name: Laski (Szczecin)
+  area_code: '936'
+- name: Leba
+  area_code: '59'
+- name: Lebork
+  area_code: '59'
+- name: Legionowo
+  area_code: '76'
+- name: Lesko
+  area_code: '137'
+- name: Leszno
+  area_code: '65'
+- name: Lezajsk
+  area_code: '195'
+- name: Lipno (Leszno)
+  area_code: '65'
+- name: Lipno (Wroclaw)
+  area_code: '54'
+- name: Lobez
+  area_code: '923'
+- name: Lodz
+  area_code: '42'
+- name: Lomza
+  area_code: '86'
+- name: Lowicz
+  area_code: '40'
+- name: Lubartow
+  area_code: '836'
+- name: Lubichowo
+  area_code: '69'
+- name: Lubin (Legnica)
+  area_code: '76'
+- name: Lublin
+  area_code: '81'
+- name: Lubliniec
+  area_code: '34'
+- name: Lukow
+  area_code: '255'
+- name: Magdalenka
+  area_code: '22'
+- name: Maksymilianowo
+  area_code: '52'
+- name: Malbork
+  area_code: '55'
+- name: Malogoszcz
+  area_code: '498'
+- name: Maniowy
+  area_code: '187'
+- name: Medyka
+  area_code: '10'
+- name: Miedzyrzecz
+  area_code: '95'
+- name: Miedzyzdroje
+  area_code: '936'
+- name: Mielec
+  area_code: '196'
+- name: Mielno
+  area_code: '32'
+- name: Mikolow
+  area_code: '85'
+- name: Murzasichle
+  area_code: '165'
+- name: Muszyna
+  area_code: '18'
+- name: Myslenice
+  area_code: '115'
+- name: Mysliborz
+  area_code: '95'
+- name: Myslowice
+  area_code: '53'
+- name: Naleczow
+  area_code: '81'
+- name: Nasielsk
+  area_code: '238'
+- name: Niedzica
+  area_code: '187'
+- name: Nisko
+  area_code: '16'
+- name: Nowa Deba
+  area_code: '15'
+- name: Nowa Ruda
+  area_code: '74'
+- name: Nowiny (Kielce)
+  area_code: '41'
+- name: Nowogard Szczecinski
+  area_code: '932'
+- name: Nowy Dwor (Gdansk)
+  area_code: '58'
+- name: Nowy Dwor Mazowiecki
+  area_code: '18'
+- name: Nowy Targ
+  area_code: '61'
+- name: Nowy Tomysl
+  area_code: '666'
+- name: Oborniki Wielkopolskie (Poznan
+  area_code: '668'
+- name: Olawa
+  area_code: '71'
+- name: Olesnica Slaska (Wroclaw)
+  area_code: '71'
+- name: Olkusz
+  area_code: '35'
+- name: Olsztyn
+  area_code: '89'
+- name: Opoczno
+  area_code: '44'
+- name: Opole
+  area_code: '77'
+- name: Orzesze
+  area_code: '29'
+- name: Ostrow Wielkopolski
+  area_code: '64'
+- name: Ostrowiec (Koszalin)
+  area_code: '94'
+- name: Ostrowiec (Slupsk)
+  area_code: '591'
+- name: Ostrowiec Swietokrzyski (Kielc
+  area_code: '41'
+- name: Oswiecim
+  area_code: '381'
+- name: Otwock
+  area_code: '42'
+- name: Pabianice
+  area_code: '42'
+- name: Pajeczno
+  area_code: '34'
+- name: Paslek
+  area_code: '50'
+- name: Piaseczno (Gdansk)
+  area_code: '69'
+- name: Piaseczno (Szczecin)
+  area_code: '91'
+- name: Piaseczno (Warszawa)
+  area_code: '22'
+- name: Piekary Slaskie
+  area_code: '74'
+- name: Pila
+  area_code: '67'
+- name: Pilzno (Tarnow)
+  area_code: '146'
+- name: Pionki (Radom)
+  area_code: '48'
+- name: Piotrkow Trybunalski
+  area_code: '44'
+- name: Piwniczna
+  area_code: '184'
+- name: Plesna
+  area_code: '62'
+- name: Pleszew
+  area_code: '14'
+- name: Plock
+  area_code: '24'
+- name: Plonsk
+  area_code: '23'
+- name: Ploty
+  area_code: '931'
+- name: Podkowa Lesna
+  area_code: '22'
+- name: Police
+  area_code: '91'
+- name: Polkowice
+  area_code: '76'
+- name: Poronin
+  area_code: '165'
+- name: Poznan
+  area_code: '61'
+- name: Pruszkow
+  area_code: '22196'
+- name: Przeclaw (Szczecin)
+  area_code: '91'
+- name: Przemysl
+  area_code: '10'
+- name: Pszczyna
+  area_code: '58'
+- name: Pulawy
+  area_code: '831'
+- name: Pultusk
+  area_code: '238'
+- name: Pustkow Osiedle
+  area_code: '146'
+- name: Rabka
+  area_code: '187'
+- name: Raciborz
+  area_code: '335'
+- name: Radom
+  area_code: '48'
+- name: Radomsko
+  area_code: '457'
+- name: Raszyn
+  area_code: '2265'
+- name: Reda
+  area_code: '58'
+- name: Resko
+  area_code: '923'
+- name: Ropczyce
+  area_code: '17'
+- name: Ruda Slaska
+  area_code: '32'
+- name: Rumia
+  area_code: '58'
+- name: Rybnik
+  area_code: '36'
+- name: Ryki
+  area_code: '131'
+- name: Rymanow Zdrow
+  area_code: '54'
+- name: Rzemien
+  area_code: '196'
+- name: Rzeszow
+  area_code: '17'
+- name: Rzezawa
+  area_code: '197'
+- name: Rzuchowa (Tarnow)
+  area_code: '14'
+- name: Sandomierz
+  area_code: '15'
+- name: Sanok
+  area_code: '137'
+- name: Sawin
+  area_code: '82'
+- name: Sepolno Krajenskie
+  area_code: '52'
+- name: Siedlce
+  area_code: '25'
+- name: Siemianowice Slaskie
+  area_code: '43'
+- name: Skarszewy
+  area_code: '69'
+- name: Skarzysko Kamienna
+  area_code: '41'
+- name: Skawina
+  area_code: '12'
+- name: Skierniewice
+  area_code: '40'
+- name: Skoczow
+  area_code: '33'
+- name: Skorcz
+  area_code: '69'
+- name: Slupsk
+  area_code: '59'
+- name: Sokolka
+  area_code: '85'
+- name: Sopot
+  area_code: '58'
+- name: Sosnowiec
+  area_code: '32667'
+- name: Sroda Slaska
+  area_code: '71'
+- name: Sroda Wielkopolska (Poznan)
+  area_code: '667'
+- name: Stalowa Wola
+  area_code: '16'
+- name: Starachowice
+  area_code: '41'
+- name: Stargard Szczecinski
+  area_code: '92'
+- name: Starogard Gdanski
+  area_code: '69'
+- name: Stary Sacz
+  area_code: '18'
+- name: Staszow
+  area_code: '15'
+- name: Strzelce (Opole)
+  area_code: '77'
+- name: Strzelce (Plock)
+  area_code: '218'
+- name: Strzelce (Walbrzych)
+  area_code: '74'
+- name: Strzelin
+  area_code: '725'
+- name: Suwalki
+  area_code: '87'
+- name: Swarzedz
+  area_code: '61'
+- name: Swidnica (Walbrzych)
+  area_code: '74'
+- name: Swidnica (Zielona Gora)
+  area_code: '68'
+- name: Swidnik (Lublin)
+  area_code: '81'
+- name: Swiebodzice
+  area_code: '74'
+- name: Swiecie (Bydgoszcz)
+  area_code: '532'
+- name: Swiecie (Torun)
+  area_code: '51'
+- name: Swietochlowice
+  area_code: '32'
+- name: Swinoujscie
+  area_code: '936'
+- name: Sycow (Kalisz)
+  area_code: '647'
+- name: Szamotuly
+  area_code: '668'
+- name: Szczecin
+  area_code: '91'
+- name: Szczecin (Stettin)
+  area_code: '91'
+- name: Szczecinek
+  area_code: '966'
+- name: Szczyrk
+  area_code: '30'
+- name: Szklarska Poreba
+  area_code: '75'
+- name: Sztum (Elblag)
+  area_code: '557'
+- name: Sztutowo
+  area_code: '50'
+- name: Tarnobrzeg
+  area_code: '15'
+- name: Tarnow
+  area_code: '14'
+- name: Tarnowskie Gory
+  area_code: '69'
+- name: Tluszcz
+  area_code: '22'
+- name: Tolkmicko
+  area_code: '50'
+- name: Tomaszow Mazowiecki
+  area_code: '44'
+- name: Torun
+  area_code: '5556'
+- name: Trzebiatow (Szczecin)
+  area_code: '931'
+- name: Trzebinia (Bielsko)
+  area_code: '30'
+- name: Trzebinia (Katowice)
+  area_code: '35'
+- name: Tuchola (Bydgoszcz)
+  area_code: '531'
+- name: Tuchow
+  area_code: '14'
+- name: Turek
+  area_code: '63'
+- name: Tuszyn
+  area_code: '42'
+- name: Tychy
+  area_code: '59'
+- name: Ustronie
+  area_code: '33'
+- name: Wabrzezno
+  area_code: '568'
+- name: Walbrzych
+  area_code: '74'
+- name: Warsaw
+  area_code: '22'
+- name: Warszawa (Warsaw)
+  area_code: '22'
+- name: Warta Boleslawiecka
+  area_code: '76'
+- name: Wieliczka
+  area_code: '12'
+- name: Wierzchoslawice (Bydgoszcz)
+  area_code: '536'
+- name: Wierzchoslawice (Tarnow)
+  area_code: '14'
+- name: Wisla
+  area_code: '54'
+- name: Wloclawek
+  area_code: '54'
+- name: Wodzislaw (Katowice)
+  area_code: '36'
+- name: Wola Rzedzinska
+  area_code: '14'
+- name: Wolbrom
+  area_code: '35'
+- name: Wolomin
+  area_code: '61'
+- name: Wroclaw
+  area_code: '71'
+- name: Wrzesnia
+  area_code: '66'
+- name: Wschowa
+  area_code: '65'
+- name: Wysokie Mazowieckie
+  area_code: '86'
+- name: Wyszkow
+  area_code: '216'
+- name: Zabkowice
+  area_code: '72'
+- name: Zabno
+  area_code: '14'
+- name: Zabrze
+  area_code: '3276'
+- name: Zakliczyn k. Myslenic (Krakow)
+  area_code: '115'
+- name: Zakliczyn n. Dunajcem (Tarnow)
+  area_code: '192'
+- name: Zakopane
+  area_code: '165'
+- name: Zambrow
+  area_code: '86'
+- name: Zamosc
+  area_code: '84'
+- name: Zawada (Opole)
+  area_code: '77'
+- name: Zawada (Tarnow)
+  area_code: '146'
+- name: Zawada (Zamosc)
+  area_code: '84'
+- name: Zawada (Zielona Gora)
+  area_code: '68'
+- name: Zawadzkie
+  area_code: '77'
+- name: Zawiercie
+  area_code: '376'
+- name: Zegiestow Zdroj
+  area_code: '18'
+- name: Zgierz
+  area_code: '42'
+- name: Ziebice
+  area_code: '72'
+- name: Zielona Gora
+  area_code: '68'
+- name: Zlotoryja
+  area_code: '76'
+- name: Zory (Katowice)
+  area_code: '36'
+- name: Zuromina
+  area_code: '23'
+- name: Zyrakow
+  area_code: '146'
+- name: Zywiec
+  area_code: '30'

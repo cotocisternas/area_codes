@@ -1,0 +1,19 @@
+---
+- name: Banks
+  area_code: '385'
+- name: Efate
+  area_code: '23'
+- name: Epi
+  area_code: '24'
+- name: Luganville
+  area_code: '36'
+- name: Maewo
+  area_code: '383'
+- name: Malekula
+  area_code: '484'
+- name: Port Vila
+  area_code: '22'
+- name: Shepherds
+  area_code: '282'
+- name: Tanna
+  area_code: '686'
