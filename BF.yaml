@@ -1,37 +1,39 @@
 ---
 - name: Banfora
-  area_code: +226    88XXXX
+  area_code: '86'
 - name: Dédougou
-  area_code: +226    52XXXX
+  area_code: '52'
 - name: Diébougou
-  area_code: +226    86XXXX
+  area_code: '86'
 - name: Dori
-  area_code: +226    66XXXX
+  area_code: '66'
 - name: Fada
-  area_code: +226    77XXXX
+  area_code: '77'
 - name: Gaoua
-  area_code: +226    87XXXX
+  area_code: '87'
 - name: Kantchari
-  area_code: +226    79XXXX
+  area_code: '79'
 - name: Kaya
-  area_code: +226    45XXXX
+  area_code: '45'
 - name: Kaya
-  area_code: 49XXXX
+  area_code: '49'
 - name: Koudougou
-  area_code: +226    44XXXX
+  area_code: '44'
 - name: Koupéla
-  area_code: +226    70XXXX
+  area_code: '70'
 - name: Orodara
-  area_code: +226    96XXXX
+  area_code: '96'
 - name: Ouagadougou
-  area_code: +226    30XXXX – 38XXXX
+  area_code: '30'
+- name: Ouagadougou
+  area_code: '38'
 - name: Ouahigouya
-  area_code: +226    55XXXX
+  area_code: '55'
 - name: Ouahigouya
-  area_code: 56XXXX
+  area_code: '56'
 - name: Tenkodogo
-  area_code: +226    71XXXX
+  area_code: '71'
 - name: Tougan
-  area_code: +226    53XXXX
+  area_code: '53'
 - name: Tougan
-  area_code: 54XXXX
+  area_code: '54'

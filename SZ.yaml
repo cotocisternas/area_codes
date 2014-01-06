@@ -1,6 +1,4 @@
 ---
-- name: All other points
-  area_code: +268    5 digits with no Cit
 - name: Bhunya
   area_code: '452'
 - name: Bhunya

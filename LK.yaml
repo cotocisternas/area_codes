@@ -2,60 +2,60 @@
 - name: Ambalangoda
   area_code: '97'
 - name: Ampara
-  area_code: +94    63 + 4 digits
+  area_code: '63'
 - name: Anuradhapura
-  area_code: +94    25 + 4 digits
+  area_code: '25'
 - name: Avissawella
-  area_code: +94    36 + 5 digits
+  area_code: '36'
 - name: Badulla
-  area_code: +94    55 + 4 digits
+  area_code: '55'
 - name: Bandarawella
-  area_code: +94    57 + 4 digits
+  area_code: '57'
 - name: Batticaloa
-  area_code: +94    65 + 4 digits
+  area_code: '65'
 - name: Chilaw
-  area_code: +94    32 + 4 digits
+  area_code: '32'
 - name: Galle
-  area_code: +94    9 + 5 digits
+  area_code: '9'
 - name: Gampaha
-  area_code: +94    33 + 5 digits
+  area_code: '33'
 - name: Hambantota
-  area_code: +94    47 + 5 digits
+  area_code: '47'
 - name: Hatton
-  area_code: +94    51 + 5 digits
+  area_code: '51'
 - name: Jaffna
-  area_code: +94    21 + 4 digits
+  area_code: '21'
 - name: Kalmunai
-  area_code: +94    67 + 4 digits
+  area_code: '67'
 - name: Kalutara
-  area_code: +94    34 + 5 digits
+  area_code: '34'
 - name: Kandy
-  area_code: +94    8 + 6 digits
+  area_code: '8'
 - name: Katagastota
   area_code: '8'
 - name: Kegalle
-  area_code: +94    35 + 4 digits
+  area_code: '35'
 - name: Kurunegala
-  area_code: +94    37 + 5 digits
+  area_code: '37'
 - name: Mannar
-  area_code: +94    23 + 4 digits
+  area_code: '23'
 - name: Matale
-  area_code: +94    66 + 4 digits
+  area_code: '66'
 - name: Mathara
-  area_code: +94    41 + 5 digits
+  area_code: '41'
 - name: Nawalapitiya
-  area_code: +94    542 + 4 digits
+  area_code: '542'
 - name: Negambo
-  area_code: +94    31 + 4 digits
+  area_code: '31'
 - name: Nuwara Eliya
-  area_code: +94    52 + 4 digits
+  area_code: '52'
 - name: Panadura
   area_code: '34'
 - name: Polonnaruwa
-  area_code: +94    27 + 4 digits
+  area_code: '27'
 - name: Ratnapura
-  area_code: +94    45 + 4 digits
+  area_code: '45'
 - name: Trincomalee
-  area_code: +94    26 + 5 digits
+  area_code: '26'
 - name: Vavuniya
-  area_code: +94    24 + 5 digits
+  area_code: '24'

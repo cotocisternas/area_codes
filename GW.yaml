@@ -1,57 +1,57 @@
 ---
 - name: Bafatá
-  area_code: +245    41XXXX
+  area_code: '41'
 - name: Bambadinca
-  area_code: +245    41XXXX
+  area_code: '41'
 - name: Bedanda
-  area_code: +245    61XXXX
+  area_code: '61'
 - name: Bigene
-  area_code: +245    32XXXX
+  area_code: '32'
 - name: Bissorã
-  area_code: +245    32XXXX
+  area_code: '32'
 - name: Bolama
-  area_code: +245    81XXXX
+  area_code: '81'
 - name: Brá
-  area_code: +245    25XXXX
+  area_code: '25'
 - name: Buba
-  area_code: +245    61XXXX
+  area_code: '61'
 - name: Bubaque
-  area_code: +245    82XXXX
+  area_code: '82'
 - name: Bula
-  area_code: +245    33XXXX
+  area_code: '33'
 - name: Cacheu
-  area_code: +245    92XXXX
+  area_code: '92'
 - name: Cacine
-  area_code: +245    61XXXX
+  area_code: '61'
 - name: Canchungo
-  area_code: +245    91XXXX
+  area_code: '91'
 - name: Caravela
-  area_code: +245    83XXXX
+  area_code: '83'
 - name: Catio
-  area_code: +245    61XXXX
+  area_code: '61'
 - name: Farim
-  area_code: +245    35XXXX
+  area_code: '35'
 - name: Fulacunda
-  area_code: +245    61XXXX
+  area_code: '61'
 - name: Gabú
-  area_code: +245    51XXXX
+  area_code: '51'
 - name: Ingore
-  area_code: +245    33XXXX
+  area_code: '33'
 - name: Mansoa
-  area_code: +245    31XXXX
+  area_code: '31'
 - name: Manssabá
-  area_code: +245    31XXXX
+  area_code: '31'
 - name: Pirada
-  area_code: +245    53XXXX
+  area_code: '53'
 - name: Quebo
-  area_code: +245    62XXXX
+  area_code: '62'
 - name: S. Domingos
-  area_code: +245    93XXXX
+  area_code: '93'
 - name: S. Luzia
-  area_code: +245    22XXXX
+  area_code: '22'
 - name: Sonaco
-  area_code: +245    52XXXX
+  area_code: '52'
 - name: Tite
-  area_code: +245    61XXXX
+  area_code: '61'
 - name: Uno
-  area_code: +245    84XXXX
+  area_code: '84'

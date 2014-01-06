@@ -38,9 +38,6 @@
 - name: Nijmegen
   area_code: '24'
 - name: Oud Zuilen
-  area_code: '30'
-- name: Oud Zuilen is part of Utrecht
-  area_code: ''
 - name: Rotterdam
   area_code: '10'
 - name: The Hague (Den Haag)

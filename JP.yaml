@@ -1,6 +1,6 @@
 ---
 - name: Cell Phones
-  area_code: +81    090 + eight digit number
+  area_code: '090'
 - name: Nagoya
   area_code: '52'
 - name: Naha
@@ -10,7 +10,7 @@
 - name: Osaka
   area_code: '66'
 - name: PHS phones
-  area_code: +81    070 + eight digit number
+  area_code: '070'
 - name: Sapporo
   area_code: '11'
 - name: Sasebo

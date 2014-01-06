@@ -1,5 +1,5 @@
 ---
 - name: Moudou
-  area_code: +235    69 plus four-digit n
+  area_code: '69'
 - name: N'djamena
   area_code: ''
