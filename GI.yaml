@@ -1,3 +1,9 @@
 ---
 - name: Gibraltar
-  area_code: '4567'
+  area_code: '4'
+- name: Gibraltar
+  area_code: '5'
+- name: Gibraltar
+  area_code: '6'
+- name: Gibraltar
+  area_code: '7'

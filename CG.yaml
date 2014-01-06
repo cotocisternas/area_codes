@@ -10,15 +10,19 @@
 - name: Likouala
   area_code: '22'
 - name: Mobile Phones - Celtel Congo
-  area_code: '525'
+  area_code: '52'
 - name: Mobile Phones - Celtel Congo
-  area_code: '355'
+  area_code: '53'
+- name: Mobile Phones - Celtel Congo
+  area_code: '55'
 - name: Mobile Phones - CYRUS
   area_code: '441'
 - name: Mobile Phones - CYRUS
   area_code: '442'
 - name: Mobile Phones - Libertis Telecom
-  area_code: '6667'
+  area_code: '66'
+- name: Mobile Phones - Libertis Telecom
+  area_code: '67'
 - name: Niari
   area_code: '25'
 - name: Plateaux

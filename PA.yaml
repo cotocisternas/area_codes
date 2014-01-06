@@ -6,4 +6,6 @@
 - name: Los Santos
   area_code: '9'
 - name: Panama City
-  area_code: '23'
+  area_code: '2'
+- name: Panama City
+  area_code: '3'

@@ -2,9 +2,13 @@
 - name: All other points
   area_code: +268    5 digits with no Cit
 - name: Bhunya
-  area_code: '452453'
+  area_code: '452'
+- name: Bhunya
+  area_code: '453'
 - name: Big Bend
-  area_code: '363364'
+  area_code: '363'
+- name: Big Bend
+  area_code: '364'
 - name: Hlathikulu
   area_code: '217'
 - name: Hluthi
@@ -22,17 +26,27 @@
 - name: Mankayane
   area_code: '538'
 - name: Manzini
-  area_code: '505506'
+  area_code: '505'
+- name: Manzini
+  area_code: '506'
 - name: Maphiveni
   area_code: '373'
 - name: Matsapha
-  area_code: '517518'
+  area_code: '517'
+- name: Matsapha
+  area_code: '518'
 - name: Mbabane
-  area_code: '404405406'
+  area_code: '404'
+- name: Mbabane
+  area_code: '405'
+- name: Mbabane
+  area_code: '406'
 - name: Mhlambanyatsi
   area_code: '467'
 - name: Mhlume
-  area_code: '312313'
+  area_code: '312'
+- name: Mhlume
+  area_code: '313'
 - name: Mpaka
   area_code: '333'
 - name: Ngwenya
@@ -46,7 +60,9 @@
 - name: Sidwashini
   area_code: '422'
 - name: Simunye
-  area_code: '382383'
+  area_code: '382'
+- name: Simunye
+  area_code: '383'
 - name: Siphocosini
   area_code: '482'
 - name: Siphofaneni
@@ -54,6 +70,8 @@
 - name: Siteki
   area_code: '343'
 - name: Tshaneni
-  area_code: '322323'
+  area_code: '322'
+- name: Tshaneni
+  area_code: '323'
 - name: Villaverde de Guadalimar
   area_code: '67'

@@ -14,9 +14,7 @@
 - name: Johannesburg
   area_code: '11'
 - name: Johannesburg CBD
-  area_code: '102'
-- name: Johannesburg CBD
-  area_code: '103'
+  area_code: '102103'
 - name: La Lucia
   area_code: '31'
 - name: Pietermaritzburg

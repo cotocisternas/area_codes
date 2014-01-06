@@ -122,9 +122,13 @@
 - name: Melo
   area_code: '64'
 - name: Mercedes
-  area_code: '53532'
+  area_code: '53'
+- name: Mercedes
+  area_code: '532'
 - name: Minas
-  area_code: '44442'
+  area_code: '44'
+- name: Minas
+  area_code: '442'
 - name: Minas de Corrales
   area_code: '658'
 - name: Mones Quintela

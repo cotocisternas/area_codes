@@ -1,32 +1,52 @@
 ---
 - name: Akershus
-  area_code: '63646667'
+  area_code: '63'
+- name: Akershus
+  area_code: '64'
+- name: Akershus
+  area_code: '66'
+- name: Akershus
+  area_code: '67'
 - name: Aust-Agder
   area_code: '37'
 - name: Buskerud
-  area_code: '3132'
+  area_code: '31'
+- name: Buskerud
+  area_code: '32'
 - name: Finnmark
   area_code: '78'
 - name: Hedmark
   area_code: '62'
 - name: Hordaland
-  area_code: '535556'
+  area_code: '53'
+- name: Hordaland
+  area_code: '55'
+- name: Hordaland
+  area_code: '56'
 - name: Møre og Romsdal
-  area_code: '7071'
+  area_code: '70'
+- name: Møre og Romsdal
+  area_code: '71'
 - name: Nord-Trøndelag
   area_code: '74'
 - name: Nordland
-  area_code: '7576'
+  area_code: '75'
+- name: Nordland
+  area_code: '76'
 - name: Oppland
   area_code: '61'
 - name: Oslo
   area_code: '2'
 - name: Rogaland
-  area_code: '5152'
+  area_code: '51'
+- name: Rogaland
+  area_code: '52'
 - name: Sogn
   area_code: '57'
 - name: Sør-Trøndelag
-  area_code: '7273'
+  area_code: '72'
+- name: Sør-Trøndelag
+  area_code: '73'
 - name: Telemark
   area_code: '35'
 - name: Troms

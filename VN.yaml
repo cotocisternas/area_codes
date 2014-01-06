@@ -1,6 +1,8 @@
 ---
 - name: An Giang
-  area_code: '7677'
+  area_code: '76'
+- name: An Giang
+  area_code: '77'
 - name: Ba Ria
   area_code: '64'
 - name: Bac Giang
@@ -12,11 +14,15 @@
 - name: Bac Ninh
   area_code: '241'
 - name: Ben Tre
-  area_code: '6275'
+  area_code: '62'
+- name: Ben Tre
+  area_code: '75'
 - name: Binh Dinh
   area_code: '56'
 - name: Binh Duong
-  area_code: '65650'
+  area_code: '65'
+- name: Binh Duong
+  area_code: '650'
 - name: Binh Phuoc
   area_code: '651'
 - name: Binh Thuan
@@ -30,7 +36,9 @@
 - name: Cuu Long
   area_code: '70'
 - name: Da Nang
-  area_code: '51511'
+  area_code: '51'
+- name: Da Nang
+  area_code: '511'
 - name: Dak Lak
   area_code: '50'
 - name: Dong Nai

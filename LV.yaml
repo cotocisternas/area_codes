@@ -32,7 +32,11 @@
 - name: Madona
   area_code: '48'
 - name: Mobile Phones
-  area_code: '596061'
+  area_code: '59'
+- name: Mobile Phones
+  area_code: '60'
+- name: Mobile Phones
+  area_code: '61'
 - name: Ogre
   area_code: '50'
 - name: Preili
@@ -40,7 +44,11 @@
 - name: Rezekne
   area_code: '46'
 - name: Riga
-  area_code: '72829'
+  area_code: '7'
+- name: Riga
+  area_code: '28'
+- name: Riga
+  area_code: '29'
 - name: Saldus
   area_code: '38'
 - name: Talsi

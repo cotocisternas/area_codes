@@ -28,7 +28,9 @@
 - name: Mobile Phones - Camtel AMPS
   area_code: '18'
 - name: Mobile Phones - Casacom
-  area_code: '1516'
+  area_code: '15'
+- name: Mobile Phones - Casacom
+  area_code: '16'
 - name: Mondolkiri
   area_code: '73'
 - name: Pailin

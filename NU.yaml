@@ -1,3 +1,5 @@
 ---
 - name: Alofi
-  area_code: '134'
+  area_code: '1'
+- name: Alofi
+  area_code: '34'

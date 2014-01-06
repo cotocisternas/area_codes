@@ -14,11 +14,15 @@
 - name: Krapina
   area_code: '49'
 - name: Mobile Phones - T-Mobile
-  area_code: '9899'
+  area_code: '98'
+- name: Mobile Phones - T-Mobile
+  area_code: '99'
 - name: Mobile Phones - Tele 2
   area_code: '95'
 - name: Mobile Phones - VIP
-  area_code: '9192'
+  area_code: '91'
+- name: Mobile Phones - VIP
+  area_code: '92'
 - name: Osijek
   area_code: '31'
 - name: Pazin

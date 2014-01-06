@@ -1,3 +1,5 @@
 ---
 - name: San Juan
-  area_code: '787939'
+  area_code: '787'
+- name: San Juan
+  area_code: '939'

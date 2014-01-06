@@ -148,9 +148,13 @@
 - name: Busko Zdroj
   area_code: '52'
 - name: Bydgoszcz
-  area_code: '3252'
+  area_code: '32'
+- name: Bydgoszcz
+  area_code: '52'
 - name: Bytom
-  area_code: '3282'
+  area_code: '32'
+- name: Bytom
+  area_code: '82'
 - name: Chelmza
   area_code: '56'
 - name: Chocholow
@@ -220,7 +224,9 @@
 - name: Gizycko
   area_code: '878'
 - name: Gliwice
-  area_code: '3276'
+  area_code: '32'
+- name: Gliwice
+  area_code: '76'
 - name: Glogow Malopolski (Rzeszow)
   area_code: '17'
 - name: Glogowek
@@ -312,7 +318,9 @@
 - name: Kartuzy
   area_code: '32'
 - name: Katowice
-  area_code: '3271'
+  area_code: '32'
+- name: Katowice
+  area_code: '71'
 - name: Kedzierzyn-Kozle
   area_code: '794'
 - name: Kepno
@@ -330,7 +338,9 @@
 - name: Klodawa (Konin)
   area_code: '636'
 - name: Klucze
-  area_code: '35376'
+  area_code: '35'
+- name: Klucze
+  area_code: '376'
 - name: Knurow
   area_code: '136'
 - name: Kolbuszowa
@@ -560,7 +570,9 @@
 - name: Poznan
   area_code: '61'
 - name: Pruszkow
-  area_code: '22196'
+  area_code: '22'
+- name: Pruszkow
+  area_code: '196'
 - name: Przeclaw (Szczecin)
   area_code: '91'
 - name: Przemysl
@@ -582,7 +594,9 @@
 - name: Radomsko
   area_code: '457'
 - name: Raszyn
-  area_code: '2265'
+  area_code: '22'
+- name: Raszyn
+  area_code: '65'
 - name: Reda
   area_code: '58'
 - name: Resko
@@ -638,7 +652,9 @@
 - name: Sopot
   area_code: '58'
 - name: Sosnowiec
-  area_code: '32667'
+  area_code: '32'
+- name: Sosnowiec
+  area_code: '667'
 - name: Sroda Slaska
   area_code: '71'
 - name: Sroda Wielkopolska (Poznan)
@@ -714,7 +730,9 @@
 - name: Tomaszow Mazowiecki
   area_code: '44'
 - name: Torun
-  area_code: '5556'
+  area_code: '55'
+- name: Torun
+  area_code: '56'
 - name: Trzebiatow (Szczecin)
   area_code: '931'
 - name: Trzebinia (Bielsko)
@@ -776,7 +794,9 @@
 - name: Zabno
   area_code: '14'
 - name: Zabrze
-  area_code: '3276'
+  area_code: '32'
+- name: Zabrze
+  area_code: '76'
 - name: Zakliczyn k. Myslenic (Krakow)
   area_code: '115'
 - name: Zakliczyn n. Dunajcem (Tarnow)

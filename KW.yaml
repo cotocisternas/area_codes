@@ -4,51 +4,163 @@
 - name: Ahmadi
   area_code: '398'
 - name: Ahmadi & Umm-Alhaiman
-  area_code: '327328'
+  area_code: '327'
+- name: Ahmadi & Umm-Alhaiman
+  area_code: '328'
 - name: Ardhiyah
-  area_code: '480488489'
+  area_code: '480'
+- name: Ardhiyah
+  area_code: '488'
+- name: Ardhiyah
+  area_code: '489'
 - name: Fahaheel
-  area_code: '391392'
+  area_code: '391'
+- name: Fahaheel
+  area_code: '392'
 - name: Farwaniah
-  area_code: '471472473474476'
+  area_code: '471'
+- name: Farwaniah
+  area_code: '472'
+- name: Farwaniah
+  area_code: '473'
+- name: Farwaniah
+  area_code: '474'
+- name: Farwaniah
+  area_code: '476'
 - name: Free Trade Zone
   area_code: '461'
 - name: Funtas
   area_code: '390'
 - name: Hawalli
-  area_code: '261262263264265266'
+  area_code: '261'
+- name: Hawalli
+  area_code: '262'
+- name: Hawalli
+  area_code: '263'
+- name: Hawalli
+  area_code: '264'
+- name: Hawalli
+  area_code: '265'
+- name: Hawalli
+  area_code: '266'
 - name: Jaber Al-Ali
-  area_code: '383384'
+  area_code: '383'
+- name: Jaber Al-Ali
+  area_code: '384'
 - name: Jabriyah
-  area_code: '531532533534'
+  area_code: '531'
+- name: Jabriyah
+  area_code: '532'
+- name: Jabriyah
+  area_code: '533'
+- name: Jabriyah
+  area_code: '534'
 - name: Jahra
   area_code: '477'
 - name: Jahra-B
-  area_code: '455456457458'
+  area_code: '455'
+- name: Jahra-B
+  area_code: '456'
+- name: Jahra-B
+  area_code: '457'
+- name: Jahra-B
+  area_code: '458'
 - name: Jaleeb Al-Shuyoukh
   area_code: '431'
 - name: Manqaf & Shuiba
-  area_code: '371372376'
+  area_code: '371'
+- name: Manqaf & Shuiba
+  area_code: '372'
+- name: Manqaf & Shuiba
+  area_code: '376'
 - name: Mushrif
   area_code: '538'
 - name: Nuzha
-  area_code: '224251252253254255256257258259'
+  area_code: '224'
+- name: Nuzha
+  area_code: '251'
+- name: Nuzha
+  area_code: '252'
+- name: Nuzha
+  area_code: '253'
+- name: Nuzha
+  area_code: '254'
+- name: Nuzha
+  area_code: '255'
+- name: Nuzha
+  area_code: '256'
+- name: Nuzha
+  area_code: '257'
+- name: Nuzha
+  area_code: '258'
+- name: Nuzha
+  area_code: '259'
 - name: Qurain
-  area_code: '541542543544'
+  area_code: '541'
+- name: Qurain
+  area_code: '542'
+- name: Qurain
+  area_code: '543'
+- name: Qurain
+  area_code: '544'
 - name: Ras Salmiyah
-  area_code: '571572573574575'
+  area_code: '571'
+- name: Ras Salmiyah
+  area_code: '572'
+- name: Ras Salmiyah
+  area_code: '573'
+- name: Ras Salmiyah
+  area_code: '574'
+- name: Ras Salmiyah
+  area_code: '575'
 - name: Rekka
-  area_code: '394396'
+  area_code: '394'
+- name: Rekka
+  area_code: '396'
 - name: Sabah Salem
-  area_code: '551552'
+  area_code: '551'
+- name: Sabah Salem
+  area_code: '552'
 - name: Safat
-  area_code: '240241242243244245246247248249'
+  area_code: '240'
+- name: Safat
+  area_code: '241'
+- name: Safat
+  area_code: '242'
+- name: Safat
+  area_code: '243'
+- name: Safat
+  area_code: '244'
+- name: Safat
+  area_code: '245'
+- name: Safat
+  area_code: '246'
+- name: Safat
+  area_code: '247'
+- name: Safat
+  area_code: '248'
+- name: Safat
+  area_code: '249'
 - name: Salmiyah
-  area_code: '561562563564565'
+  area_code: '561'
+- name: Salmiyah
+  area_code: '562'
+- name: Salmiyah
+  area_code: '563'
+- name: Salmiyah
+  area_code: '564'
+- name: Salmiyah
+  area_code: '565'
 - name: Shuwaikh
-  area_code: '481483484'
+  area_code: '481'
+- name: Shuwaikh
+  area_code: '483'
+- name: Shuwaikh
+  area_code: '484'
 - name: South Subahiyah
-  area_code: '361362'
+  area_code: '361'
+- name: South Subahiyah
+  area_code: '362'
 - name: Sulaibikhat
   area_code: '487'
 - name: Sulaibiyah

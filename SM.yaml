@@ -1,3 +1,11 @@
 ---
 - name: San Marino
-  area_code: 06789
+  area_code: '0'
+- name: San Marino
+  area_code: '6'
+- name: San Marino
+  area_code: '7'
+- name: San Marino
+  area_code: '8'
+- name: San Marino
+  area_code: '9'

@@ -1,9 +1,31 @@
 ---
 - name: Belep
-  area_code: '4247'
+  area_code: '42'
+- name: Belep
+  area_code: '47'
 - name: Boulouparis
-  area_code: '3541434446'
+  area_code: '35'
+- name: Boulouparis
+  area_code: '41'
+- name: Boulouparis
+  area_code: '43'
+- name: Boulouparis
+  area_code: '44'
+- name: Boulouparis
+  area_code: '46'
 - name: Lifou
   area_code: '45'
 - name: Nouméa
-  area_code: '23242526272829'
+  area_code: '23'
+- name: Nouméa
+  area_code: '24'
+- name: Nouméa
+  area_code: '25'
+- name: Nouméa
+  area_code: '26'
+- name: Nouméa
+  area_code: '27'
+- name: Nouméa
+  area_code: '28'
+- name: Nouméa
+  area_code: '29'

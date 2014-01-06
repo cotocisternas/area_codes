@@ -2,4 +2,6 @@
 - name: Ebeye Islandd, Kwajelien Atoll
   area_code: '329'
 - name: Majuro Island, Majuro Atoll
-  area_code: '247528'
+  area_code: '247'
+- name: Majuro Island, Majuro Atoll
+  area_code: '528'

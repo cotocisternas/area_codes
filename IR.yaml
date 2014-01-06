@@ -14,9 +14,7 @@
 - name: Booyerahmad
   area_code: '74'
 - name: Chaharmahal
-  area_code: '772'
-- name: Chaharmahal
-  area_code: '773'
+  area_code: '772773'
 - name: Ealam (Ilam)
   area_code: '842'
 - name: Eastern Azerbayajan
@@ -90,9 +88,9 @@
 - name: Kohgelouyeh
   area_code: '74'
 - name: Kordestan
-  area_code: '872'
-- name: Kordestan
   area_code: '875'
+- name: Kordestan
+  area_code: '872'
 - name: Lorestan
   area_code: '663'
 - name: Markazi
@@ -124,7 +122,7 @@
 - name: Sistan
   area_code: '54'
 - name: Tehran
-  area_code: '21'
+  area_code: +98    21 (Tehran City)
 - name: Western Azerbayajan
   area_code: '443'
 - name: Western Azerbayajan

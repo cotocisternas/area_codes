@@ -4,10 +4,10 @@
 - name: Harare
   area_code: '4'
 - name: Mobile Phones - Econet
-  area_code: '091'
+  area_code: +263    091 + six digits
 - name: Mobile Phones - NetOne
-  area_code: '011'
+  area_code: +263    011 + six digits
 - name: Mobile Phones - Telecel Zimbab
-  area_code: '023'
+  area_code: +263    023 + six digits
 - name: Mutare
   area_code: '20'

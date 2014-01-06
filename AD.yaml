@@ -1,15 +1,27 @@
 ---
 - name: Andorra la Vella
-  area_code: '78'
+  area_code: '7'
+- name: Andorra la Vella
+  area_code: '8'
 - name: Canilo
-  area_code: '78'
+  area_code: '7'
+- name: Canilo
+  area_code: '8'
 - name: Encamp
-  area_code: '78'
+  area_code: '7'
+- name: Encamp
+  area_code: '8'
 - name: La Massana
-  area_code: '78'
+  area_code: '7'
+- name: La Massana
+  area_code: '8'
 - name: Mobile Phones
   area_code: '3'
 - name: Ordino
-  area_code: '78'
+  area_code: '7'
+- name: Ordino
+  area_code: '8'
 - name: Sant Julia de Loria
-  area_code: '78'
+  area_code: '7'
+- name: Sant Julia de Loria
+  area_code: '8'

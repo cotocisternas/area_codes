@@ -11,12 +11,28 @@
   area_code: '3'
 - name: La Paz
   area_code: '2'
-- name: Mobile Phones - Entel (GSM 190)
+- name: Mobile Phones - Entel (GSM 190
+  area_code: '720'
+- name: Mobile Phones - Entel (GSM 190
+  area_code: '721'
+- name: Mobile Phones - Entel (GSM 190
   area_code: '72'
+- name: Mobile Phones - Entel (TDMA)
+  area_code: '710'
+- name: Mobile Phones - Entel (TDMA)
+  area_code: '711'
 - name: Mobile Phones - Entel (TDMA)
   area_code: '71'
 - name: Mobile Phones - Telecel
+  area_code: '770'
+- name: Mobile Phones - Telecel
+  area_code: '771'
+- name: Mobile Phones - Telecel
   area_code: '77'
+- name: Mobile Phones - Viva
+  area_code: '706'
+- name: Mobile Phones - Viva
+  area_code: '707'
 - name: Mobile Phones - Viva
   area_code: '70'
 - name: Oruro

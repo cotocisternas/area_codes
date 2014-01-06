@@ -48,7 +48,9 @@
 - name: Mobile Phones - Geocell
   area_code: '77'
 - name: Mobile Phones - Magti Com
-  area_code: '9399'
+  area_code: '93'
+- name: Mobile Phones - Magti Com
+  area_code: '99'
 - name: Ninotsminda
   area_code: '361'
 - name: Ozurgeti

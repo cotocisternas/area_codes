@@ -18,7 +18,9 @@
 - name: Kanton Sarajevo
   area_code: '33'
 - name: Mobile Phones - BH Telecom
-  area_code: '6162'
+  area_code: '61'
+- name: Mobile Phones - BH Telecom
+  area_code: '62'
 - name: Mobile Phones - Eronet
   area_code: '63'
 - name: Mobile Phones - Moblna Skpske

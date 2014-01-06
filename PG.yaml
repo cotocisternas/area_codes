@@ -1,17 +1,69 @@
 ---
 - name: Alotau/Daru/Kerema
-  area_code: '3464'
+  area_code: '34'
+- name: Alotau/Daru/Kerema
+  area_code: '64'
 - name: Arawa/Rabaul
-  area_code: '95969798'
+  area_code: '95'
+- name: Arawa/Rabaul
+  area_code: '96'
+- name: Arawa/Rabaul
+  area_code: '97'
+- name: Arawa/Rabaul
+  area_code: '98'
 - name: Goroka
-  area_code: '7071727374'
+  area_code: '70'
+- name: Goroka
+  area_code: '71'
+- name: Goroka
+  area_code: '72'
+- name: Goroka
+  area_code: '73'
+- name: Goroka
+  area_code: '74'
 - name: Lae and Manus/Morobe
-  area_code: '45464849'
+  area_code: '45'
+- name: Lae and Manus/Morobe
+  area_code: '46'
+- name: Lae and Manus/Morobe
+  area_code: '48'
+- name: Lae and Manus/Morobe
+  area_code: '49'
 - name: Lae/Manus
   area_code: '47'
 - name: Madang/Wewal
-  area_code: '84858687'
+  area_code: '84'
+- name: Madang/Wewal
+  area_code: '85'
+- name: Madang/Wewal
+  area_code: '86'
+- name: Madang/Wewal
+  area_code: '87'
 - name: Mt. Hagen
-  area_code: '5253545556'
+  area_code: '52'
+- name: Mt. Hagen
+  area_code: '53'
+- name: Mt. Hagen
+  area_code: '54'
+- name: Mt. Hagen
+  area_code: '55'
+- name: Mt. Hagen
+  area_code: '56'
 - name: Port Moresby
-  area_code: '303132333536373839'
+  area_code: '30'
+- name: Port Moresby
+  area_code: '31'
+- name: Port Moresby
+  area_code: '32'
+- name: Port Moresby
+  area_code: '33'
+- name: Port Moresby
+  area_code: '35'
+- name: Port Moresby
+  area_code: '36'
+- name: Port Moresby
+  area_code: '37'
+- name: Port Moresby
+  area_code: '38'
+- name: Port Moresby
+  area_code: '39'

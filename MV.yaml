@@ -4,39 +4,79 @@
 - name: Alif Dhaalu
   area_code: '668'
 - name: Baa
-  area_code: '23660'
+  area_code: '23'
+- name: Baa
+  area_code: '660'
 - name: Dhaalu
   area_code: '46'
 - name: Faafu
   area_code: '674'
 - name: Gaafu Alifu
-  area_code: '51682'
+  area_code: '51'
+- name: Gaafu Alifu
+  area_code: '682'
 - name: Gaafu Dhaalu
-  area_code: '52684'
+  area_code: '52'
+- name: Gaafu Dhaalu
+  area_code: '684'
 - name: Gnaviyani
-  area_code: '54686'
+  area_code: '54'
+- name: Gnaviyani
+  area_code: '686'
 - name: Haa Alif
-  area_code: '20650'
+  area_code: '20'
+- name: Haa Alif
+  area_code: '650'
 - name: Haa Dhaalu
-  area_code: '21652'
+  area_code: '21'
+- name: Haa Dhaalu
+  area_code: '652'
 - name: Hulumale'
-  area_code: '35335'
+  area_code: '35'
+- name: Hulumale'
+  area_code: '335'
 - name: Kaafu
-  area_code: '44664'
+  area_code: '44'
+- name: Kaafu
+  area_code: '664'
 - name: Laamu
-  area_code: '47680'
+  area_code: '47'
+- name: Laamu
+  area_code: '680'
 - name: Lhaviyani
   area_code: '662'
 - name: Male'
-  area_code: '31323234331332333334'
+  area_code: '31'
+- name: Male'
+  area_code: '32'
+- name: Male'
+  area_code: '32'
+- name: Male'
+  area_code: '34'
+- name: Male'
+  area_code: '331'
+- name: Male'
+  area_code: '332'
+- name: Male'
+  area_code: '333'
+- name: Male'
+  area_code: '334'
 - name: Meemu
   area_code: '672'
 - name: Noonu
-  area_code: '22656'
+  area_code: '22'
+- name: Noonu
+  area_code: '656'
 - name: Raa
   area_code: '658'
 - name: Seenu
-  area_code: '5758688689'
+  area_code: '57'
+- name: Seenu
+  area_code: '58'
+- name: Seenu
+  area_code: '688'
+- name: Seenu
+  area_code: '689'
 - name: Shaviyani
   area_code: '654'
 - name: Thaa
@@ -44,4 +84,6 @@
 - name: Vaavu
   area_code: '670'
 - name: Villingili
-  area_code: '39339'
+  area_code: '39'
+- name: Villingili
+  area_code: '339'

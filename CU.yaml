@@ -276,7 +276,9 @@
 - name: Matanzas
   area_code: '52'
 - name: Maximo Gomez
-  area_code: '533'
+  area_code: '5'
+- name: Maximo Gomez
+  area_code: '33'
 - name: Mayari
   area_code: '24'
 - name: Media Luna

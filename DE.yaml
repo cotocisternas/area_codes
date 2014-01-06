@@ -50,6 +50,10 @@
 - name: Mannheim
   area_code: '621'
 - name: Mobile Phones
+  area_code: '172'
+- name: Mobile Phones
+  area_code: '173'
+- name: Mobile Phones
   area_code: '17'
 - name: Munich
   area_code: '89'

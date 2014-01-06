@@ -274,7 +274,9 @@
 - name: Dumbrava Rosie
   area_code: '233'
 - name: Dumbraveni
-  area_code: '230269'
+  area_code: '230'
+- name: Dumbraveni
+  area_code: '269'
 - name: Eforie Nord
   area_code: '241'
 - name: Eforie Sud

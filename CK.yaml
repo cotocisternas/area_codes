@@ -1,6 +1,8 @@
 ---
 - name: Aitutaki
-  area_code: '3132'
+  area_code: '31'
+- name: Aitutaki
+  area_code: '32'
 - name: Atiu
   area_code: '33'
 - name: Mangaia

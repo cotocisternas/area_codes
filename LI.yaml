@@ -1,3 +1,7 @@
 ---
 - name: Vaduz
-  area_code: '234'
+  area_code: '2'
+- name: Vaduz
+  area_code: '3'
+- name: Vaduz
+  area_code: '4'
